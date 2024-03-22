@@ -5,12 +5,13 @@ from dataclasses import dataclass
 from typing import Any, Optional, Union
 
 import numpy as np
-import prompts
 from datasets import load_dataset
 from torch.utils.data import Dataset
 from tqdm import tqdm
 from transformers import BatchEncoding, PreTrainedTokenizerBase
 from transformers.utils import PaddingStrategy
+
+import prompts
 
 
 def prepare_data(

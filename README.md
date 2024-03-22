@@ -37,9 +37,11 @@ The summary is:
 Que los estudiantes vuelven a clase.
 ```
 
-<p align="center">
-    <img src="results/Results.png" style="height: 500px;">
-</p>
+<table>
+<tr>   
+<td style="width:100%"><img src="https://github.com/ikergarcia1996/NoticIA/raw/main/results/Results.png" align="right" width="100%"> </td>
+</tr>
+</table>
 
 
 ## Dataset
