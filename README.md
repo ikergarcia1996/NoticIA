@@ -36,6 +36,12 @@ The summary is:
 ```
 Que los estudiantes vuelven a clase.
 ```
+
+<p align="center">
+    <img src="results/Results.png" style="height: 250px;">
+</p>
+
+
 ## Dataset
 
 The easiest and recommended way to download the dataset is using the 🤗HuggingFace Hub. See the [Dataset Card](https://huggingface.co/datasets/Iker/NoticIA) for more information about the dataset.
