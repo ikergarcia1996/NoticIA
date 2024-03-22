@@ -38,7 +38,7 @@ Que los estudiantes vuelven a clase.
 ```
 
 <p align="center">
-    <img src="results/Results.png" style="height: 250px;">
+    <img src="results/Results.png" style="height: 450px;">
 </p>
 
 
