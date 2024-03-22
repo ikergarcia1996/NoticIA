@@ -1,0 +1,59 @@
+#Training args
+model_name_or_path: CohereForAI/c4ai-command-r-v01
+torch_dtype: float16
+trust_remote_code: true
+use_lora: false
+quantization_inference: null
+gradient_checkpointing: true
+force_auto_device_map: false
+use_flash_attention: false # Not supported yet
+deepspeed: configs/deepspeed_configs/deepspeed_zero3.json
+generation_config: generation_config.json
+stop_words:
+  - "<|START_OF_TURN_TOKEN|>"
+  - "<|CHATBOT_TOKEN|>"
+  - "<|END_OF_TURN_TOKEN|>"
+  - "<|USER_TOKEN|>"
+  - "<<BOS_TOKEN>"
+  - "</s>"
+  - "<s>"
+  - "\\n"
+
+# dataset arguments
+train_datasets:
+  - train
+validation_datasets:
+  - validation
+test_datasets:
+  - test
+max_seq_length: 8192
+generation_max_length: 8192
+
+# checkpoint settings
+output_dir: results/zero/c4ai-command-r-v01
+overwrite_output_dir: true
+
+# evaluation
+do_train: false
+do_eval: false
+do_predict: true
+predict_with_generate: true
+
+per_device_eval_batch_size: 1
+generation_num_beams: 1
+
+
+# reporting
+logging_strategy: steps
+logging_first_step: true
+logging_steps: 5
+report_to: wandb
+run_name: "c4ai-command-r-v01"
+disable_tqdm: false
+
+
+# performance
+bf16: false
+fp16: true
+torch_compile: false
+ddp_find_unused_parameters: false

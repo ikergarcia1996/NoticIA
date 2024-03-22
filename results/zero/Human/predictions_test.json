@@ -1,0 +1,402 @@
+[
+    {
+        "prediction": "No le ha gustado por que \"es de vieja\". ",
+        "gold": "\"El abrigo \"es de vieja\", ha opinado la mujer\""
+    },
+    {
+        "prediction": "El regreso a clases para muchos estudiantes.",
+        "gold": "\"el regreso a clases\""
+    },
+    {
+        "prediction": "Las contracciones de los nombres.",
+        "gold": "\"las contracciones de los nombres\""
+    },
+    {
+        "prediction": "Mejor Navidad ¡imposible!",
+        "gold": "\"Mejor Navidad ¡imposible!\""
+    },
+    {
+        "prediction": "Los usuarios de estos vehículos pueden continuar llevando sus bicicletas en los trenes.",
+        "gold": "\"pueden continuar llevando sus bicicletas en los trenes\""
+    },
+    {
+        "prediction": "Ha habido gritos de ¡presidenta, presidenta!",
+        "gold": "\"ha sido recibida al ritmo de su grupo preferido\""
+    },
+    {
+        "prediction": "Jürgen Klopp quiere hacer rotaciones en el equipo para evitar lesiones.",
+        "gold": "\"entrar en un proceso de manejo de cargas para evitar lesiones\""
+    },
+    {
+        "prediction": "Mediaset podría poner a Ángeles Blanco (esposa de Vallés) en el informativo de la misma hora que el de su marido.",
+        "gold": "\"Ángeles Blanco es la esposa de Vicente Vallés\""
+    },
+    {
+        "prediction": "Todos los premios superiores a 40.000 euros tributan un 20%. ",
+        "gold": "\"el 20 % de las ganancias\""
+    },
+    {
+        "prediction": "Macarena Gómez: \"José Luis tiene dificultad para hablar, pero él entiende todo lo que está pasando. Me da mucha pena, es un ser extremadamente inteligente y culto\".",
+        "gold": "\"tiene dificultad para hablar\""
+    },
+    {
+        "prediction": "La mayor parte de los artículos están envueltos en plástico.",
+        "gold": "\"casi todo va envasado en plástico\""
+    },
+    {
+        "prediction": "Albert Infante.",
+        "gold": "\"Albert Infante\""
+    },
+    {
+        "prediction": "Premio al juego limpio al recibir solo una amarilla. ",
+        "gold": "\"premio Fair Play\""
+    },
+    {
+        "prediction": "Descartó una de las especulaciones más importantes sobre el guion del filme: que parte de las acciones se desarrollarán en Oriente Medio.",
+        "gold": "\"la línea argumental más importante de Superman: Legacy no se alejará de Metrópolis\""
+    },
+    {
+        "prediction": "Según la medicina tradicional china, hay que presionar entre las cejas. ",
+        "gold": "\"entre las cejas\""
+    },
+    {
+        "prediction": "Tener que saltar el potro. ",
+        "gold": "\"Cuando pasé a bachillerato, al BUP, estaba el potro y pasé unos días pensando que tenía saltar el potro y hacer deporte, muy malos\""
+    },
+    {
+        "prediction": " \"Para hacer el vestido de la Pedroche necesitas... un rollo de papel de plástico, pincel y pintura turquesa\".",
+        "gold": "\"necesitas... un rollo de papel de plastico pincel y pintura turquesa\""
+    },
+    {
+        "prediction": "El juego de las canciones no fue un montaje. ",
+        "gold": "\"acertó las canciones porque las sabía\""
+    },
+    {
+        "prediction": "Se refiere a que no le gusta la falta de respeto. ",
+        "gold": "Tamara Falcó no es celosa pero cualquier indicio de falta de respeto le empujaría a romper con su pareja."
+    },
+    {
+        "prediction": "La isla de La Palma.",
+        "gold": "La isla de la Palma"
+    },
+    {
+        "prediction": "La rapidez con la que se vive en esta ciudad y lo rápido que camina la gente.",
+        "gold": "La rapidez con la que se vive en esta ciudad."
+    },
+    {
+        "prediction": "Tenemos entre 30 y 45 minutos.",
+        "gold": "entre 30 y 45 minutos"
+    },
+    {
+        "prediction": "900.000 euros.",
+        "gold": "Otorgan 10 millones de coronas suecas a sus ganadores pero el dinero no convierte a los laureados en millonarios."
+    },
+    {
+        "prediction": "Tres meses de gastos.",
+        "gold": "Tres meses de gastos"
+    },
+    {
+        "prediction": "Se encuentra con el Juvenil A por que juega importantes partidos próximamente. ",
+        "gold": "Marc Guiu está en dinámica del Juvenil A."
+    },
+    {
+        "prediction": "La pizza con calabaza de Baldoria.",
+        "gold": "La pizza con calabaza de Baldoria"
+    },
+    {
+        "prediction": "Paula Vázquez, por que vivió en l'Hospitalet de los 11 a los 18 años. ",
+        "gold": "Vivió de los 11 a los 18 años allí."
+    },
+    {
+        "prediction": "Se debe a que era de gente que las subasta en internet.",
+        "gold": "Es gente que las subasta o vende en Internet."
+    },
+    {
+        "prediction": "No hay secretos.",
+        "gold": "\"No hay secretos\" para un matrimonio duradero sino que solo hay que \"querer estar juntos.\""
+    },
+    {
+        "prediction": "\"Reconozco que yo le he entregado todo el poder a Teodoro\".",
+        "gold": "Casado, es ‘número dos’, le ha entregado todo el poder a Teodoro."
+    },
+    {
+        "prediction": "Hamburguesas.",
+        "gold": "\"hamburguesas\""
+    },
+    {
+        "prediction": "Han realizado un posado familiar. ",
+        "gold": "\"un posado familiar y unas imágenes muy románticas\""
+    },
+    {
+        "prediction": "Recalentarla en la sartén.",
+        "gold": "\"recalentarla en la sartén\""
+    },
+    {
+        "prediction": "Un iPhone con la pantalla como único elemento frontal.",
+        "gold": "\"un iPhone con la pantalla como único elemento frontal\""
+    },
+    {
+        "prediction": "22 de junio.",
+        "gold": "22 de junio de 2023"
+    },
+    {
+        "prediction": "Debe jugar \"lo mejor que pueda cuando es necesario\" para así gestionar mejor sus esfuerzos.",
+        "gold": "\"debe jugar \"lo mejor que pueda cuando es necesario\"\""
+    },
+    {
+        "prediction": "Las patas traseras de dos crías de dinosaurio.",
+        "gold": "\"Las patas traseras de dos crías de dinosaurio\""
+    },
+    {
+        "prediction": "Cuando le dijeron que harían un reportaje de Daniel Sancho, le parecía que ya había demasiados periodistas hablando del tema y que no tenían nada nuevo que explicar. ",
+        "gold": "\"Hace dos meses que ya hay doscientos periodistas españoles explicando todo lo relacionado con el crimen cometido por el hijo de Rodolfo Sancho.\""
+    },
+    {
+        "prediction": "No dicen cual es el mejor, depende de tus preferencias. ",
+        "gold": "\"Google Assistant\""
+    },
+    {
+        "prediction": "Mantuvieron una conversación de unos segundos que captaron las cámaras en directo.",
+        "gold": "Díaz mostró su lado más afectuoso con Sánchez"
+    },
+    {
+        "prediction": "Savinho y a Vitor Roque no van convocados al preolímpico, Endrick y Vinicius Tobias sí.",
+        "gold": "Savinho y Vitor Roque no aparecen entre los convocados del perolímpico."
+    },
+    {
+        "prediction": "Si el premio es mayor de 2.000 euros sólo se podrá cobrar en 2 bancos: BBVA y CaixaBank (antes eran 8 bancos)",
+        "gold": "La Selae ha reducido a solo dos las entidades en las que cobrar el premio: BBVA y CaixaBank."
+    },
+    {
+        "prediction": "21 de marzo de 2024.",
+        "gold": "\"21 de marzo de 2024\""
+    },
+    {
+        "prediction": "De acuerdo con Transfermarkt, El FC Barcelona tendría un valor aproximado de 862 millones de euros, mientras que el América apenas valdría 87 millones.",
+        "gold": "\"862 millones de euros\""
+    },
+    {
+        "prediction": "Se ha roto el ligamento cruzado.",
+        "gold": "\"se ha toto el ligamento cruzado\""
+    },
+    {
+        "prediction": "Se ha ido el periodista Borja Mazarro.",
+        "gold": "\"Borja Mazarro\""
+    },
+    {
+        "prediction": "50.000€ por décimo.",
+        "gold": "\"500 mil euros por serie\""
+    },
+    {
+        "prediction": "Robert Lewandowski, según El Chiringuito de Jugones.",
+        "gold": "\"Lewandowski\""
+    },
+    {
+        "prediction": "Cerro Porteño.",
+        "gold": "\"Cerro Porteño\""
+    },
+    {
+        "prediction": "\"Plátanos, melones y fresas... las fresas sobran. Si tenemos los melones y tenemos el plátano, pues vamos a hacer una macedonia. ¿A qué estamos esperando? A conocernos mejor, no caernos bien y perdernos la oportunidad de disfrutar el momento. Es que es absurdo\".",
+        "gold": "\"Si tenemos los melones y tenemos el plátano, pues vamos a hacer una macedonia.\""
+    },
+    {
+        "prediction": "“Su esposa estaba fuera de la habitación con los niños”.",
+        "gold": "\"Su esposa estaba fuera de la habitación con los niños\""
+    },
+    {
+        "prediction": "Ha caído en Albacete, Alicante, Almería, Asturias, Badajoz, Islas Baleares, Barcelona, Cáceres, Cádiz, Ciudad Real, A Coruña, Granada, Huelva, Jaén, Madrid, Málaga, Murcia, Ourense, Pontevedra, Sevilla, Tarragona, Teruel, Toledo, Valencia, Valladolid y Vizcaya.",
+        "gold": "\"Albacete, Alicante, Almería, Asturias, Badajoz, Islas Baleares, Barcelona, Cáceres, Cádiz, Ciudad Real, A Coruña, Granada, Huelva, Jaén, Madrid, Málaga, Murcia, Ourense, Pontevedra, Sevilla, Tarragona, Teruel, Toledo, Valencia, Valladolid y Vizcaya.\""
+    },
+    {
+        "prediction": "Estaba escuchando algo por los auriculares del móvil.",
+        "gold": "Estaba con los auriculares"
+    },
+    {
+        "prediction": "El licor crema de fresa con tequila. Se trata de un artículo publicitario. ",
+        "gold": "\"licor crema de fresa con tequila\""
+    },
+    {
+        "prediction": "El aire muy frío confinado en el Ártico puede ser liberado hacia latitudes más baja.",
+        "gold": "\"unas temperaturas que estaría muy por debajo de lo que sería habitual\""
+    },
+    {
+        "prediction": "Malú, Pedro Alonso, Begoña Vargas e Isabel Preysler.",
+        "gold": "\"Malú, Pedro Alonso, Begoña Vargas e Isabel Preysler\""
+    },
+    {
+        "prediction": "222 minutos por persona y día.",
+        "gold": "\"222 minutos por persona y día\""
+    },
+    {
+        "prediction": "Le preguntó si había entrenado sus adominales con Cristiano Ronaldo y respondió que sí.",
+        "gold": "Edu Aguirre entrenó sus abdominales con Cristiano Ronaldo."
+    },
+    {
+        "prediction": "\"Sorry, I don't speak tiroteo escolar, muerte por fentanilo and arruinado por facturas médicas\".",
+        "gold": "\"Sorry, I don't speak tiroteo escolar, muerte por fentanilo and arruinado por facturas médicas\""
+    },
+    {
+        "prediction": "El 75% de los encuestados alguna vez se sintieron estafados al pagar por contenido en la plataforma.",
+        "gold": "\"ha atraído la atención de los estafadores\""
+    },
+    {
+        "prediction": "Bocados marinados.",
+        "gold": "\"bocados marinados\""
+    },
+    {
+        "prediction": "Volver a dónde de Antonio Muñoz Molina.",
+        "gold": "\"Volver a dónde\""
+    },
+    {
+        "prediction": "Silenciar al contacto.",
+        "gold": "\"silenciar la conversación\""
+    },
+    {
+        "prediction": "El berro.",
+        "gold": "\"berro\""
+    },
+    {
+        "prediction": "Cuando un conductor de Uber enciende las luces antiniebla significa que está libre, hay algunas personas que lo saben y, en ese momento, lo paran para cogerlo, sin hacerlo desde la aplicación.",
+        "gold": "\"enciende las luces antiniebla\""
+    },
+    {
+        "prediction": "Ha puesto la palabra “invasión” al lado de las banderas de los países que forman América Latina y, justo al lado de la bandera de España, ha puesto “descubrimiento”.",
+        "gold": "🇦🇷 Invasión 🇧🇴 Invasión 🇨🇱 Invasión🇨🇴 Invasión🇨🇷 Invasión🇨🇺 Invasión🇪🇨 Invasión🇸🇻 Invasión🇬🇹 Invasión🇭🇳 Invasión🇲🇽 Invasión🇳🇮 Invasión🇵🇦 Invasión🇵🇾 Invasión🇵🇪 Invasión🇩🇴 Invasión🇻🇪 Invasión🇪🇸 Descubrimiento"
+    },
+    {
+        "prediction": "Se cena en un kebab o en un italiano. Se hace un amigo invisible con cosas feas y que usan que tengan en casa. ",
+        "gold": "llevar como regalo algo de su casa feo y que no usase, para hacer una especie de amigo invisible de segunda mano"
+    },
+    {
+        "prediction": "'Don't Stop Me Now', de Queen.",
+        "gold": "\"Don’t Stop me Now\""
+    },
+    {
+        "prediction": "Acceder a exámenes anteriores de la oposición que se están preparando.",
+        "gold": "\"solicitar a la Administración exámenes anteriores de la oposición a la que se presentan\""
+    },
+    {
+        "prediction": "Tides.",
+        "gold": "\"Tides\""
+    },
+    {
+        "prediction": "Alien Conquest.",
+        "gold": "\"La guerra de los mundos\""
+    },
+    {
+        "prediction": "En España, el trabajo más buscado es el de influencer.",
+        "gold": "\"influencer\""
+    },
+    {
+        "prediction": "El servicio postventa, los propietarios de MG esperan durante semanas sin coche, sin otro de sustitución y sin plazos de solución.",
+        "gold": "\"el colapso que sufre este servicio de reparaciones en garantía\""
+    },
+    {
+        "prediction": "La batería de metal-litio puede duplicar la capacidad de las baterías de iones de litio, pero se enfrenta a la formación de dendritas que reducen la vida útil.",
+        "gold": "\"baterías de metal-litio\""
+    },
+    {
+        "prediction": "Se podrá pescar.",
+        "gold": "\"se podrá pescar\""
+    },
+    {
+        "prediction": "Sergio Pérez, Carlos Sainz,  Fernando Alonso,  Esteban Ocon, Alexander Albon, Logan Sargeant, Yuki Tsunoda, Daniel Ricciardo,  Valtteri Bottas, Guanyu Zhou,  Kevin Magnussen y Nico Hulkenberg.",
+        "gold": "Sergio Pérez, Carlos Sainz, Fernando Alonos, Esteba Ocon, alexander albon, Logan Sargeant, Daniel Ricciardo, Yuki Tsonuda, Valtteri Bottas, Guanyu Zhou, Kevin Magnussen y Nico Hulkenberg."
+    },
+    {
+        "prediction": "Financial Times.",
+        "gold": "\"Financial Times\""
+    },
+    {
+        "prediction": "No ha mantenido relaciones sexuales en los últimos 30 días y explicó que está más interesada en otros aspectos de su vida.",
+        "gold": "\"cero\""
+    },
+    {
+        "prediction": "Ser el hogar exclusivo de 'Monday Night Raw' y otros programas de WWE por 10 años.",
+        "gold": "\"Monday Night Raw\""
+    },
+    {
+        "prediction": "Debido al estado de embriaguez en el que se encontraba.",
+        "gold": "\"embriaguez\""
+    },
+    {
+        "prediction": "Hace sentadillas antes de cada mitin como ritual deportivo para descargar estrés.",
+        "gold": "\"Sentadillas\""
+    },
+    {
+        "prediction": "Pidió discreción.",
+        "gold": "\"que no desvelen nada de su situación\""
+    },
+    {
+        "prediction": "\"Me dijo que estaba bien, pero que el estribillo era un poco cursi\"",
+        "gold": "\"que estaba bien, pero que el estribillo era un poco cursi\""
+    },
+    {
+        "prediction": "La pechuga de pavo de Hacendado de Mercadona está elaborado con un 92% de carne de pavo.",
+        "gold": "\"la pechuga de pavo de Hacendado tiene más proteína y menos grasa\""
+    },
+    {
+        "prediction": "Porque su padre siempre utilizaba estos objetos al trabajar.",
+        "gold": "\"siempre utilizaba estos dos objetos de oficina al trabajar\""
+    },
+    {
+        "prediction": "Puede reparar su equipo pulsando R mientras usa el banco de reparación.",
+        "gold": "reparar absolutamente todo su equipamiento pulsando R"
+    },
+    {
+        "prediction": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach y Joseph Quinn.",
+        "gold": "\"Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach y Joseph Quinn\""
+    },
+    {
+        "prediction": "Asegurarse de secar bien las papas después de cortarlas.",
+        "gold": "\"secar bien las papas después de cortarlas\""
+    },
+    {
+        "prediction": "Megalopolis.",
+        "gold": "\"Megalopolis\""
+    },
+    {
+        "prediction": "Alps.",
+        "gold": "\"Alps\""
+    },
+    {
+        "prediction": "Selen Tatsuki.",
+        "gold": "“Selen Tatsuki”"
+    },
+    {
+        "prediction": "Publicación en el Portal de Transparencia de todos los elementos que deben ser dominio público.",
+        "gold": "\"publicación en el Portal de Transparencia de todos los elementos que deben ser dominio público\""
+    },
+    {
+        "prediction": " 248 euros entre dos personas.",
+        "gold": "\"248 euros\""
+    },
+    {
+        "prediction": "Se refieren a Fran Rivera, el motivo fue aparecer en Telecinco. ",
+        "gold": "Rivera ya no aportaba mucho contenido al programa."
+    },
+    {
+        "prediction": "Vendían Atículos pirotécnicos sin la correspondiente autorización.",
+        "gold": "\"artículos pirotécnicos\""
+    },
+    {
+        "prediction": " Para el Ryzen 3 8300G: Base Clock de 3,2 GHz y Boost de 3,6Ghz. Para el 8500G: Base Clock de 3,2Ghz y Boost de 3,7Ghz. ",
+        "gold": "3,6GHz para Ryzen 3 8300G y 3,7 GHz para Ryzen 5 8500G"
+    },
+    {
+        "prediction": "Paola Bianco.",
+        "gold": "\"Paola Bianco\""
+    },
+    {
+        "prediction": "En 200 millones de años.",
+        "gold": "\"200 millones de años\""
+    },
+    {
+        "prediction": "El conductor que triplicaba la tasa máxima de alcohol permitida chocó contra un coche que estaba estacionado.",
+        "gold": "\"chocó contra un coche que estaba estacionado\""
+    },
+    {
+        "prediction": "Se podría retrasar hasta 2025.",
+        "gold": "\"hasta 2025, no habrá un hipotético lanzamiento de Windows 12.\""
+    }
+]

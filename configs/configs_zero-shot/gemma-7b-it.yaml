@@ -1,0 +1,60 @@
+#Training args
+model_name_or_path: google/gemma-7b-it
+torch_dtype: bfloat16
+trust_remote_code: true
+use_lora: false
+quantization_inference: null
+gradient_checkpointing: true
+force_auto_device_map: false
+use_flash_attention: true
+deepspeed: configs/deepspeed_configs/deepspeed_zero3.json
+generation_config: generation_config.json
+stop_words:
+  - "<start_of_turn>"
+  - "<end_of_turn>"
+  - "<end_of_turn>\n"
+  - "<end_of_turn>\\n"
+  - "</s>"
+  - "<s>"
+  - "\\n"
+  - "<eos>"
+
+# dataset arguments
+train_datasets: 
+  - train
+validation_datasets: 
+  - validation
+test_datasets: 
+  - test
+
+max_seq_length: 8192
+generation_max_length: 8192
+
+# checkpoint settings
+output_dir: results/zero/google_gemma-7b-it
+overwrite_output_dir: true
+
+# evaluation
+do_train: false
+do_eval: false
+do_predict: true
+predict_with_generate: true
+
+per_device_eval_batch_size: 4
+generation_num_beams: 1
+
+
+# reporting
+logging_strategy: steps
+logging_first_step: true
+logging_steps: 5
+report_to: wandb
+run_name: "gemma-7b-it"
+disable_tqdm: false
+
+
+# performance
+bf16: true
+fp16: false
+torch_compile: false
+ddp_find_unused_parameters: false

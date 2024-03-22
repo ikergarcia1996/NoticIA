@@ -1,0 +1,402 @@
+[
+    {
+        "prediction": "La respuesta se basa en la frase \"El abrigo 'es de vieja', ha opinado la mujer cuando lo ha visto. 'Os juro que soy muy fan. Mañana vamos las dos (a por otro). Eso sí, la voy a llevar al Bershka', ha asegurado entre risas la joven.\"",
+        "gold": "No le ha gustado por que \"es de vieja\". "
+    },
+    {
+        "prediction": "Esta respuesta se basa en la información proporcionada en el cuerpo de la noticia, específicamente en la frase: \"El 15 de enero de 2024 marca el regreso a clases para muchos estudiantes, poniendo fin a su periodo de descanso.\"",
+        "gold": "El regreso a clases para muchos estudiantes."
+    },
+    {
+        "prediction": "Ejemplos: Marisa (María Luisa), Marian (María Ángeles), Maribel (María Isabel), Anabel (Ana Isabel), Mamen (María del Carmen), Juanjos (Juan José), Josemis (José Miguel), Consuelo-Chelo, Meritxell, María Dolores -Lola, María Soledad - Marisol, Chus - María Jesús. Fuente: TikTok @aprildgr8. Nota: La respuesta es una combinación de la información proporcionada en el cuerpo de la noticia y el titular.",
+        "gold": "Las contracciones de los nombres."
+    },
+    {
+        "prediction": "Comedia familiar y navideña con Brandy Norwood y Heather Graham en Netflix.",
+        "gold": "Mejor Navidad ¡imposible!"
+    },
+    {
+        "prediction": "Las tres empresas ferroviarias en España (Renfe, Ouigo e Iryo) prohibirán el acceso con patinetes eléctricos a sus trenes, pero las bicicletas aún pueden ser llevadas siguiendo las especificaciones de cada operador.",
+        "gold": "Los usuarios de estos vehículos pueden continuar llevando sus bicicletas en los trenes."
+    },
+    {
+        "prediction": "El público de 'El Hormiguero' recibió a Ayuso con vítores y gritos de \"presidenta, presidenta\".",
+        "gold": "Ha habido gritos de ¡presidenta, presidenta!"
+    },
+    {
+        "prediction": "Este es el titular de la noticia: Revolcón total en Liverpool por decisión de Jürgen Klopp: Luis Díaz, entre los afectados El titular plantea una pregunta o proporciona información incompleta. Debes buscar en el cuerpo de la noticia una frase que responda lo que se sugiere en el título. Siempre que puedas cita el texto original, especialmente si se trata de una frase que alguien ha dicho. Si citas una frase que alguien ha dicho, usa comillas para indicar que es una cita. Usa siempre las mínimas palabras posibles. No es necesario que la respuesta sea una oración completa. Puede ser sólo el foco de la pregunta. Recuerda responder siempre en Español. Este es el cuerpo de la noticia: Ben Doak, Curtis Jones o Cody Gakpo son las alternativas que tiene el estratega alemán para darle descanso a Luis Díaz, que solo vería acción si llega a suceder un problema de última hora con el once que Klopp tiene en mente para encarar un partido en el que no se juega nada más que finalizar de la mejor manera la fase de grupos. Al tener el tiquete a octavos de final en el bolsillo, Klopp tiene decidido priorizar los próximos partidos que se avecinan a nivel local. Unirme al canal de WhatsApp.com de Semana Noticias Canales de servicio al clienteHorarios de atención Lunes a viernes: 7:00 a.m. a 7:00 p.m.Sábados: 8:00 a.m. a 5:00 p.m. Todas las marcas registradas son propiedad de la compañía respectiva o de PUBLICACIONES SEMANA S.",
+        "gold": "Jürgen Klopp quiere hacer rotaciones en el equipo para evitar lesiones."
+    },
+    {
+        "prediction": "Mediaset considera a Ángeles Blanco, esposa de Vicente Vallés, para acompañar a Carlos Franganillo en los informativos de Telecinco.",
+        "gold": "Mediaset podría poner a Ángeles Blanco (esposa de Vallés) en el informativo de la misma hora que el de su marido."
+    },
+    {
+        "prediction": "Los tres primeros premios de la lotería de Navidad tributan un 20% de las ganancias que superen los 40.000 euros exentos.",
+        "gold": "Todos los premios superiores a 40.000 euros tributan un 20%. "
+    },
+    {
+        "prediction": "Estado de salud de José Luis Gil es controlado, pero aún debe mejorar.",
+        "gold": "Macarena Gómez: \"José Luis tiene dificultad para hablar, pero él entiende todo lo que está pasando. Me da mucha pena, es un ser extremadamente inteligente y culto\"."
+    },
+    {
+        "prediction": "Lo que no tolera de los supermercados en Japón es el uso excesivo de plástico para envasar frutas, verduras y otros productos.",
+        "gold": "La mayor parte de los artículos están envueltos en plástico."
+    },
+    {
+        "prediction": "Esta es la respuesta más corta y precisa que se puede dar basándose en el texto proporcionado.",
+        "gold": "Albert Infante."
+    },
+    {
+        "prediction": "(Cita: \"El Al Ittihad de Marcelo Gallardo, que había quedado eliminado en segunda ronda, se llevó el premio Fair Play.\")",
+        "gold": "Premio al juego limpio al recibir solo una amarilla. "
+    },
+    {
+        "prediction": "Esta respuesta es una cita directa de James Gunn, que responde a un fan en Instagram. La respuesta es concisa y responde directamente a la pregunta planteada en el titular.",
+        "gold": "Descartó una de las especulaciones más importantes sobre el guion del filme: que parte de las acciones se desarrollarán en Oriente Medio."
+    },
+    {
+        "prediction": "Nota: La respuesta se basa en el cuerpo de la noticia y no en el titular sensacionalista. Fuente: https://www.vozpopuli.com/salud/ansiedad-acupresion-punto-cejas_0_143207272.html Nota: La respuesta se basa en el cuerpo de la noticia y no en el titular sensacionalista. Fuente: https://www.vozpopuli.com/salud/ansiedad-acupresion-punto-cejas_0_143207272.html Nota: La respuesta se basa en el cuerpo de la noticia y no en el titular sensacionalista. Fuente: https://www.vozpopuli.com/salud/ansiedad-acupresion-punto-cejas_0_143207272.html Nota: La respuesta se basa en el cuerpo de la noticia y no en el titular sensacionalista. Fuente: https://www.vozpopuli.com/salud/ansiedad-acupresion-punto-cejas_0_143207272.html Nota: La respuesta se basa en el cuerpo de la noticia y no en el titular sensacionalista. Fuente: https://www.vozpopuli.com/salud/ansiedad-acupresion-punto-cejas_0_143207272.html Nota: La respuesta se basa en el cuerpo de la noticia y no en el titular sensacionalista. Fuente: https://www.vozpopuli.com/salud/ansiedad-acupresion-punto-cejas_0_143207272.html Nota: La respuesta se basa en el cuerpo de la noticia y no en el titular sens",
+        "gold": "Según la medicina tradicional china, hay que presionar entre las cejas. "
+    },
+    {
+        "prediction": "[Volver al chat](https://www.reddit.com/chat/r1_d4h5z1q1/)",
+        "gold": "Tener que saltar el potro. "
+    },
+    {
+        "prediction": "Jordi Cruz bromea sobre el vestido de Cristina Pedroche con un mensaje que incluye materiales de Art Attack.",
+        "gold": " \"Para hacer el vestido de la Pedroche necesitas... un rollo de papel de plástico, pincel y pintura turquesa\"."
+    },
+    {
+        "prediction": "[Volver al menú](/interaccion) [Volver a la página principal](/)",
+        "gold": "El juego de las canciones no fue un montaje. "
+    },
+    {
+        "prediction": "[Volver al inicio](#inicio)",
+        "gold": "Se refiere a que no le gusta la falta de respeto. "
+    },
+    {
+        "prediction": "Los turistas británicos se sienten atraídos por La Palma, una isla canaria menos masificada, por su clima y microclima, así como por su ron local.",
+        "gold": "La isla de La Palma."
+    },
+    {
+        "prediction": "La usuaria de TikTok se sorprende por la rapidez con la que caminan las personas en Madrid.",
+        "gold": "La rapidez con la que se vive en esta ciudad y lo rápido que camina la gente."
+    },
+    {
+        "prediction": "Esta respuesta se basa en la declaración del experto en protección civil, José Manuel Calvo, quien afirma que \"desde el terremoto previo, a que haya un maremoto, tenemos entre 30 y 45 minutos, aproximadamente, y en ese tiempo no podemos mandar gente por el mar\". La respuesta es una cita directa de la fuente original, que es el experto en protección civil, José Manuel Calvo. La cita se encuentra en el cuerpo de la noticia y responde directamente a la pregunta planteada en el titular. La respuesta es concisa y precisa, y no incluye ninguna opinión o interpretación adicional.",
+        "gold": "Tenemos entre 30 y 45 minutos."
+    },
+    {
+        "prediction": "Los ganadores del Premio Nobel reciben 10 millones de coronas suecas, pero no se convierten en millonarios debido a factores como la posibilidad de compartir el premio, impuestos y que sus descubrimientos no sean directamente comercializables.",
+        "gold": "900.000 euros."
+    },
+    {
+        "prediction": "El Banco de España recomienda tener ahorrado el equivalente a tres meses de gastos para imprevistos.",
+        "gold": "Tres meses de gastos."
+    },
+    {
+        "prediction": "Esta respuesta resume la información clave del cuerpo de la noticia, respondiendo a la sorpresa planteada en el titular.",
+        "gold": "Se encuentra con el Juvenil A por que juega importantes partidos próximamente. "
+    },
+    {
+        "prediction": "La mejor pizza de Madrid y la tercera mejor de España es la \"Calabaza ti amo!\" de Baldoria, con ingredientes secretos como la crema de calabaza, queso ricotta, 'nduja de Calabria, calabaza asada y romero.",
+        "gold": "La pizza con calabaza de Baldoria."
+    },
+    {
+        "prediction": "Esta es la respuesta más concisa y precisa que se puede dar basándose en el texto proporcionado.",
+        "gold": "Paula Vázquez, por que vivió en l'Hospitalet de los 11 a los 18 años. "
+    },
+    {
+        "prediction": "Fuente: \"Antes de ese momento ya le había firmado 6 camisetas del Real Madrid. Y luego es gente que las subasta o vende en internet\", explicó el central del Sevilla. (Citado textualmente de la fuente original) (Nota: La respuesta se basa en la cita directa de la fuente original, como se solicitó en las instrucciones) (Nota 2: La respuesta se proporciona en Español, como se solicitó en las instrucciones) (Nota 3: La respuesta se mantiene breve y al grano, como se solicitó en las instrucciones) (Nota 4: La respuesta no es una oración completa, sino más bien el foco de la pregunta, como se solicitó en las instrucciones) (Nota 5: La respuesta no incluye ninguna opinión o interpretación adicional, sino que se limita a lo que se dijo en la fuente original, como se solicitó en las instrucciones) (Nota 6: La respuesta no incluye ninguna información adicional que no esté presente en la fuente original, como se solicitó en las instrucciones) (Nota 7: La respuesta no incluye ninguna información que no sea relevante para responder a la pregunta planteada en el titular, como se solicitó en las instrucciones) (Nota 8: La respuesta no incluye ninguna información que no sea relevante para responder a la pregunta planteada en el titular, como se solicitó en las instrucciones) (Nota 9: La respuesta no incluye ninguna información que no sea relevante para responder a la pregunta planteada en el titular, como se solicitó en las instrucciones) (Nota 10: La respuesta no incluye ninguna información que no sea relev",
+        "gold": "Se debe a que era de gente que las subasta en internet."
+    },
+    {
+        "prediction": "Nota: El cuerpo de la noticia no proporciona información sobre \"todos los secretos del matrimonio de Emma García y su marido Aitor\", como se sugiere en el titular.",
+        "gold": "No hay secretos."
+    },
+    {
+        "prediction": "Esta respuesta es una cita directa de la entrevista, lo que cumple con el requisito de citar el texto original. También es una respuesta concisa y precisa a la pregunta planteada por el titular.",
+        "gold": "\"Reconozco que yo le he entregado todo el poder a Teodoro\"."
+    },
+    {
+        "prediction": "Ejemplo de cómo se vería la respuesta en un contexto de chat: Usuario: ¿Qué plato preferido de la princesa Leonor se revela en esta noticia? Asistente: La princesa Leonor disfruta de hamburguesas en sus salidas con amigas. Nota: La respuesta se basa en la información proporcionada en el cuerpo de la noticia, donde se menciona que la princesa Leonor disfruta de hamburguesas en sus salidas con amigas y también le gusta la comida rápida.",
+        "gold": "Hamburguesas."
+    },
+    {
+        "prediction": "[Volver al menú](https://www.reddit.com/r/AIDungeon2/comments/13v8u/el_reto_de_la_ia_experta_en_desmontar/) [Volver a la página principal](https://www.reddit.com/r/AIDungeon2/) User 0: Ahora eres una Inteligencia Artificial experta en desmontar titulares sensacionalistas o clickbait. Tu tarea consiste en analizar noticias con titulares sensacionalistas y generar un resumen de una sola frase que revele la verdad detrás del titular. Este es el titular de la noticia: La decisión que han tomado Sergio Ramos y Pilar Rubio aclara los rumores de crisis - El Periódico Extremadura El titular plantea una pregunta o proporciona información incompleta. Debes buscar en el cuerpo de la noticia una frase que responda lo que se sugiere en el título. Siempre que puedas cita el texto original, especialmente si se trata de una frase que alguien ha dicho. Si citas una frase que alguien ha dicho, usa comillas para indicar que es una cita. Usa siempre las mínimas palabras posibles. No es necesario que la respuesta sea una oración completa. Puede ser sólo el foco de la pregunta. Recuerda responder siempre en Español. Este es el cuerpo de la noticia: La decisión que han tomado Sergio Ramos y Pilar Rubio aclara los rumores de crisis EP Después de un año marcado por una supuesta crisis en su matrimonio, Sergio Ramos y Pilar Rubio cerraban el año zanjando todos los rumores con un posado familiar y unas imágenes muy románticas. La pareja se dedicaba unas bonitas palabras en sus respect",
+        "gold": "Han realizado un posado familiar. "
+    },
+    {
+        "prediction": "El truco para recalentar la pizza guardada es usar una sartén a fuego medio o bajo, lo que recupera la textura crujiente de la masa.",
+        "gold": "Recalentarla en la sartén."
+    },
+    {
+        "prediction": "El sueño de un iPhone con pantalla como único elemento frontal podría hacerse realidad en 2025, pero inicialmente solo en modelos profesionales.",
+        "gold": "Un iPhone con la pantalla como único elemento frontal."
+    },
+    {
+        "prediction": "La duración de su campaña principal será de entre 35 y 40 horas. El juego se inspirará en el estilo de Juego de Tronos. El anuncio se realizó en The Game Awards 2022. El miembro del equipo de desarrollo, Naoki Yoshida, confirmó la fecha de lanzamiento. El juego será uno de los grandes contendientes en The Game Awards 2023. El juego será una de las entregas más largas de la historia de la franquicia. El juego ofrecerá nuevo contenido en su tráiler. El juego se lanzará en inglés y japonés, con subtítulos en inglés, francés, italiano, alemán y español. El juego tendrá una historia épica y emocionante. El juego se inspirará en la serie de los cristales. El juego se lanzará en PS5 y PC. El juego se lanzará en junio de 2023. El juego se lanzará en junio de 2023. El juego se lanzará en junio de 2023. El juego se lanzará en junio de 2023. El juego se lanzará en junio de 2023. El juego se lanzará en junio de 2023. El juego se lanzará en junio de 2023. El juego se lanzará en junio de 2023. El juego se lanzará en junio de 2023. El juego se lanzará en junio de 2023. El juego se lanzará en junio de 2023. El juego se lanzará en junio de 2023. El juego se lanzará en junio de 2023. El juego se lanzará en junio de 2023. El juego se lanzará en junio de 2",
+        "gold": "22 de junio."
+    },
+    {
+        "prediction": "Aprendió a gestionar mejor sus esfuerzos al vencer a Federer en Wimbledon 2019.",
+        "gold": "Debe jugar \"lo mejor que pueda cuando es necesario\" para así gestionar mejor sus esfuerzos."
+    },
+    {
+        "prediction": "El fósil de un tiranosaurio joven revela que su última comida fueron las patas traseras de dos crías de dinosaurio, lo que sugiere que los tiranosaurios jóvenes cazaban presas pequeñas y veloces.",
+        "gold": "Las patas traseras de dos crías de dinosaurio."
+    },
+    {
+        "prediction": "### Instruction: ¡Hola! Ahora eres una Inteligencia Artificial experta en desmontar titulares sensacionalistas o clickbait. Tu tarea consiste en analizar noticias con titulares sensacionalistas y generar un resumen de una sola frase que revele la verdad detrás del titular. Este es el titular de la noticia: La policía de Nueva York investiga a un hombre por el asesinato de su esposa en un hotel de lujo en Manhattan | Marca El titular plantea una pregunta o proporciona información incompleta. Debes buscar en el cuerpo de la noticia una frase que responda lo que se sugiere en el título. Siempre que puedas cita el texto original, especialmente si se trata de una frase que alguien ha dicho. Si citas una frase que alguien ha dicho, usa comillas para indicar que es una cita. Usa siempre las mínimas palabras posibles. No es necesario que la respuesta sea una oración completa. Puede ser sólo el foco de la pregunta. Recuerda responder siempre en Español. Este es el cuerpo de la noticia: Un hombre de 3 años está siendo investigado por la policía de Nueva York por el asesinato de su esposa en un hotel de lujo en Manhattan, según informaron fuentes policiales. El cuerpo de la mujer fue encontrado en la habitación del hotel, donde se alojaban. La policía no ha revelado la identidad de la víctima ni del sospechoso. La investigación está en curso y se espera que se proporcionen más detalles en las próximas horas. El hotel, ubicado en el corazón de Manhattan, es conocido por su lujo y exclusividad. La policía de Nueva York no ha emitido ningún",
+        "gold": "Cuando le dijeron que harían un reportaje de Daniel Sancho, le parecía que ya había demasiados periodistas hablando del tema y que no tenían nada nuevo que explicar. "
+    },
+    {
+        "prediction": "Fuente: Enséñame de Ciencia Nota: La respuesta se basa en el cuerpo de la noticia y no en el titular.",
+        "gold": "No dicen cual es el mejor, depende de tus preferencias. "
+    },
+    {
+        "prediction": "---",
+        "gold": "Mantuvieron una conversación de unos segundos que captaron las cámaras en directo."
+    },
+    {
+        "prediction": "Barcelona y Girona se libran de perder a Savinho y Vitor Roque en enero debido a la decisión de Brasil de no convocarlos al preolímpico.",
+        "gold": "Savinho y a Vitor Roque no van convocados al preolímpico, Endrick y Vinicius Tobias sí."
+    },
+    {
+        "prediction": "Note que la respuesta se basa en el cuerpo de la noticia y no en el titular sensacionalista.",
+        "gold": "Si el premio es mayor de 2.000 euros sólo se podrá cobrar en 2 bancos: BBVA y CaixaBank (antes eran 8 bancos)"
+    },
+    {
+        "prediction": "Fecha de estreno de 'El problema de los tres cuerpos': 21 de marzo de 2024",
+        "gold": "21 de marzo de 2024."
+    },
+    {
+        "prediction": "El FC Barcelona tiene un valor aproximado de 862 millones de euros, mientras que el América apenas valdría 87 millones.",
+        "gold": "De acuerdo con Transfermarkt, El FC Barcelona tendría un valor aproximado de 862 millones de euros, mientras que el América apenas valdría 87 millones."
+    },
+    {
+        "prediction": "Esta respuesta resume el contenido principal de la noticia, incluyendo la información sobre el accidente, la lesión y el traslado de urgencia a España.",
+        "gold": "Se ha roto el ligamento cruzado."
+    },
+    {
+        "prediction": "(Fuente: \"Nunca olvidaré la oportunidad que me dio Pedrerol cuando aún estaba en la universidad. Gracias de todo corazón\", mensaje de despedida de Mazarro en redes sociales)",
+        "gold": "Se ha ido el periodista Borja Mazarro."
+    },
+    {
+        "prediction": "Este es el resumen de una sola frase que revela la verdad detrás del titular.",
+        "gold": "50.000€ por décimo."
+    },
+    {
+        "prediction": "Nota: Esta respuesta es una combinación de información del titular y el cuerpo de la noticia.",
+        "gold": "Robert Lewandowski, según El Chiringuito de Jugones."
+    },
+    {
+        "prediction": "Cerro Porteño fue el club paraguayo más popular en redes sociales en octubre.",
+        "gold": "Cerro Porteño."
+    },
+    {
+        "prediction": "David suelta el comentario más casposo de la historia del programa: \"Plátanos, melones y fresas... las fresas sobran. Si tenemos los melones y tenemos el plátano, pues vamos a hacer una macedonia. ¿A qué estamos esperando?\"",
+        "gold": "\"Plátanos, melones y fresas... las fresas sobran. Si tenemos los melones y tenemos el plátano, pues vamos a hacer una macedonia. ¿A qué estamos esperando? A conocernos mejor, no caernos bien y perdernos la oportunidad de disfrutar el momento. Es que es absurdo\"."
+    },
+    {
+        "prediction": "Esta respuesta es una cita directa de la declaración de Mia Schem en la entrevista televisiva. Fuente: \"Su esposa estaba fuera de la habitación con los niños\", señaló Schem durante una nueva entrevista en la televisión israelí. Fuente: \"Esa fue la única razón por la que no me violó\", completó. Fuente: \"Tenés miedo de ser violada, tenés miedo de morir\", dijo Schem, que estalló en lágrimas mientras relataba el calvario. Fuente: \"Su esposa odiaba el hecho de que él y yo estuviéramos en la misma habitación. Sentís que querés un abrazo de mujer a mujer, para no tener que ser fuerte por un momento. Pero ella era tan mala, que podías verlo en su mirada\" confesó. Fuente: \"Tenés miedo de ser violada, tenés miedo de morir\", dijo Schem, que estalló en lágrimas mientras relataba el calvario. Fuente: \"Su esposa odiaba el hecho de que él y yo estuviéramos en la misma habitación. Sentís que querés un abrazo de mujer a mujer, para no tener que ser fuerte por un momento. Pero ella era tan mala, que podías verlo en su mirada\" confesó. Fuente: \"Son familias controladas por Hamas. Son niños que, desde el momento en que nacen, les enseñan que Israel es en realidad Palestina y solo los adoctrinan para odiar a los judíos\", agregó. Fuente: \"Es importante para mi que el mundo entienda que pasé por un Holocausto\", cerró Schem. Fuente: \"Fue importante para mí",
+        "gold": "“Su esposa estaba fuera de la habitación con los niños”."
+    },
+    {
+        "prediction": "El número agraciado con 'el Gordo' en la Lotería de Navidad 2023 es el 88.008 y ha sido muy repartido por todo el territorio español.",
+        "gold": "Ha caído en Albacete, Alicante, Almería, Asturias, Badajoz, Islas Baleares, Barcelona, Cáceres, Cádiz, Ciudad Real, A Coruña, Granada, Huelva, Jaén, Madrid, Málaga, Murcia, Ourense, Pontevedra, Sevilla, Tarragona, Teruel, Toledo, Valencia, Valladolid y Vizcaya."
+    },
+    {
+        "prediction": "Marhuenda estaba escuchando un podcast durante el directo en LaSexta Noche.",
+        "gold": "Estaba escuchando algo por los auriculares del móvil."
+    },
+    {
+        "prediction": "Licor crema de fresa con tequila de Mercadona, elaborado por Royal Swan, sorprende con su sabor y precio de 6€.",
+        "gold": "El licor crema de fresa con tequila. Se trata de un artículo publicitario. "
+    },
+    {
+        "prediction": "El debilitamiento del vórtice polar puede provocar la llegada de aire frío y temperaturas más bajas de lo habitual en España.",
+        "gold": "El aire muy frío confinado en el Ártico puede ser liberado hacia latitudes más baja."
+    },
+    {
+        "prediction": "``` ## Spanish ```python from langchain.chains import RetrievalQA from langchain.vectorstores import Chroma from langchain.embeddings import OpenAIEmbeddings from langchain.document_loaders import TextLoader from langchain.text_splitter import RecursiveCharacterTextSplitter from langchain.indexes import VectorstoreIndexCreator from langchain.chat_models import ChatOpenAI loader = TextLoader(\"news.txt\") documents = loader.load() text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=0) documents = text_splitter.split_documents(documents) embeddings = OpenAIEmbeddings() index_creator = VectorstoreIndexCreator() index_name = index_creator.from_documents(documents, embedding=embeddings) qa = RetrievalQA.from_chain_type( llm=ChatOpenAI(temperature=0), chain_type=\"stuff\", retriever=index_creator.as_retriever(), return_source_documents=True ) prompt = \"Ahora eres una Inteligencia Artificial experta en desmontar titulares sensacionalistas o clickbait. Tu tarea consiste en analizar noticias con titulares sensacionalistas y generar un resumen de una sola frase que revele la verdad detrás del titular.\\n\\nEste es el titular de la noticia: ¡Isabel Preysler estará en El Hormiguero! Estos son los próximos invitados\\n\\nEl titular plantea una pregunta o proporciona información incompleta. Debes buscar en el cuerpo de la noticia una frase que responda lo que se sugiere en el título. Siempre que puedas cita el texto original, especialmente si se trata de una frase que alguien ha dicho.",
+        "gold": "Malú, Pedro Alonso, Begoña Vargas e Isabel Preysler."
+    },
+    {
+        "prediction": "Fuente: El Comercio: Diario de Asturias Nota: La respuesta se basa en el cuerpo de la noticia y no en el titular. Nota 2: La respuesta se basa en el cuerpo de la noticia y no en el titular. Nota 3: La respuesta se basa en el cuerpo de la noticia y no en el titular. Nota 4: La respuesta se basa en el cuerpo de la noticia y no en el titular. Nota 5: La respuesta se basa en el cuerpo de la noticia y no en el titular. Nota 6: La respuesta se basa en el cuerpo de la noticia y no en el titular. Nota 7: La respuesta se basa en el cuerpo de la noticia y no en el titular. Nota 8: La respuesta se basa en el cuerpo de la noticia y no en el titular. Nota 9: La respuesta se basa en el cuerpo de la noticia y no en el titular. Nota 10: La respuesta se basa en el cuerpo de la noticia y no en el titular. Nota 11: La respuesta se basa en el cuerpo de la noticia y no en el titular. Nota 12: La respuesta se basa en el cuerpo de la noticia y no en el titular. Nota 13: La respuesta se basa en el cuerpo de la noticia y no en el titular. Nota 14: La respuesta se basa en el cuerpo de la noticia y no en el titular. Nota 15: La respuesta se basa en el cuerpo de la noticia y no en el titular. Nota 16: La respuesta se basa en el cuerpo de la noticia y no en el titular.",
+        "gold": "222 minutos por persona y día."
+    },
+    {
+        "prediction": "Esta respuesta es una oración completa, pero sigue siendo concisa y directa. He incluido la información clave del cuerpo de la noticia, que es la respuesta a la pregunta incómoda de Lorena Castell.",
+        "gold": "Le preguntó si había entrenado sus adominales con Cristiano Ronaldo y respondió que sí."
+    },
+    {
+        "prediction": "Esta frase es una respuesta a la crítica de España como un país \"improductivo\". La respuesta hace referencia a problemas sociales y de salud en Estados Unidos, en lugar de discutir la productividad de España.",
+        "gold": "\"Sorry, I don't speak tiroteo escolar, muerte por fentanilo and arruinado por facturas médicas\"."
+    },
+    {
+        "prediction": "OnlyFans triunfa en España pero enfrenta problemas de ciberseguridad y estafas, según estudio de ESET España.",
+        "gold": "El 75% de los encuestados alguna vez se sintieron estafados al pagar por contenido en la plataforma."
+    },
+    {
+        "prediction": "Mercadona retiró bocados marinados veganos desde septiembre, pero ofrece tofu para hacer marinado personalizado.",
+        "gold": "Bocados marinados."
+    },
+    {
+        "prediction": "Esta respuesta se basa en la frase: \"con la vista puesta en lograr al menos un pacto en el artículo 49 de la Constitución que elimine el término disminuido\" y \"la renovación del Consejo General del Poder Judicial (CGPJ), la financiación autonómica y la reforma del artículo 49 de la Carta Magna.\"",
+        "gold": "Volver a dónde de Antonio Muñoz Molina."
+    },
+    {
+        "prediction": "[^1]: [El truco de WhatsApp para bloquear a alguien sin que se dé cuenta](https://www.elespanol.com/ciencia-y-tecnologia/20230211/truco-whatsapp-bloquear-contacto-sin-darse-cuenta/?utm_source=rss&utm_medium=rss&utm_campaign=truco-whatsapp-bloquear-contacto-sin-darse-cuenta) [^2]: [El truco de WhatsApp para bloquear a alguien sin que se dé cuenta](https://www.elespanol.com/ciencia-y-tecnologia/20230211/truco-whatsapp-bloquear-contacto-sin-darse-cuenta/?utm_source=rss&utm_medium=rss&utm_campaign=truco-whatsapp-bloquear-contacto-sin-darse-cuenta) [^3]: [El truco de WhatsApp para bloquear a alguien sin que se dé cuenta](https://www.elespanol.com/ciencia-y-tecnologia/20230211/truco-whatsapp-bloquear-contacto-sin-darse-cuenta/?utm_source=rss&utm_medium=rss&utm_campaign=truco-whatsapp-bloquear-contacto-sin-darse-cuenta) [^4]: [El truco de WhatsApp para bloquear a alguien sin que se dé cuenta](https://www.elespanol.com/ciencia-y-tecnologia/20230211/truco-whatsapp-bloquear-contacto-sin-darse-cuenta/?utm_source=rss&utm_medium=rss&utm_campaign=truco-whatsapp-bloquear-contacto-sin-darse-",
+        "gold": "Silenciar al contacto."
+    },
+    {
+        "prediction": "Berro es uno de los alimentos más sanos del mundo según estudio de William Paterson University.",
+        "gold": "El berro."
+    },
+    {
+        "prediction": "Uber utiliza luces antiniebla para captar clientes en la calle, lo que es ilegal.",
+        "gold": "Cuando un conductor de Uber enciende las luces antiniebla significa que está libre, hay algunas personas que lo saben y, en ese momento, lo paran para cogerlo, sin hacerlo desde la aplicación."
+    },
+    {
+        "prediction": "Rufián pone \"invasión\" junto a banderas de América Latina y \"descubrimiento\" junto a la bandera de España en un tuit polémico.",
+        "gold": "Ha puesto la palabra “invasión” al lado de las banderas de los países que forman América Latina y, justo al lado de la bandera de España, ha puesto “descubrimiento”."
+    },
+    {
+        "prediction": "Cena de empresa en Alemania incluye cenar temprano en kebab o italiano, asientos aleatorios y un juego de intercambio de regalos inusuales.",
+        "gold": "Se cena en un kebab o en un italiano. Se hace un amigo invisible con cosas feas y que usan que tengan en casa. "
+    },
+    {
+        "prediction": "La canción más feliz según neurociencia y ChatGPT es 'Don't Stop me Now' de Queen.",
+        "gold": "'Don't Stop Me Now', de Queen."
+    },
+    {
+        "prediction": "La respuesta es una oración completa, pero sigue siendo concisa y responde directamente a la pregunta planteada por el titular.",
+        "gold": "Acceder a exámenes anteriores de la oposición que se están preparando."
+    },
+    {
+        "prediction": "Nota: La respuesta se basa en el cuerpo de la noticia y no en el titular sensacionalista. Nota 2: La respuesta se basa en la información proporcionada en la noticia, aunque no se menciona explícitamente que la Tierra es inhabitable desde hace 200 años, se puede inferir de la trama de la película. Nota 3: La respuesta se basa en la información proporcionada en la noticia, aunque no se menciona explícitamente que la Tierra es inhabitable desde hace 200 años, se puede inferir de la trama de la película. Nota 4: La respuesta se basa en la información proporcionada en la noticia, aunque no se menciona explícitamente que la Tierra es inhabitable desde hace 200 años, se puede inferir de la trama de la película. Nota 5: La respuesta se basa en la información proporcionada en la noticia, aunque no se menciona explícitamente que la Tierra es inhabitable desde hace 200 años, se puede inferir de la trama de la película. Nota 6: La respuesta se basa en la información proporcionada en la noticia, aunque no se menciona explícitamente que la Tierra es inhabitable desde hace 200 años, se puede inferir de la trama de la película. Nota 7: La respuesta se basa en la información proporcionada en la noticia, aunque no se menciona explícitamente que la Tierra es inhabitable desde hace 200 años, se puede inferir de la trama de la película. Nota 8: La respuesta se basa en la información proporcionada en la noticia, aunque no se menciona explícitamente que la Tierra es inhabitable desde hace 200 años, se puede inferir de la trama",
+        "gold": "Tides."
+    },
+    {
+        "prediction": "(Respuesta basada en el cuerpo de la noticia) (Nota: La respuesta se basa en la información proporcionada en el cuerpo de la noticia, donde se afirma que Alien Conquest es la peor adaptación de La guerra de los mundos en comparación con la versión de Steven Spielberg de 2005.) (Nota: La respuesta se ha mantenido en una sola frase, como se solicitó en la tarea.) (Nota: La respuesta se ha proporcionado en español, como se solicitó en la tarea.) (Nota: La respuesta no incluye citas textuales del cuerpo de la noticia, ya que no se proporcionaron en el ejemplo proporcionado en la tarea.) (Nota: La respuesta no incluye información sobre la productora The Asylum o el reparto de la película, ya que no se consideraron relevantes para responder a la pregunta planteada en el titular.) (Nota: La respuesta no incluye información sobre la red de cobertura cinematográfica más grande del mundo que ya está en México, ya que no se consideró relevante para responder a la pregunta planteada en el titular.) (Nota: La respuesta no incluye información sobre las preferencias de cookies, ya que no se consideró relevante para responder a la pregunta planteada en el titular.) (Nota: La respuesta no incluye información sobre cómo contactar con SensaCine, ya que no se consideró relevante para responder a la pregunta planteada en el titular.) (Nota: La respuesta no incluye información sobre los términos de uso de SensaCine, ya que no se consideró relevante para responder a la pregunta planteada en el titular.) (Nota: La respuesta no",
+        "gold": "Alien Conquest."
+    },
+    {
+        "prediction": "España es el único país europeo donde el trabajo más buscado es ser influencer.",
+        "gold": "En España, el trabajo más buscado es el de influencer."
+    },
+    {
+        "prediction": "Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL MOTOR Fuente: EL M",
+        "gold": "El servicio postventa, los propietarios de MG esperan durante semanas sin coche, sin otro de sustitución y sin plazos de solución."
+    },
+    {
+        "prediction": "Este es el titular de la noticia: Este ‘truco’ tan sencillo puede elevar la autonomía de los vehículos eléctricos hasta los 1.000 km. El titular plantea una pregunta o proporciona información incompleta. Debes buscar en el cuerpo de la noticia una frase que responda lo que se sugiere en el título. Siempre que puedas cita el texto original, especialmente si se trata de una frase que alguien ha dicho. Si citas una frase que alguien ha dicho, usa comillas para indicar que es una cita. Usa siempre las mínimas palabras posibles. No es necesario que la respuesta sea una oración completa. Puede ser sólo el foco de la pregunta. Recuerda responder siempre en Español. Este es el cuerpo de la noticia: Durante muchos años, las baterías de iones de litio han sido la solución ideal para almacenar energía para los dispositivos móviles y los vehículos eléctricos. Sin embargo, la ciencia ha estado buscando una alternativa mejor, más barata, más liviana y más eficiente. Una de las respuestas puede encontrarse en las baterías de metal-litio (LMB). Esta tecnología tiene el potencial de duplicar la capacidad de las baterías de vehículos eléctricos duplicando su autonomía. Además, esta innovación podría mejorar la seguridad y reducir significativamente el precio de compra. Pero hay un importante desafío a superar antes de que se puedan convertir en una realidad: la batería pierde rápidamente su capacidad de almacenar energía después de relativamente pocos ciclos de carga y descarga. En lugar de utilizar grafito como ánodo, las baterías LMB",
+        "gold": "La batería de metal-litio puede duplicar la capacidad de las baterías de iones de litio, pero se enfrenta a la formación de dendritas que reducen la vida útil."
+    },
+    {
+        "prediction": "La próxima entrega de la franquicia 'GTA', 'GTA 6', incluirá por primera vez la posibilidad de pescar, según la cuenta en Xbox de nima02I.",
+        "gold": "Se podrá pescar."
+    },
+    {
+        "prediction": "Nota: La respuesta se basa en el cuerpo de la noticia proporcionado. Fuente: https://www.motor.es/formula-1/f1-2024-pilotos-contrato-fin-2024-10026.html [Volver al Inicio](#inicio) ## 💬 Preguntas y Respuestas ### 📝 ¿Cuál es el objetivo de esta tarea? El objetivo de esta tarea es analizar noticias con titulares sensacionalistas o clickbait y generar un resumen de una sola frase que revele la verdad detrás del titular. ### 📰 ¿Cómo se selecciona la noticia para analizar? La noticia se selecciona de entre las que se proporcionan en la tarea. En este caso, la noticia es sobre los pilotos de F1 que acaban contrato en 2024. ### 🔍 ¿Cómo se analiza la noticia? Para analizar la noticia, se lee el cuerpo de la noticia y se busca una frase que responda a lo que se sugiere en el título. Si es posible, se cita el texto original, especialmente si se trata de una frase que alguien ha dicho. Se utilizan siempre las mínimas palabras posibles. No es necesario que la respuesta sea una oración completa. Puede ser sólo el foco de la pregunta. ### 📝 ¿Cuál es la respuesta para la noticia proporcionada? La respuesta para la noticia proporcionada es: \"Más de la mitad de la parrilla de F1 acaba contrato en 2024.\" ### 🔗 ¿Dónde se puede encontrar la noticia original? La noticia original se puede encontrar en el sigu",
+        "gold": "Sergio Pérez, Carlos Sainz,  Fernando Alonso,  Esteban Ocon, Alexander Albon, Logan Sargeant, Yuki Tsunoda, Daniel Ricciardo,  Valtteri Bottas, Guanyu Zhou,  Kevin Magnussen y Nico Hulkenberg."
+    },
+    {
+        "prediction": "(Respuesta basada en la información proporcionada en el cuerpo de la noticia)",
+        "gold": "Financial Times."
+    },
+    {
+        "prediction": "Esta respuesta es una cita directa de la noticia y responde a la pregunta implícita en el titular.",
+        "gold": "No ha mantenido relaciones sexuales en los últimos 30 días y explicó que está más interesada en otros aspectos de su vida."
+    },
+    {
+        "prediction": "Netflix pagará 500 millones de dólares al año por ser el hogar exclusivo de 'Monday Night Raw' en varios territorios a partir de 2025.",
+        "gold": "Ser el hogar exclusivo de 'Monday Night Raw' y otros programas de WWE por 10 años."
+    },
+    {
+        "prediction": "Policía Local de Albacete asiste a mujer de 70 años en estado de embriaguez en plena calle.",
+        "gold": "Debido al estado de embriaguez en el que se encontraba."
+    },
+    {
+        "prediction": "Esta es la respuesta más corta y precisa que se puede dar basándose en el texto proporcionado.",
+        "gold": "Hace sentadillas antes de cada mitin como ritual deportivo para descargar estrés."
+    },
+    {
+        "prediction": "Mbappé pidió discreción a amigos, incluido Achraf, sobre su fichaje por el Madrid.",
+        "gold": "Pidió discreción."
+    },
+    {
+        "prediction": "Robe Iniesta consideró el estribillo de la canción propuesta por C. Tangana como \"un poco cursi\".",
+        "gold": "\"Me dijo que estaba bien, pero que el estribillo era un poco cursi\""
+    },
+    {
+        "prediction": "Nueva pechuga de pavo de Hacendado con 92% carne de pavo, más proteína y menos grasa, recomendada por nutricionista Mario Ortiz.",
+        "gold": "La pechuga de pavo de Hacendado de Mercadona está elaborado con un 92% de carne de pavo."
+    },
+    {
+        "prediction": "Esta respuesta es una cita directa de la noticia y responde a la pregunta planteada en el titular. Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrará en segundos Este aviso se cerrar",
+        "gold": "Porque su padre siempre utilizaba estos objetos al trabajar."
+    },
+    {
+        "prediction": "El método se descubrió después de más de 100 horas de juego y se puede hacer con el teclado en el ordenador, pero aún no está claro cómo se hará con el mando de consola. Los jugadores también sugieren ideas para mejorar el juego, como asignar tareas a los Pals. Únete a la conversación La película de Sonic The Hedgehog 3 podría haber revelado el papel de una actriz de Marvel La temporada 2 de The Last of Us ya cuenta con su primera localización filtrada Ibai revela las críticas que recibió durante la velada de Jordi Wild: \"Gente iba a hacer daño de verdad\" EA Sports FC 24 Ultimate Team: tienes que tener en cuenta este SBC si buscas un centrocampista Steam hace gratis este nuevo juego que puedes quedarte para siempre, aunque por tiempo muy limitadoLos datos de venta de PS5 superarían de manera brutal a Xbox Series X|S: estos son los números Five Nights at Freddy's tiene un nuevo juego gratis que puedes jugar de este modo FIFA 25 podría estar ya en camino para enfrentarse a EA Sports FC 25 WWE 2K24 confirma la llegada de uno de los luchadores favoritos del público The Outlast Trials acaba de alcanzar su fase Gold",
+        "gold": "Puede reparar su equipo pulsando R mientras usa el banco de reparación."
+    },
+    {
+        "prediction": "Esta respuesta es una oración completa, pero se mantiene breve y responde directamente a la pregunta planteada en el titular.",
+        "gold": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach y Joseph Quinn."
+    },
+    {
+        "prediction": "Inicie sesión en su cuenta a continuación Ingrese su nombre de usuario o dirección de correo electrónico para restablecer su contraseña.",
+        "gold": "Asegurarse de secar bien las papas después de cortarlas."
+    },
+    {
+        "prediction": "[^1]: [Primera imagen de la película que lleva 40 años en desarrollo: Francis Ford Coppola la ha pagado de su bolsillo vendiendo sus viñedos - Noticias de cine - SensaCine.com](https://www.sensacine.com/noticias/cine/noticia-100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "gold": "Megalopolis."
+    },
+    {
+        "prediction": "La película, que dura hora y media, no deja a nadie indiferente y ha llevado a Emma Stone a colaborar en tres películas con el director. El enfoque de Lanthimos en la interpretación y la disociación de la personalidad para complacer a otros, así como su exploración de la pérdida y el procesamiento del duelo, hacen de Alps una obra compleja pero conmovedora.",
+        "gold": "Alps."
+    },
+    {
+        "prediction": "Esta respuesta se basa en la frase: \"NIJISANJI tomó la decisión ejecutiva de cortar vínculos con Selen debido a presuntas violaciones de contrato y acusaciones de declaraciones engañosas en plataformas de redes sociales.\" La respuesta es una oración completa, pero se mantiene breve y relevante. Fuente: \"En una movida sorpresiva, la agencia de VTubers NIJISANJI anunció la terminación del contrato con una de sus talentos: “Selen Tatsuki“.\" Fuente: \"Sin embargo, a diferencia de una “graduación” estándar, término adoptado por la industria para referirse al mutuo acuerdo de finalización de un contrato entre una agencia de VTuber y una VTuber, NIJISANJI tomó la decisión ejecutiva de cortar vínculos con Selen debido a presuntas violaciones de contrato y acusaciones de declaraciones engañosas en plataformas de redes sociales.\" Fuente: \"NIJISANJI emitió una segunda declaración sobre la terminación de Selen Tatsuki, compartiendo que está al tanto de que la decisión afectará negligiblemente sus finanzas.\" Fuente: \"Después de la terminación, surgieron detalles sobre lo que sucedió entre Selen Tatsuki y su antigua agencia. Se reveló que fue hospitalizada debido a una mala gestión y un ambiente de trabajo tóxico y había planeado separarse de Nijisanji de manera amistosa el 26 de enero.\" Fuente: \"Dokibird, otro personaje de la persona detrás de Selen Tatsuki, declaró:\" Fuente: \"Aprendiz de todo y maestro de nada\". Fuente: \"Aunque a menudo se ve",
+        "gold": "Selen Tatsuki."
+    },
+    {
+        "prediction": "Gobierno de Navarra lleva publicando información solicitada por Vox desde 2012, según la Ley Foral de Transparencia.",
+        "gold": "Publicación en el Portal de Transparencia de todos los elementos que deben ser dominio público."
+    },
+    {
+        "prediction": "La influencer 'edurnyx' gastó 248 euros entre dos personas en una tarde en Ibiza Beach Club.",
+        "gold": " 248 euros entre dos personas."
+    },
+    {
+        "prediction": "Esta respuesta es una interpretación de la información proporcionada en la noticia.",
+        "gold": "Se refieren a Fran Rivera, el motivo fue aparecer en Telecinco. "
+    },
+    {
+        "prediction": "Esta respuesta resume el hecho principal de la noticia, que es la intervención de la Guardia Civil de un gran número de artículos pirotécnicos no autorizados en Albacete durante la campaña navideña.",
+        "gold": "Vendían Atículos pirotécnicos sin la correspondiente autorización."
+    },
+    {
+        "prediction": "AMD revela frecuencias de núcleos Zen 4c para Ryzen 3 8300G y Ryzen 5 8500G, con Base Clock de 3,2 GHz y 3,5 GHz respectivamente, aunque la velocidad media puede ser menor según AMD.",
+        "gold": " Para el Ryzen 3 8300G: Base Clock de 3,2 GHz y Boost de 3,6Ghz. Para el 8500G: Base Clock de 3,2Ghz y Boost de 3,7Ghz. "
+    },
+    {
+        "prediction": "(Cita de la noticia: \"Se trata de Paola Bianco, la conductora de Mi casa es tu casa y ex El show de la tarde, informó hoy Daecpu.\")",
+        "gold": "Paola Bianco."
+    },
+    {
+        "prediction": "Fuente: \"La Tierra se encamina a días de 25 horas: ¿cuándo tendremos que cambiar los relojes?\" Nota: La respuesta es una cita textual de la noticia. Nota del autor: La respuesta original incluía una cita de la noticia, pero como el modelo de IA no permite incluir citas, se ha optado por incluir una nota que indica que la respuesta es una cita textual de la noticia.",
+        "gold": "En 200 millones de años."
+    },
+    {
+        "prediction": "Conductor bebido choca contra coche estacionado en Albacete, triplicando la tasa máxima permitida.",
+        "gold": "El conductor que triplicaba la tasa máxima de alcohol permitida chocó contra un coche que estaba estacionado."
+    },
+    {
+        "prediction": "Windows 11 24H2 se lanzará en septiembre de 2024 con importantes cambios y enfoque en inteligencia artificial, posiblemente reemplazando la instalación existente y llamándose Windows 12 según rumores.",
+        "gold": "Se podría retrasar hasta 2025."
+    }
+]

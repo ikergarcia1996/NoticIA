@@ -1,0 +1,402 @@
+[
+    {
+        "prediction": "La respuesta a la pregunta planteada en el titular se encuentra en el cuerpo de la noticia, en la frase: \"El abrigo 'es de vieja', ha opinado la mujer cuando lo ha visto.\" Esta frase revela que la reacción de la abuela de 97 años no fue la esperada, ya que ella considera que el abrigo es \"de vieja\" y no acorde con su edad avanzada. En otras palabras, la reacción de la abuela no fue una fantasía, sino una opinión honesta y realista sobre el regalo que le dio su nieta.",
+        "gold": "No le ha gustado por que \"es de vieja\". "
+    },
+    {
+        "prediction": "La noticia no proporciona información relevante sobre lo que sucederá el 15 de enero de 2024, sino que simplemente informa sobre el regreso a clases después de las vacaciones decembrinas y la validación de menús escolares en el departamento de Chimaltenango. La intriga o \"advertencia\" planteada en el titular es una broma o un engaño, ya que no hay información veraz o creíble sobre lo que sucederá el 15 de enero de 2024.",
+        "gold": "El regreso a clases para muchos estudiantes."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el titular se encuentra en el cuerpo de la noticia, en la frase: \"Los Juanjos, Josemis, son Juan José y José Miguel. No sé por qué, pero encuentro esto muy interesante\". Esta frase revela que los nombres de persona en España pueden tener variantes o apelativos, como Juanjos, Josemis, que en realidad son nombres complejos como Juan José o José Miguel.",
+        "gold": "Las contracciones de los nombres."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el titular de la noticia se encuentra en el cuerpo de la misma, en la frase siguiente: \"el largometraje intenta encontrar humor en las complicaciones y desafíos de la vida, sobre todo cuando llegan las épocas navideñas y año nuevo\". Esta frase revela que la comedia familiar y navideña que se estrena en Netflix no es una historia trivial o superficial, sino que busca abordar temas más profundos y universales, como la amistad, la rivalidad y la importancia de la familia, a través de un enfoque humorístico y emocionante.",
+        "gold": "Mejor Navidad ¡imposible!"
+    },
+    {
+        "prediction": "La noticia se centra en la prohibición de los patinetes eléctricos en los trenes de Renfe, Ouigo y Iryo, así como en la restricción de las bicicletas en los trenes de cercanías de Renfe. Sin embargo, la noticia también menciona que las bicicletas pueden continuar siendo llevadas en los trenes como equipaje de mano o equipaje especial, siempre y cuando cumplan con las medidas máximas establecidas. La frase clave que revela la verdad detrás del título es: \"Las bicicletas están permitidas siempre y cuando se ajusten a las medidas máximas establecidas\". Esta frase indica que, aunque los patinetes eléctricos están prohibidos, las bicicletas pueden seguir siendo llevadas en los trenes siempre y cuando cumplan con las dimensiones máximas establecidas.",
+        "gold": "Los usuarios de estos vehículos pueden continuar llevando sus bicicletas en los trenes."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el titular se encuentra en el cuerpo de la noticia, específicamente en la frase de Pablo Motos: \"Hay muchos fans esta noche, voy a pedir un poco de calma\". Esta frase revela que el recibimiento apoteósico que se describe en el titular no es exclusivo de Ayuso, sino que es una reacción común del público en general. En otras palabras, la noticia no sugiere que el público haya perdido la razón o que haya comenzado a tratar a Ayuso como a una celebridad, sino que es una muestra de entusiasmo y apoyo general hacia la política.",
+        "gold": "Ha habido gritos de ¡presidenta, presidenta!"
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada por el titular es: \"Luis Díaz no fue afectado por la decisión de Jürgen Klopp\". Aunque el artículo menciona que Díaz fue titular en el partido contra Crystal Palace y que Klopp avisó que varios de sus jugadores tenían que entrar en un proceso de manejo de cargas para evitar lesiones, no se menciona en la noticia que Díaz fuera afectado por la decisión de Klopp. De hecho, el artículo indica que Díaz jugó el partido completo y que su salud es indispensable para que pueda seguir aportando desequilibrio por la banda izquierda.",
+        "gold": "Jürgen Klopp quiere hacer rotaciones en el equipo para evitar lesiones."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada por el titular es: \"Todo vale para ganar la audiencia perdida\". Esta frase se encuentra en el cuerpo de la noticia, en la sección donde se habla de la apuesta de Mediaset España por los informativos y la preparación de una revolución en Telecinco. Esta frase revela que la cadena está dispuesta a tomar medidas drásticas para aumentar su audiencia, incluso si eso significa comprometer la integridad de sus programas informativos.",
+        "gold": "Mediaset podría poner a Ángeles Blanco (esposa de Vallés) en el informativo de la misma hora que el de su marido."
+    },
+    {
+        "prediction": "La noticia indica que los ganadores del \"gordo\", así como los de los segundos y terceros premios, deberán dedicar el 20% de sus ganancias a tributar ante la Hacienda Pública, ya que los premios superiores a 40.000 euros están sujetos al pago de un gravamen especial. Esta información se puede encontrar en la página web de la Agencia Tributaria.",
+        "gold": "Todos los premios superiores a 40.000 euros tributan un 20%. "
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título de la noticia es: José Luis Gil está esforzándose al máximo por cumplir con los consejos médicos y transmitir información de forma puntual para desmentir los rumores que circulan sobre su estado de salud.",
+        "gold": "Macarena Gómez: \"José Luis tiene dificultad para hablar, pero él entiende todo lo que está pasando. Me da mucha pena, es un ser extremadamente inteligente y culto\"."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título es: \"No tolera el uso excesivo de plástico en los supermercados de Japón\". El profesor Alejandro Mesa menciona que la mayoría de los alimentos se envasan en plástico, lo que le molesta debido a su compromiso con el reciclaje y el uso de materiales sostenibles.",
+        "gold": "La mayor parte de los artículos están envueltos en plástico."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título de la noticia es: Anabel Pantoja no ha dicho quién es su favorito para ganar 'GH VIP 8'. En el cuerpo de la noticia, se menciona que Anabel ha defendido a Jessica Bueno y ha pedido el voto para Albert Infante, pero no ha revelado a quién le gustaría que gane el concurso.",
+        "gold": "Albert Infante."
+    },
+    {
+        "prediction": "El resumen de la noticia es: El equipo de Gallardo del Mundial de Clubes obtuvo el premio Fair Play.",
+        "gold": "Premio al juego limpio al recibir solo una amarilla. "
+    },
+    {
+        "prediction": "En resumen, el titular sensacionalista no refleja la verdad detrás de la noticia, ya que James Gunn ha desmentido la especulación de que Superman: Legacy tendrá una trama en Oriente Medio.",
+        "gold": "Descartó una de las especulaciones más importantes sobre el guion del filme: que parte de las acciones se desarrollarán en Oriente Medio."
+    },
+    {
+        "prediction": "La frase que resume la verdad detrás del título es: \"Al hacer acupresión en ese punto, se puede aliviar la ansiedad y el estrés\".",
+        "gold": "Según la medicina tradicional china, hay que presionar entre las cejas. "
+    },
+    {
+        "prediction": "La noticia se centra en la anécdota de Jorge Javier Vázquez sobre su experiencia en el instituto, pero no menciona nada sobre su peor recuerdo en ese lugar. En cambio, se habla de cómo pasó días malos en bachillerato debido a la presión de hacer deporte, incluyendo el famoso potro. La frase clave que revela la verdad detrás del titular es: \"Todo pasa, mira donde está el potro y donde estoy yo\". Esta frase sugiere que Jorge Javier Vázquez no se enfocó en sus recuerdos negativos de instituto, sino en el presente y en el hecho de que ha superado esos momentos difíciles.",
+        "gold": "Tener que saltar el potro. "
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el titular es: \"Para hacer el vestido de Cristina Pedroche, necesitas un rollo de papel de plástico, pincel y pintura turquesa, según Jordi Cruz, mítico presentador de 'Art Attack'\". Esta frase se encuentra en el cuerpo de la noticia, en una publicación de Jordi Cruz en su cuenta de Twitter.",
+        "gold": " \"Para hacer el vestido de la Pedroche necesitas... un rollo de papel de plástico, pincel y pintura turquesa\"."
+    },
+    {
+        "prediction": "La noticia indica que Pablo Motos, el presentador del programa, respondió a la pregunta de Tamara Falcó sobre si la presidenta de la Comunidad de Madrid había aclarado la verdad sobre la entrevista, afirmando que \"no, ella no sabía las canciones que iban a salir\" y que \"no todo le salió bien a la presidenta\", ya que hubo momentos en los que no pudo responder adecuadamente a las preguntas de los panelistas.",
+        "gold": "El juego de las canciones no fue un montaje. "
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título de la noticia es: \"No me gusta\". Esta frase se encuentra en el cuerpo de la noticia, en la sección donde se habla de Tamara Falcó y su relación con su pareja. Según Falcó, no es celosa, pero si tiene un límite en cuanto a la falta de respeto en su relación, y cualquier indicio de esto la empujaría a romper con su pareja.",
+        "gold": "Se refiere a que no le gusta la falta de respeto. "
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título es: \"El ron de La Palma no es el motivo para which british tourists are flocking to the island\". En otras palabras, el ron producido en la isla de La Palma no es el razón principal por la que los turistas británicos están visitando la isla, sino que es una de las muchas atracciones que la isla ofrece.",
+        "gold": "La isla de La Palma."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título se encuentra en la frase: \"Llevo dos días en Madrid y ya hay un montón de cosas que no entiendo. Pero la primera es: ¿Por qué camináis tan rápido?\". Esta frase revela que la usuaria de TikTok @montse_martin5 ha notado que los madrileños caminan muy rápido, lo que sugiere que es una característica común de la ciudad y que puede ser una de las cosas que la usuaria no entiende.",
+        "gold": "La rapidez con la que se vive en esta ciudad y lo rápido que camina la gente."
+    },
+    {
+        "prediction": "La frase que revela la verdad detrás del titular es: \"Evacuar a todo el mundo a la vez para evitar el tsunami sería meter a la gente en la boca del lobo.\" (José Manuel Calvo, coordinador de protección civil del Ayuntamiento de Cádiz) En el cuerpo de la noticia, el expertode Protección Civil de Cádiz, José Manuel Calvo, destaca que evacuar a todo el mundo a la vez para evitar un tsunami sería una locura debido a la posibilidad de caos y confusión que esto generaría. En lugar de eso, se debe evacuar a los lugares de exposición una vez que se haya detectado el tsunami previo al terremoto.",
+        "gold": "Tenemos entre 30 y 45 minutos."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título es: no se llevan millones de coronas suecas. Aunque el premio económico es considerable, la mayoría de los ganadores no se retiran con el dinero del premio ni abandonan sus empleos en universidades o instituciones académicas. En muchos casos, los ganadores donan parte o la totalidad de su premio a instituciones benéficas o utilizan el dinero para fines científicos, como colaboraciones o proyectos de investigación.",
+        "gold": "900.000 euros."
+    },
+    {
+        "prediction": "La noticia destaca que el Banco de España no recomienda guardar una cantidad fija de dinero en casa para emergencias, sino que se puede almacenar en una cuenta a la vista que ofrece liquidez inmediata. Además, se recomienda acumular un fondo de emergencia de hasta seis meses de gastos fijos, pero es consciente de que no todas las familias pueden realizar este esfuerzo. En resumen, la noticia muestra que la cantidad de dinero que se debe tener ahorrado para emergencias no es una cantidad fija y universal, sino que puede variar dependiendo de las circunstancias personales de cada familia.",
+        "gold": "Tres meses de gastos."
+    },
+    {
+        "prediction": "La frase clave se encuentra en el cuerpo de la noticia, en la sección donde se menciona que Marc Guiu no fue citado para el entrenamiento a puerta abierta en el Estadi Johan Cruyff, pero Xavi Hernández sigue contando con él en el primer equipo. Esta información desmantela la suposición de que Marc Guiu no estaría en los planes de Xavi Hernández.",
+        "gold": "Se encuentra con el Juvenil A por que juega importantes partidos próximamente. "
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título se encuentra en el cuerpo de la noticia, en la frase: \"La calabaza, más su forma de hacer la pizza, son sin duda los ingredientes secretos\". Esta frase revela que la calabaza y la forma en que se cocina en Baldoria son los ingredientes clave que han llevado a la pizza a ser considerada la mejor de Madrid y la tercera mejor de España.",
+        "gold": "La pizza con calabaza de Baldoria."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título de la noticia es: \"Mira, Paula, en catalán decís 'mira, Paula, en catalán decís'\". Esta frase se encuentra en el cuerpo de la noticia, en una cita de la presentadora Paula Vázquez, donde ella habla en catalán y Giró la corrigie, mencionando el nombre de Salvador Estiu. Esta frase resume el contenido de la noticia, que se centra en la presentadora Paula Vázquez y su habilidad para recitar poemas en catalán, incluyendo uno de Salvador Estiu.",
+        "gold": "Paula Vázquez, por que vivió en l'Hospitalet de los 11 a los 18 años. "
+    },
+    {
+        "prediction": "El titular de la noticia plantea la pregunta: \"¿Por qué Sergio Ramos rechaza firmar una camiseta del Real Madrid?\". Sin embargo, el cuerpo de la noticia revela que Ramos no rechazó firmar la camiseta del Real Madrid, sino que en realidad había firmado ya 6 camisetas del club antes de la situación descrita en el titular. El motivo de Ramos para no firmar la elástica en cuestión es que es gente que las subasta o vende en internet, como señala en sus redes sociales. En resumen, el titular sensacionalista no refleja la verdad detrás de la historia y es una forma de atraer la atención del lector con una pregunta intrigante sin tener en cuenta la verdadera situación.",
+        "gold": "Se debe a que era de gente que las subasta en internet."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título de la noticia es: \"No hay secretos\" para un matrimonio duradero, sino \"querer estar juntos\". Emma García y su marido Aitor han logrado mantener su relación fuerte y unida a lo largo de los años gracias a la respeto, la comunicación abierta y la disposición a superar cualquier obstáculo que se presente.",
+        "gold": "No hay secretos."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada por el titular se encuentra en la frase siguiente: \"Sí. Me lo reconoció y a mí me asombró, porque son palabras very importantes y muy graves\". Esta frase revela que el secretario general del PP, Teodoro García Egea, admitió abiertamente a la diputada Álvarez de Toledo que le había entregado todo el poder.",
+        "gold": "\"Reconozco que yo le he entregado todo el poder a Teodoro\"."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título es: La princesa Leonor no confirma uno de sus platos preferidos cuando sale de Zarzuela, sino que se muestra a disfrutar de una hamburguesa en un local de Zaragoza.",
+        "gold": "Hamburguesas."
+    },
+    {
+        "prediction": "La frase que revela esta verdad se encuentra en el cuerpo de la noticia, en la parte donde se menciona que después de un año marcado por rumores de crisis en su matrimonio, la pareja se dedicó a desmentir estos rumores a través de un posado familiar y romántico en sus cuentas de Instagram. Además, se menciona que Ramos se sumergía nuevamente en su rutina profesional sin detenerse ante las cámaras y decenas de seguidores que lo esperaban, lo que demuestra que su vida personal está más fuerte que nunca.",
+        "gold": "Han realizado un posado familiar. "
+    },
+    {
+        "prediction": "El truco infalible para recalentar la pizza del día anterior sin usar el horno es... recalentarla en la sartén. Con el fuego medio o bajo, se puede recuperar una textura crujiente para disfrutar de la experiencia casi como en su primer momento.",
+        "gold": "Recalentarla en la sartén."
+    },
+    {
+        "prediction": "La noticia no proporciona información concreta sobre el lanzamiento de un iPhone con pantalla única y componentes ocultos bajo ella, aunque se menciona que los proveedores tienen instrucciones para hacerlo posible. Las fuentes citadas en la noticia apuntan a que el avance podría ser reservado para los modelos profesionales de los iPhone en un primer momento, y que no hay una fecha prevista para su inclusión en los modelos estándar.",
+        "gold": "Un iPhone con la pantalla como único elemento frontal."
+    },
+    {
+        "prediction": "La verdad detrás del titular es que Final Fantasy XVI no confirmó una fecha de lanzamiento específica en The Game Awards 2022, sino que Geoff Keighley anunció la fecha de lanzamiento durante la gala de premios. La noticia proporciona información sobre el desarrollo del juego y la inspiración que ha recibido de Juego de Tronos, pero no proporciona una fecha de lanzamiento confirmada. En resumen, el titular sensacionalista no proporciona información precisa o completa sobre la fecha de lanzamiento de Final Fantasy XVI, y se puede considerar un ejemplo de clickbait.",
+        "gold": "22 de junio."
+    },
+    {
+        "prediction": "The relevant quote from the article is: \"Eso realmente te dice que aún puedes ganar si eliges en qué momentos del partido estás alcanzando tu punto máximo y jugando lo mejor que puedes cuando es necesario\" (emphasis added). This translates to \"That really tells you that you can still win if you choose which moments of the match you're at your peak and play your best when it counts.\" In other words, Djokovic's victory over Federer was not just about his own skills and abilities, but also about his ability to time his efforts and play at his best when it mattered most. This is a valuable lesson for any athlete or individual facing challenges, as it highlights the importance of being strategic and focused in order to achieve success.",
+        "gold": "Debe jugar \"lo mejor que pueda cuando es necesario\" para así gestionar mejor sus esfuerzos."
+    },
+    {
+        "prediction": "El titular de la noticia \"Descubren fósil de tiranosaurio con presa conservada en su estómago\" plantea la pregunta de qué había en el menú de un tiranosaurio hace 75 millones de años. La respuesta se encuentra en el cuerpo de la noticia, donde se explica que los investigadores encontraron las patas traseras de dos crías de dinosaurio, posiblemente de la especie Citipes, en la cavidad del estómago del tiranosaurio joven Gorgosaurus libratus. Esta descubierta hace que sea particularmente emocionante, ya que los tiranosaurios son depredadores icónicos y estos eran los ápices icónicos o depredadores superiores que todos hemos visto en películas, libros y museos.",
+        "gold": "Las patas traseras de dos crías de dinosaurio."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título de la noticia es: \"No te puedes fiar de ese programa de La 6. Les he pillado en varios que meten cosas inexactas o que van a por el objetivo de su investigación con mala leche. No son neutrales.\" Esta frase se encuentra en el cuerpo de la noticia, en las palabras de Glòria Serra, la presentadora del programa de investigación. Según Serra, el programa no es neutral y ha sido visto metiendo cosas inexactas o persiguiendo el objetivo de su investigación con mala leche.",
+        "gold": "Cuando le dijeron que harían un reportaje de Daniel Sancho, le parecía que ya había demasiados periodistas hablando del tema y que no tenían nada nuevo que explicar. "
+    },
+    {
+        "prediction": "El mejor resumen de la noticia es: \"Los asistentes de voz, como Alexa, Siri y Google Assistant, han transformado nuestras vidas cotidianas con su capacidad para simplificar tareas y controlar dispositivos. Cada uno tiene fortalezas y debilidades, y la elección depende de tus necesidades y preferencias. Siri es ideal para usuarios de Apple, mientras que Alexa lidera en versatilidad y Google Assistant es la opción más inteligente. Otros asistentes, como Cortana y Bixby, también ofrecen alternativas interesantes.\"",
+        "gold": "No dicen cual es el mejor, depende de tus preferencias. "
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título es: \"El motivo es obvio, es el amor\". La noticia no proporciona información sobre una foto reciente de Pedro Sánchez y Yolanda Díaz, sino que se centra en la interpretación de un encuentro entre los dos en una cumbre. La frase cita en el cuerpo de la noticia, \"Y él le devolvió el gesto al término de la rueda de prensa, cuando mantuvo una conversación de unos segundos que captaron las cámaras en directo. La imagen de dicho encuentro se ha hecho viral en las últimas horas en Twitter, donde ha provocado un gran revuelo con numerosos comentarios, la mayoría en tono de humor, sobre su significado\", indica que la reacción de Sánchez hacia Díaz fue un gesto de afecto, lo que sugiere que hay una relación romántica entre los dos.",
+        "gold": "Mantuvieron una conversación de unos segundos que captaron las cámaras en directo."
+    },
+    {
+        "prediction": "El titular de la noticia plantea la pregunta de si Barcelona y Girona podrían perder a dos de sus jugadores, Savinho y Vitor Roque, para el mes de enero debido a una convocatoria de Brasil sub-19. Sin embargo, la noticia revela que Brasil ha decidido no convocar a estos jugadores y que Endrick y Vinícius Tobias, dos jugadores del Real Madrid, serán los convocados en su lugar. La respuesta a la pregunta planteada en el titular es que no se perderán los jugadores de Barcelona y Girona, ya que no fueron convocados.",
+        "gold": "Savinho y a Vitor Roque no van convocados al preolímpico, Endrick y Vinicius Tobias sí."
+    },
+    {
+        "prediction": "La noticia no proporciona información incompleta o sensacionalista en su título, sino que muestra un cambio en las entidades autorizadas para cobrar los premios de la Lotería de Navidad en 2023. El cuerpo de la noticia proporciona detalles adicionales sobre el proceso de cobro de premios y los plazos máximos para hacerlo.",
+        "gold": "Si el premio es mayor de 2.000 euros sólo se podrá cobrar en 2 bancos: BBVA y CaixaBank (antes eran 8 bancos)"
+    },
+    {
+        "prediction": "En otras palabras, la verdad detrás del titular es que la serie no estará disponible hasta el 21 de marzo de 2024, pero cuando llegue, se sumergirá al público en una trama llena de misterios y descubrimientos que sacuden la Tierra.",
+        "gold": "21 de marzo de 2024."
+    },
+    {
+        "prediction": "¡Los culés valen 10 veces más! No es así. Según Transfermarkt, el FC Barcelona tendría un valor aproximado de 862 millones de euros, mientras que el América apenas valdría 87 millones. El título de la noticia es sensacionalista y no refleja la verdad.",
+        "gold": "De acuerdo con Transfermarkt, El FC Barcelona tendría un valor aproximado de 862 millones de euros, mientras que el América apenas valdría 87 millones."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada por el titular se encuentra en la frase: \"Pero ha sido todo lo contrario y me voy de urgencia a España, con mucho dolor y angustia\". Esta frase revela que, a pesar de la expectación de una aventura increíble, Marta Díaz ha sufrido un accidente y ha sido necesario su traslado a España de urgencia debido a su lesión. La frase muestra que el titular no proporciona información incompleta o sensacionalista, sino que se refleja la verdad y la realidad de la situación de Marta Díaz.",
+        "gold": "Se ha roto el ligamento cruzado."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el titular se encuentra en la frase siguiente: \"Nunca olvidaré la oportunidad que me dio Pedrerol cuando aún estaba en la universidad.\" (Borja Mazarro, periodista). Esta frase revela que el periodista Borja Mazarro, a quien se refiere el titular, está agradecido por la oportunidad que le brindó Josep Pedrerol en su carrera profesional.",
+        "gold": "Se ha ido el periodista Borja Mazarro."
+    },
+    {
+        "prediction": "El resumen de la noticia es: \"El número 31938 ha sido el tercer premio de la Lotería de Navidad 2023, que recibirá 500 mil euros por serie.\"",
+        "gold": "50.000€ por décimo."
+    },
+    {
+        "prediction": "La respuesta a la primera pregunta se encuentra en la frase del cuerpo de la noticia: \"Marc-André Ter Stegen ha optado finalmente por pasar por quirófano, esta misma semana, para solventar los problemas de espalda que surgieron en la última concentración con Alemania y que le han left fuera del equipo azulgrana en los últimos partidos\". En otras palabras, Ter Stegen se someterá a una intervención quirúrgica para tratar sus problemas de espalda, lo que significa que estará de baja durante unos dos meses. En cuanto a la segunda pregunta, la noticia indica que el Barcelona está considerando vender a Robert Lewandowski, ya que su rendimiento no es el mismo como en la temporada anterior y el club busca ahorrar dinero en la próxima campaña. El club también está interesado en hacer caja o ahorrarse dinero, y Lewandowski podría ser uno de los jugadores que se traspasen. En resumen, el titular sensacionalista no revela una verdad nueva, sino que simplemente plantea dos preguntas sobre los problemas de Ter Stegen y las intenciones del Barcelona para la próxima temporada.",
+        "gold": "Robert Lewandowski, según El Chiringuito de Jugones."
+    },
+    {
+        "prediction": "La respuesta a la pregunta sugiere en el título puede encontrarse en el cuerpo de la noticia, donde se menciona que la cuenta Deportes y Finanzas publicó una lista de los clubes de fútbol más populares en redes sociales en octubre en Sudamérica. La lista incluye a los clubes de Argentina, Brasil, Uruguay y Paraguay, y Cerro Porteño es el club paraguayo que aparece como el más popular en redes sociales en octubre. La frase clave que resume la verdad detrás del titular es: \"Cerro Porteño es el club paraguayo más popular en redes sociales en octubre, según la lista de Deportes y Finanzas\".",
+        "gold": "Cerro Porteño."
+    },
+    {
+        "prediction": "David, un madrileño de 44 años, demostró ser un conversador muy especial durante su aparición en el programa de Cuatro. Además de hacer bromas estúpidas y comentarios rancios, el graciosillo también mostró su falta de respeto hacia las mujeres, al decir que Charo aparentaba más años de los que decía y que presumía de haber estado con chicas de todas las razas. La conversación entre David y Charo se desvió rápidamente hacia el tema de las frutas, con David insistiendo en que Charo le gustaba el plátano y Charo respondiendo que prefería las fresas. David then made a comment about making a macedonia with melons and plátanos, which Charo rightly rejected as absurd. David's comment about making a macedonia with melons and plátanos is the most sensational part of the article, as it shows his lack of intelligence and creativity in the conversation. His attempt to be funny and witty fell flat, and his comments were met with groans and disbelief from the audience. In summary, David's comment about making a macedonia with melons and plátanos is the most sensational part of the article, as it highlights his lack of intelligence and creativity in the conversation.",
+        "gold": "\"Plátanos, melones y fresas... las fresas sobran. Si tenemos los melones y tenemos el plátano, pues vamos a hacer una macedonia. ¿A qué estamos esperando? A conocernos mejor, no caernos bien y perdernos la oportunidad de disfrutar el momento. Es que es absurdo\"."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título de la noticia es: \"Su esposa\". Según Mia Schem, su captor de Hamas no violó durante su cautiverio porque su esposa estaba fuera de la habitación con los niños y no permitía que el terrorista la violara.",
+        "gold": "“Su esposa estaba fuera de la habitación con los niños”."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el titular se encuentra en el cuerpo de la noticia, en la frase: \"El número ha sido muy repartido por todo el territorio español\". En otras palabras, \"El Gordo\" no ha caído en ningún lugar específico, sino que ha sido repartido por todo el país.",
+        "gold": "Ha caído en Albacete, Alicante, Almería, Asturias, Badajoz, Islas Baleares, Barcelona, Cáceres, Cádiz, Ciudad Real, A Coruña, Granada, Huelva, Jaén, Madrid, Málaga, Murcia, Ourense, Pontevedra, Sevilla, Tarragona, Teruel, Toledo, Valencia, Valladolid y Vizcaya."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título se encuentra en el cuerpo de la noticia en la frase: \"Estás escuchando una cosa, Paco\". Esta frase revela que Francisco Marhuenda estaba escuchando algo en los auriculares en lugar de estar atento al programa, lo que provocó la \"pillada\" de José Yélamo.",
+        "gold": "Estaba escuchando algo por los auriculares del móvil."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título es: La bebida que Mercadona \"lo peta\" es el licor crema de fresa con tequila, que contiene un sabor espectacular y ha sido elaborado por Royal Swan.",
+        "gold": "El licor crema de fresa con tequila. Se trata de un artículo publicitario. "
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título es una frase que se encuentra en el cuerpo de la noticia: \"Lo que nos espera puede ser muy diferente de lo que hemos tenido en un 2023 atípico\". Esta frase revela que el artículo se enfoca en el cambio climático y cómo puede afectar a España, y que las consecuencias podrían ser significativas y diferentes a lo que se ha experimentado en el pasado.",
+        "gold": "El aire muy frío confinado en el Ártico puede ser liberado hacia latitudes más baja."
+    },
+    {
+        "prediction": "¡Isabel Preysler estará en El Hormiguero! ¡Sensacional! Pero la verdad es que no dice mucho en la noticia. La frase clave es: \"Cerramos la semana con una visita de lujo, la de Isabel Preysler\". ¡Isabel Preysler es el invitado de honor en la semana!",
+        "gold": "Malú, Pedro Alonso, Begoña Vargas e Isabel Preysler."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título de la noticia es: \"No es cierto que los asturianos vean más televisión que cualquier otro grupo sociodemográfico en España\". Según el informe de Barlovento Comunicación, el consumo de televisión en Asturias fue el más alto de todas las comunidades autónomas en noviembre de 2023, pero no es el grupo sociodemográfico que más tiempo televisión ha consumido en ese mes. Los mayores de 64 años y las mujeres fueron los grupos que más tiempo televisión han consumido en noviembre, según el informe.",
+        "gold": "222 minutos por persona y día."
+    },
+    {
+        "prediction": "La respuesta a la pregunta incómoda de Lorena Castell es: \"No, no entrenamos en el barco, pero sí disimulemos nuestras tabletas de entrenamiento\".",
+        "gold": "Le preguntó si había entrenado sus adominales con Cristiano Ronaldo y respondió que sí."
+    },
+    {
+        "prediction": "La respuesta detrás del titular es: \"Improductivo\" no es un término adecuado para describir España o su estilo de vida. La persona que publicó la noticia utiliza este término en un contexto despectivo, pero no proporciona evidencia o datos para respaldar esta afirmación. De hecho, España es conocida por sus políticas sociales y de bienestar, que han sido reconocidas a nivel internacional como modelos a seguir. La verdad detrás del titular es que un usuario de Twitter ha respondido a una persona que criticaba el estilo de vida español con una frase cómica y efectiva, que ha generado una gran respuesta en la red social.",
+        "gold": "\"Sorry, I don't speak tiroteo escolar, muerte por fentanilo and arruinado por facturas médicas\"."
+    },
+    {
+        "prediction": "En otras palabras, el éxito de OnlyFans en España no es solo debido a su enfoque único, sino también a la creciente demanda de contenido adulto durante la pandemia. La plataforma ha emergido como un líder en esta industria, pero a medida que gana adeptos, la ciberseguridad se convierte en un elemento crucial para salvaguardar la privacidad y el dinero de los usuarios. La frase cita en la noticia es una cita de Josep Albors, director de investigación y concienciación de ESET España, quien advierte sobre los riesgos de estafa y ciberacoso en plataformas como OnlyFans, y sugerencia para mitigar estos problemas, como el uso de un correo electrónico único y tarjetas de crédito desechables al configurar una cuenta y realizar suscripciones.",
+        "gold": "El 75% de los encuestados alguna vez se sintieron estafados al pagar por contenido en la plataforma."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título de la noticia es: \"No os lo perdonaré jamás\". Esta frase se encuentra en el cuerpo de la noticia, en una cita de una usuaria de Twitter que se dirige a Mercadona after discovering that the vegan marinated bocados have been removed from sale. The user expresses their disappointment and frustration at the product's disappearance, using the phrase to emphasize their displeasure.",
+        "gold": "Bocados marinados."
+    },
+    {
+        "prediction": "La verdad detrás del titular se encuentra en la frase: \"Diálogo cuando quiera, como quiera, sobre lo que quiera y donde quiera, pero diálogo y no berrinche\". Esta frase fue pronunciada por Pedro Sánchez, el presidente del Gobierno, durante su encuentro con Alberto Núñez Feijóo, el líder del PP, en el Congreso de los Diputados. Sánchez está buscando un diálogo constructivo y sin tensiones con la oposición para abordar los problemas políticos y sociales que enfrenta el país, en lugar de una confrontación constante y sin solución.",
+        "gold": "Volver a dónde de Antonio Muñoz Molina."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el titular se encuentra en el párrafo siguiente: \"Gracias a este truco poco conocido por los usuarios se puede bloquear a una persona sin que se dé cuenta. Es decir, dicho contacto podrá seguir viendo la conversación, el estado, la imagen de perfil y hasta enviarte mensajes con total normalidad.\" En resumen, la verdad detrás del titular es que existente una función en WhatsApp que permite bloquear a una persona sin que ésta se dé cuenta, utilizando la función de silenciar conversaciones.",
+        "gold": "Silenciar al contacto."
+    },
+    {
+        "prediction": "En este pasaje, se menciona que el consumo de verduras y frutas, incluyendo el berro, puede prevenir enfermedades cardiovasculares al reducir la presión arterial, mejorar la piel y aumentar la energía. Esto sugiere que los expertos y la ciencia consideran que estas alimentos son sanos y beneficiosos para la salud en general. En resumen, la verdad detrás del titular sensacionalista \"Esta defenestrada verdura es uno de los alimentos más sanos del mundo\" se encuentra en el cuerpo de la noticia, donde se menciona que el berro es uno de los alimentos más nutritivos y beneficiosos para la salud, según los criterios de los expertos y la ciencia.",
+        "gold": "El berro."
+    },
+    {
+        "prediction": "El truco secreto descubierto por Mario, el taxista e influencer, es que los conductores de Uber utilizan las luces antiniebla para captar clientes de la calle, independientemente de si se debe hacer de manera legal o no. Según Mario, cuando un conductor de Uber enciende las luces antiniebla, significa que está libre y algunos pasajeros saben esto y lo paran para cogerlo, sin hacerlo desde la aplicación.",
+        "gold": "Cuando un conductor de Uber enciende las luces antiniebla significa que está libre, hay algunas personas que lo saben y, en ese momento, lo paran para cogerlo, sin hacerlo desde la aplicación."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada por el titular es: \"Descubrimiento\". El diputado de ERC, Gabriel Rufián, no ha dicho nada sobre una \"invasión\" en su tuit, sino que ha referido el descubrimiento de América por parte de Cristóbal Colón en 1492, lo que ha generado un auténtico \"terremoto\" en Twitter.",
+        "gold": "Ha puesto la palabra “invasión” al lado de las banderas de los países que forman América Latina y, justo al lado de la bandera de España, ha puesto “descubrimiento”."
+    },
+    {
+        "prediction": "En la noticia, la tiktoker @lasaventurasdealba cuenta su experiencia al participar en una cena de empresa en Alemania, donde se esperaba que los trabajadores trajeran regalos de casa para compartir entre ellos. Sin embargo, la tradición alemana de llevar regalos de casa y hacer una especie de amigo invisible de segunda mano es algo que no se practica en España.",
+        "gold": "Se cena en un kebab o en un italiano. Se hace un amigo invisible con cosas feas y que usan que tengan en casa. "
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el titular es: la canción que nos hace más felices según la neurociencia y la inteligencia artificial es \"Don't Stop Me Now\" de Queen. Esta canción es la que más alto figura en las listas de ambos estudios, tanto el del Dr. Jacob Jolij como el de ChatGPT.",
+        "gold": "'Don't Stop Me Now', de Queen."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título de la noticia es: No es necesario que los opositores tengan más fácil aprobar los exámenes, ya que la sentencia de la Audiencia Nacional reconoce su derecho a acceder a información sobre los procesos selectivos anteriores de la oposición.",
+        "gold": "Acceder a exámenes anteriores de la oposición que se están preparando."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el titular de la noticia es: \"La Tierra es inhabitable desde hace 200 años\" no es lo que se sugiere en el título. Según la noticia, la Tierra ha sido arrasada por la humanidad y ha quedado completamente arruinada, lo que hace que sea inhabitable. La película \"Tides\" explora este tema de la forma de un futuro desolador y la lucha de la humanidad por sobrevivir en un mundo post-apocalíptico.",
+        "gold": "Tides."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el titular se encuentra en el cuerpo de la noticia, en la frase: \"Durante más de 100 años, La guerra de los mundos ha sido considerado uno de los mejores libros de ciencia ficción de todos los tiempos.\" Esta frase revela que la adaptación cinematográfica en cuestión no es tan buena como la obra maestra de ciencia ficción original, lo que justifica el título sensacionalista.",
+        "gold": "Alien Conquest."
+    },
+    {
+        "prediction": "El resumen de la noticia en una sola frase es: El trabajo más soñado en España y varios países europeos es ser influencer, según un estudio de Remitly.",
+        "gold": "En España, el trabajo más buscado es el de influencer."
+    },
+    {
+        "prediction": "Here is a summary of the article in one sentence: The Chinese automotive brand MG has faced criticism for its poor after-sales service, with many customers expressing regret over their purchase due to long wait times and a lack of spare parts, leading to a decline in customer satisfaction and reputation.",
+        "gold": "El servicio postventa, los propietarios de MG esperan durante semanas sin coche, sin otro de sustitución y sin plazos de solución."
+    },
+    {
+        "prediction": "El estudio mencionado en la noticia encontró una solución sencilla para mejorar la vida útil de las baterías LMB: dejarlas descargadas y permitir que se repose. Al permitir que la batería descansara, se puede recuperar la capacidad perdida y aumentar su ciclo de vida. Sin embargo, este enfoque no requiere la implementación de nuevas técnicas o costosos materiales, sino simplemente programar el sistema de gestión de la batería existente para descargar completamente un módulo individual. En resumen, aunque las baterías LMB tienen el potencial de revolucionar la industria de los vehículos eléctricos, aún hay desafíos importantes que se deben superar para lograr una batería que pueda elevar la autonomía de los vehículos eléctricos hasta los 1.000 km.",
+        "gold": "La batería de metal-litio puede duplicar la capacidad de las baterías de iones de litio, pero se enfrenta a la formación de dendritas que reducen la vida útil."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada por el titular se encuentra en el cuerpo de la noticia, específicamente en la frase: \"Este informante asegura que esto será implementado en el título y que contaremos con una gran variedad en este aspecto.\" En otras palabras, la verdad detrás del titular es que 'GTA 6' incluirá por primera vez en la franquicia la característica de pesca, lo que sugiere que la información proviene de una fuente confiable.",
+        "gold": "Se podrá pescar."
+    },
+    {
+        "prediction": "La frase clave que revela la verdad detrás de la titular es: \"Mientras que el canadiense parece tener asegurado su asiento en Aston Martin hasta que el propietario quiera, puesto que es su padre, Lawrence Stroll\". Esto sugiere que Lance Stroll tiene un contrato asegurado en Aston Martin, pero solo hasta que su padre, Lawrence Stroll, lo desee.",
+        "gold": "Sergio Pérez, Carlos Sainz,  Fernando Alonso,  Esteban Ocon, Alexander Albon, Logan Sargeant, Yuki Tsunoda, Daniel Ricciardo,  Valtteri Bottas, Guanyu Zhou,  Kevin Magnussen y Nico Hulkenberg."
+    },
+    {
+        "prediction": "El resumen de la noticia en una sola frase es: Aston Martin ha anunciado un acuerdo de patrocinio con el Financial Times, lo que permitirá a ambas marcas compartir información y crecer juntas en la industria del automovilismo.",
+        "gold": "Financial Times."
+    },
+    {
+        "prediction": "La respuesta detrás del titular es: \"Cero\". Lola Lolita respondió que no había mantenido relaciones sexuales en los últimos 30 días.",
+        "gold": "No ha mantenido relaciones sexuales en los últimos 30 días y explicó que está más interesada en otros aspectos de su vida."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título de la noticia se encuentra en el cuerpo de la noticia, en la frase: \"El acuerdo tiene una duración de 10 años -lo que eleva el gasto hasta los 5.000 millones de dólares-\". En otras palabras, Netflix no ha invertido 5.000 millones de dólares en un \"nuevo bombazo\", sino que ha pagado 5.000 millones de dólares por los derechos de transmisión de los programas de WWE durante los próximos 10 años.",
+        "gold": "Ser el hogar exclusivo de 'Monday Night Raw' y otros programas de WWE por 10 años."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada por el titular se encuentra en la frase: \"Una mujer de 70 años había sido asistida por la Policía Local de Albacete en plena calle debido al estado de embriaguez en el que se encontraba.\" (Cita). En este caso, el titular no proporciona información incompleta o sensacionalista, sino que simplemente resume el contenido de la noticia de manera precisa y concisa.",
+        "gold": "Debido al estado de embriaguez en el que se encontraba."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada por el titular es: \"Sentadillas\". La vicepresidenta del Gobierno y ministra de Trabajo, Yolanda Díaz, menciona que realiza este ejercicio deportivo antes de cada mitin como parte de su ritual preparatorio para descargar estrés y prepararse para hablar en público.",
+        "gold": "Hace sentadillas antes de cada mitin como ritual deportivo para descargar estrés."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título es: \"Por favor, mantén mi imagen intacta\". Esta frase se encuentra en el cuerpo de la noticia, en el párrafo donde se menciona que Mbappé ha pedido a sus amigos y familiares que no desvelen nada de su situación para evitar filtraciones y mantener su imagen intacta.",
+        "gold": "Pidió discreción."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada por el titular se encuentra en el cuerpo de la noticia, en la frase siguiente a la mencionada: \"Me dijo que estaba bien, pero que el estribillo era un poco cursi\". Esta frase revela que Robe Iniesta no estuvo impresionado por la propuesta de C. Tangana, ya que consideró que el estribillo de la canción era un poco vulgar. En otras palabras, la respuesta a la pregunta planteada por el titular es que Robe Iniesta no encontró la propuesta de C. Tangana convincente.",
+        "gold": "\"Me dijo que estaba bien, pero que el estribillo era un poco cursi\""
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título de la noticia es: \"La pechuga de pavo de Hacendado es un producto saludable y nutritivo que aporta proteína de alta calidad y baja en grasa, lo que la convierte en una buena opción para incluir en una dieta equilibrada. Un experto en nutrición ha destacado su contenido en carne de pavo, su bajo contenido en grasa y su precio económico, y ha afirmado que es una opción interesante para incluir en la dieta. Además, la pechuga de pavo de Hacendado es fácil de digerir y de asimilar, lo que facilita la absorción de nutrientes. En definitiva, la nueva pechuga de pavo de Hacendado es un producto saludable y delicioso que ha revolucionado el mercado de los embutidos.\"",
+        "gold": "La pechuga de pavo de Hacendado de Mercadona está elaborado con un 92% de carne de pavo."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título se encuentra en el cuerpo de la noticia, en la frase: \"Durante su alocución, el tercero de los hijos del enlace Piñera Morel aseguró que 'no sabes la marca que nos dejas todo lo que hiciste'\". Esta frase revela que el hijo de Sebastián Piñera estaba homenajeando a su padre con el uso de una regla y un lápiz rojo, ya que estos objetos eran utilizados por el expresidente en su trabajo.",
+        "gold": "Porque su padre siempre utilizaba estos objetos al trabajar."
+    },
+    {
+        "prediction": "La respuesta a la pregunta sensacionalista \"Desbloquea el secreto detrás de la función de Palworld que permite reparar objetos de manera rápida\" es: \"El usuario de Reddit Weebsaika descubrió que, al pulsar la tecla R mientras se utiliza el repair bench, se puede reparar todo el inventario de objetos de una sola vez, lo que no se podía hacer con el método tradicional de reparación por objeto\".",
+        "gold": "Puede reparar su equipo pulsando R mientras usa el banco de reparación."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el titular se encuentra en el cuerpo de la noticia, específicamente en la frase: \"Darán vida a Reed Richards, Susan Storm, Ben Grimm y Johnny Storm, respectivamente\". En otras palabras, el casting de los actores que interpretarán a los miembros de la familia superheroica de Los 4 Fantásticos ha sido anunciado por Marvel.",
+        "gold": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach y Joseph Quinn."
+    },
+    {
+        "prediction": "El truco para hacer papas fritas crujientes es... secar bien las papas después de cortarlas. La noticia no proporciona una revelación sensacional o un secreto oculto, sino que simplemente ofrece una serie de pasos para preparar papas fritas crujientes de manera adecuada. La frase clave es \"Lava las papas: Lava las papas bajo agua fría para quitarles el exceso de almidón. Esto ayudará a que las papas queden más crujientes.\" Esta frase resume el verdadero significado de la noticia y proporciona una pista valiosa para aquellos que desean preparar papas fritas crujientes de manera efectiva.",
+        "gold": "Asegurarse de secar bien las papas después de cortarlas."
+    },
+    {
+        "prediction": "La noticia establece que Coppola vendió sus viñedos y bodega en Geyserville, California, en 2021, pero no para financiar la producción de la película. En cambio, se vendieron a la compañía Delicato Family Wines establecida en Napa Valley. Coppola había adelantado que vendría a hacerlo si era necesario para cumplir con su sueño de hacer \"Megalopolis\", pero la noticia indica que no fue necesario ya que había adelantado que lo haría si era necesario. En resumen, la verdad detrás del titular sensacionalista es que Francis Ford Coppola no vendió sus viñedos para financiar la producción de \"Megalopolis\".",
+        "gold": "Megalopolis."
+    },
+    {
+        "prediction": "La noticia no habla de una película de culto que no deja a nadie indiferente, sino que se centra en el director Yorgos Lanthimos y su película \"Alps\". La película es una obra de culto que explora el tema de la interpretación y la disociación de las personas en el contexto de una empresa que se dedica a representar a los difuntos. La respuesta a la pregunta planteada se encuentra en el cuerpo de la noticia, donde se analiza la película y su temática.",
+        "gold": "Alps."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada por el titular es: \"Aprendiz de todo y maestro de nada\". Esta frase se encuentra en el cuerpo de la noticia, en una cita de Dokibird, el personaje detrás de Selen Tatsuki. Esta frase sugiere que, a pesar de las acusaciones y decisiones tomadas por NIJISANJI, Selen Tatsuki ha aprendido de la experiencia y seguirá adelante sin permitir que las acciones de la agencia afecten su carrera o su reputación.",
+        "gold": "Selen Tatsuki."
+    },
+    {
+        "prediction": "La frase que resume esta información es: \"Vox exige al Gobierno de Navarra que cumpla con su obligación legal de transparencia\".",
+        "gold": "Publicación en el Portal de Transparencia de todos los elementos que deben ser dominio público."
+    },
+    {
+        "prediction": "En otras palabras, la joven no pagó 248 euros por una tarde en el Ibiza Beach Club, sino que en realidad pagó 124 euros por persona por las sillas y cócteles. La verdad detrás del titular es que la noticia no proporciona información completa y sensacionaliza el precio de la afición, lo que genera una pregunta o información incompleta.",
+        "gold": " 248 euros entre dos personas."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada por el titular se encuentra en la siguiente frase: \"Su colaboración con Mediaset no gustó nada en las altas esferas\". Según la noticia, la dirección de Atresmedia no estaba satisfecha con la colaboración de Fran Rivera en el programa 'Espejo Público' debido a su aparición en el programa de Telecinco 'Déjate querer' con Toñi Moreno, lo que llevó a la decisión de prescindir de su colaboración.",
+        "gold": "Se refieren a Fran Rivera, el motivo fue aparecer en Telecinco. "
+    },
+    {
+        "prediction": "La noticia se centra en la intervención de la Guardia Civil en Albacete para controlar la venta de artículos pirotécnicos durante la campaña navideña. Aunque la mayoría de los artículos intercetados pertenecían a la categoría F1, que es de baja peligrosidad y venta libre en cualquier establecimiento, algunos estaban siendo vendidos en establecimientos no autorizados, lo que violaba la normativa. La Guardia Civil inició 15 denuncias por infracciones administrativas y recogió 23.032 unidades de artículos pirotécnicos en total.",
+        "gold": "Vendían Atículos pirotécnicos sin la correspondiente autorización."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título es: No hay sorpresas. AMD ha revelado las frecuencias de los núcleos Zen 4c en los procesadores Ryzen 3 8300G y Ryzen 5 8500G, y no hay cambios significativos respecto a lo que se había esperado.",
+        "gold": " Para el Ryzen 3 8300G: Base Clock de 3,2 GHz y Boost de 3,6Ghz. Para el 8500G: Base Clock de 3,2Ghz y Boost de 3,7Ghz. "
+    },
+    {
+        "prediction": "En otras palabras, la verdad es que Paola Bianco será la nueva copresentadora del Carnaval 2024, después de que Claudia Fernández rechazara la oferta. La noticia no menciona a otra conductora famosa que pueda presentar el Carnaval, por lo que la respuesta a la pregunta planteada es Paola Bianco.",
+        "gold": "Paola Bianco."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada en el título de la noticia es: \"No necesitarás cambiar tus relojes por ahora\". Según el artículo, el aumento de la duración del día a 25 horas es un fenómeno que ocurrirá en el futuro lejano, alrededor de 200 millones de años. Por lo tanto, no hay necesidad de cambiar los relojes en la actualidad.",
+        "gold": "En 200 millones de años."
+    },
+    {
+        "prediction": "La respuesta a la pregunta planteada por el titular de la noticia es: \"El conductor bebido no le dio un 'buen disgusto' al propietario del coche aparcado, sino que chocó contra él y causó daños materiales.\"",
+        "gold": "El conductor que triplicaba la tasa máxima de alcohol permitida chocó contra un coche que estaba estacionado."
+    },
+    {
+        "prediction": "En lugar de la sensación de \"malas noticias\", la verdad es que Microsoft está enfocado en la inteligencia artificial y la actualización de Windows 11 será una gran versión con importantes cambios y novedades, incluyendo la integración de la IA en el sistema operativo. La actualización reemplazará toda la instalación de Windows 11 y será tan distinta de la versión 23H2 de 2023 que podría ser lanzada con el nombre de Windows 12. En resumen, el titular sensacionalista no refleja la verdad detrás de la noticia, que indica que Windows 12 no estará disponible en 2024, sino que se lanzará una actualización de Windows 11 con importantes cambios y novedades, incluyendo la integración de la IA.",
+        "gold": "Se podría retrasar hasta 2025."
+    }
+]

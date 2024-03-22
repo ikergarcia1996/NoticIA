@@ -1,0 +1,61 @@
+#Training args
+model_name_or_path: NousResearch/Nous-Hermes-2-SOLAR-10.7B
+torch_dtype: bfloat16
+trust_remote_code: true
+use_lora: false
+quantization_inference: null
+gradient_checkpointing: true
+force_auto_device_map: false
+use_flash_attention: true
+deepspeed: configs/deepspeed_configs/deepspeed_zero3.json
+generation_config: generation_config.json
+stop_words:
+  - "<|im_end|>"
+  - "<|im_end|>\n"
+  - "<|im_start|>"
+  - "<|im_start|>system"
+  - "<|im_start|>user"
+  - "<|im_start|>assistant"
+  - "</s>"
+  - "<s>"
+  - "\n"
+
+# dataset arguments
+train_datasets: 
+  - train
+validation_datasets: 
+  - validation
+test_datasets: 
+  - test
+
+max_seq_length: 8192
+generation_max_length: 8192
+
+# checkpoint settings
+output_dir: results/zero/NousResearch_Nous-Hermes-2-SOLAR-10.7B
+overwrite_output_dir: true
+
+# evaluation
+do_train: false
+do_eval: false
+do_predict: true
+predict_with_generate: true
+
+per_device_eval_batch_size: 4
+generation_num_beams: 1
+
+
+# reporting
+logging_strategy: steps
+logging_first_step: true
+logging_steps: 5
+report_to: wandb
+run_name: "Nous-Hermes-2-SOLAR-10.7B"
+disable_tqdm: false
+
+
+# performance
+bf16: true
+fp16: false
+torch_compile: false
+ddp_find_unused_parameters: false

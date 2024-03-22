@@ -1,0 +1,402 @@
+[
+    {
+        "prediction": "La abuela de 97 años se opone al abrigo regalado por su nieta, que considera \"viejo\". La joven, fan de la marca, promete llevarla al centro comercial Bershka, perteneciente a Inditex, cuyo público se caracteriza por ser jóvenes y con interés en las nuevas tendencias, lo que sugiere que la abuela no es parte de esa audiencia. El relato ha generado más de 1.000 'me gusta' y cerca de 100 retuits en Twitter.",
+        "gold": "No le ha gustado por que \"es de vieja\". "
+    },
+    {
+        "prediction": "El 15 de enero de 2024 marca el regreso a clases para muchos estudiantes, lo cual es motivo de tristeza para muchos, oficializado por el Ministerio de Educación.",
+        "gold": "El regreso a clases para muchos estudiantes."
+    },
+    {
+        "prediction": "La TikToker @aprildgr8 revela sorpresa por la práctica española de abreviar nombres como Marisa (María Luisa), Marian (María Ángeles), y Mamen (María del Carmen), mientras que Juanjo (Juan José) y Josemi (José Miguel) son variantes comunes de nombres en España.",
+        "gold": "Las contracciones de los nombres."
+    },
+    {
+        "prediction": "La comedia familiar y navideña Mejor Navidad ¡imposible!, con duración de 80 minutos y clasificación TV-PG, se estrenó en Netflix el 16 de noviembre de 2023 y se destaca por su humor, drama y espíritu festivo. La trama sigue a Charlotte (Heather Graham), que se siente celosa de su amiga de la universidad, Jackie (Brandy Norwood), por las cartas de felicitaciones navideñas que envía cada año. Charlotte llega a la puerta de Jackie días antes de Navidad con la intención de demostrar que la vida de Jackie no es tan idílica como parece. El reparto también incluye a Jason Biggs y Matt Cedeño. La película es una producción de Netflix que forma parte de su tradición anual de ofrecer contenido temático navideño, continuando con su compromiso de entregar entretenimiento variado y de calidad a su audiencia global.",
+        "gold": "Mejor Navidad ¡imposible!"
+    },
+    {
+        "prediction": "Los patinetes eléctricos se prohiben en los trenes de Renfe, Ouigo y Iryo a partir del 12 de diciembre. Las bicicletas, por otro lado, siguen siendo permitidas, siguiendo las especificaciones de cada operador. En horas punta en Sevilla, sin embargo, se recomienda no llevar bicicletas en el metro para evitar molestias a los demás pasajeros. Las bicicletas deben situarse en los espacios especiales dedicados a la bicicleta en los trenes de gran capacidad, y en el resto de unidades se permite llevarlas siempre que no ocupe demasiado espacio. Renfe recomienda esperar otro tren o solicitar el retorno del importe del billete en momentos de máxima ocupación. Las bicicletas plegables pueden viajar como equipaje de mano o especial, según las medidas, y en los trenes de media distancia y alta velocidad también se permite, siempre que estén desmontadas o embaladas. Iryo es la única compañía que permite llevar las bicicletas gratuitamente, siempre que estén desmontadas y empaquetadas en una funda debidamente cerrada.",
+        "gold": "Los usuarios de estos vehículos pueden continuar llevando sus bicicletas en los trenes."
+    },
+    {
+        "prediction": "El público de 'El Hormiguero' ha dado una espectacular bienvenida a Isabel Díaz Ayuso con gritos de \"presidenta, presidenta\" y ovaciones, similar a la que se le da a artistas populares. El presentador Pablo Motos ha advertido sobre la popularidad efímera en política. (Resumen de una sola frase)",
+        "gold": "Ha habido gritos de ¡presidenta, presidenta!"
+    },
+    {
+        "prediction": "La noticia se centra en la decisión de Jürgen Klopp de manejar las cargas de sus jugadores para evitar lesiones. El titular sensacionalista sugiere que se produjo un revólver total en Liverpool debido a la decisión de Klopp, pero en realidad se refiere a la rotación de jugadores para el partido de la UEFA Europa League contra Union St. Gilloise. El resumen de una sola frase que revela la verdad detrás del titular es: \"Klopp avisó que varios de sus jugadores tendrían que entrar en un proceso de manejo de cargas para evitar lesiones, y se espera un equipo muy cambiado con muchos jóvenes del Liverpool teniendo minutos de juego en el partido de la UEFA Europa League contra Union St. Gilloise, ya que Liverpool ya se clasificó y tiene asegurado el primer lugar en la fase de grupos.\"",
+        "gold": "Jürgen Klopp quiere hacer rotaciones en el equipo para evitar lesiones."
+    },
+    {
+        "prediction": "Resumen: Mediaset busca crear problemas personales para Vicente Vallés, esposo de presentadora Ángeles Blanco, para enfrentarla diariamente en la batalla por la audiencia en los informativos de Telecinco, según fuentes cercanas a la cadena. Blanco es una de las presentadoras en consideración para acompañar a Carlos Franganillo en las noticias de las 21 horas, mientras que Chaparro se descarta casi. La nueva era de los informativos de Telecinco y Cuatro comienza en enero y se espera que se estrene probablemente el 7 de enero o en la segunda quincena, con el objetivo de darle impulso a las noticias de las 9 de la noche y posteriormente al prime time, que ha relegado a Mediaset España a la tercera posición. El último mes de noviembre ha sido catastrófico para Telecinco en cuanto a audiencia, con un 10,4% de cuota de pantalla y 1.346.000 espectadores para los informativos de las 21 horas, igual que el Telediario 2, que ha registrado un 10,5% y 1.373.000 espectadores. Globalmente, Informativos Telecinco cae hasta el 10,7% de share y 1.229.000 espectadores. Antena 3 lidera en el global de sus espacios de Antena 3 Noticias con un 18,7% y 2.144.000 fieles.",
+        "gold": "Mediaset podría poner a Ángeles Blanco (esposa de Vallés) en el informativo de la misma hora que el de su marido."
+    },
+    {
+        "prediction": "Los ganadores del primer, segundo y tercer premio de la Lotería de Navidad pagan un impuesto del 20% sobre la parte que exceda los 40.000 euros, según recuerda la Agencia Tributaria. Los premios inferiores a esa cantidad se exoneran del gravamen especial de loterías. Desde 2013, se aplica este impuesto del 20% a los premios de Loterías del Estado, comunidades autónomas, ONCE, Cruz Roja Española y entidades análogas europeas que superan un umbral que ha ido variando con los años. En 2022, el gravamen especial de loterías recaudó 364 millones de euros.",
+        "gold": "Todos los premios superiores a 40.000 euros tributan un 20%. "
+    },
+    {
+        "prediction": "La hija de José Luis Gil se ocupa activamente de la situación médica de su padre y difunde información en redes sociales debido a que él no se siente preparado para responder a los mensajes. La actriz Macarena Gómez ha reconocido que José Luis se toma muy en serio su trabajo y que se hicieron amigos cuando se apagaban las cámaras. La última en hablar sobre el asunto ha sido Irene Gil, quien ha explicado que es duro hablar en nombre de su padre y que la situación está controlada, aunque el estado de salud del actor debe seguir mejorando. Los actores de 'La que se avecina' han enviado mensajes amables a José Luis a través de las cámaras y también se reúnen con él cuando se presenta la oportunidad. Macarena Gómez ha afirmado que en la serie les esperan con los brazos abiertos y que el resto del reparto le echa mucho en falta. La vida de José Luis cambió para siempre en noviembre de 2021, cuando sufrió un derrame cerebral que le obligó a retirarse de la industria del espectáculo. Actualmente es uno de los protagonistas de 'La que se avecina', pero su presencia en la ficción de Telecinco le dio una popularidad inigualable. Los compañeros de reparto de la serie se han mostrado comprensivos con José Luis y han reconocido que no habrían hecho nuevos capítulos si hubieran sabido que el actor no podía participar.",
+        "gold": "Macarena Gómez: \"José Luis tiene dificultad para hablar, pero él entiende todo lo que está pasando. Me da mucha pena, es un ser extremadamente inteligente y culto\"."
+    },
+    {
+        "prediction": "El profesor español Alejandro Mesa, que vive en Japón y comparte en redes sociales su vida en el país, revela que se molesta por el gran uso de plástico en sus supermercados de confianza, ya que casi todo se envasa en él y es difícil reciclar o usarlo mínimamente debido a que hasta tres frutas o verduras se envasan. Así, cualquier cosa lleva algo de plástico, desde las uvas y los caquis hasta las patatas y las berENJENAS, y las bebidas vienen en briks recubiertos de plástico.",
+        "gold": "La mayor parte de los artículos están envueltos en plástico."
+    },
+    {
+        "prediction": "Anabel Pantoja declaró quién es su candidato favorito para ganar 'Gran Hermano VIP 8': Albert Infante. La influencera, colaboradora del programa, se ha mostrado abiertamente a favor del catalán desde el principio y ha pedido a sus seguidores que vote por él. Anabel ha manifestado en repetidas ocasiones su gran simpatía por Albert y su personalidad, lo que la lleva a desear que se lleve el premio. Esta declaración llega después de que Carmen Alcayde fuera eliminada en la última gala, sorprendiendo a los espectadores y a los concursantes, ya que la presentadora de 'Aquí hay tomate' se encontraba entre los seis finalistas más avanzados en la competencia. Anabel ha sido una de las colaboradoras más comprometidas de la octava edición de 'Gran Hermano VIP', aceptando incluso dos ocasiones la proposición de la misma. Durante sus visitas a la casa de Guadalix de la Sierra, Pantoja pudo observar el comportamiento de Jessica y defenderla de los rumores de relación con Michael y Lutingo cuando estaba con Pablo Marqués.",
+        "gold": "Albert Infante."
+    },
+    {
+        "prediction": "El equipo de Marcelo Gallardo, eliminado en la segunda ronda, se llevó el premio Fair Play en el Mundial de Clubes por tener solo una tarjeta amarilla en los dos partidos disputados.",
+        "gold": "Premio al juego limpio al recibir solo una amarilla. "
+    },
+    {
+        "prediction": "El resumen de una sola frase que revela la verdad detrás del titular \"James Gunn desmiente el principal rumor de Superman: Legacy\" es: \"Gunn descartó una de las especulaciones más importantes sobre el guion del filme: que parte de las acciones se desarrollarían en Oriente Medio\".",
+        "gold": "Descartó una de las especulaciones más importantes sobre el guion del filme: que parte de las acciones se desarrollarán en Oriente Medio."
+    },
+    {
+        "prediction": "El artículo explica que la ansiedad es un problema común en la actualidad, según los expertos, y que más de 301 millones de personas en todo el mundo la sufren. En España, el 6,7% de la población padece ansiedad diagnosticada, según datos del Ministerio de Sanidad. Los expertos recomiendan ejercicio físico, buena rutina de sueño, alimentación saludable y, en algunos casos, terapia o medicamentos. Además, existen técnicas como la respiración y la acupresión, que han demostrado eficacia. Para aliviar la ansiedad, se debe presionar un punto concreto llamado Extra-1, situado entre las cejas, según el Memorial Sloan Kettering Cancer Center de Nueva York. Esta técnica, que se puede realizar en casa, no debe ser dolorosa y se puede repetir varias veces al día hasta que se mejoren los síntomas.",
+        "gold": "Según la medicina tradicional china, hay que presionar entre las cejas. "
+    },
+    {
+        "prediction": "La presentadora de 'Sálvame' Jorge Javier Vázquez ha revelado en el programa de Telecinco que una de sus experiencias más difíciles en el instituto fue debida al potro, uno de los desafíos de entrenamiento para asaltar el despacho de Paolo Vasile en una misión para la película 'Way Down'. Vázquez explicó que durante el bachillerato, en el BUP, estaba obsesionado con saltar el potro y hacer deporte, lo que le llevó a pasar días muy malos. \"Una de mis mayores depresiones fue por culpa del potro\", dijo con una sonrisa en la cara, \"Todo pasa, mira donde está el potro y donde estoy yo\".",
+        "gold": "Tener que saltar el potro. "
+    },
+    {
+        "prediction": "El comentario de Jordi Cruz sobre el vestido de Cristina Pedroche en las Campanadas es: \"Para hacer el vestido de la Pedroche necesitas... un rollo de papel de plástico, pincel y pintura turquesa\" (© Sociedad Española de Radiodifusión, S.L.U.).",
+        "gold": " \"Para hacer el vestido de la Pedroche necesitas... un rollo de papel de plástico, pincel y pintura turquesa\"."
+    },
+    {
+        "prediction": "El resumen de la verdad detrás del titular \"Pablo Motos aclara la verdad sobre la entrevista a Ayuso en 'El Hormiguero'\" es: \"Isabel Díaz Ayuso se mostró solvente y preparada en la entrevista a 'El Hormiguero', según comentaron Juan del Val y Cristina Pardo de la tertulia de actualidad del programa. Tamara Falcó se preguntó si sabía las canciones que se iban a interpretar, y Motos confirmó que había entre 30 y 40 y que ella las sabía, pero Juan del Val y Cristina Pardo también señalaron que no todo le salió bien, como su respuesta sobre los muertos en las residencias y el bloqueo en Whatsapp a Teodoro García Egea.\" (Cita: \"Me parece que estuvo enormemente solvente. A mí me sorprendió porque venía muy bien preparada. Tuvo un discurso bastante inteligente. Me llama mucho la atención el enfado que ha provocado en la gente muy de izquierdas, porque en el fondo pensaban que aquí iba a estar mal, que no iba a estar a la altura. No sé si que estuviera tan bien enfadó más a la gente de izquierdas o a Pablo Casado\", dijo Juan del Val.)",
+        "gold": "El juego de las canciones no fue un montaje. "
+    },
+    {
+        "prediction": "Tamara Falcó afirma que no le gusta que se le despreste respeto en su relación, pero no se considera celosa. Cuando se le preguntó sobre Íñigo Onieva, su actual novio, dijo: \"No me gusta que me falten el respeto. Hay un límite porque he visto relaciones cercanas a mí e incluso yo lo he sufrido que, porque uno de la pareja se ponga a hablar con otra persona, su pareja se ponga a sudar la gota gorda, y eso es horrible\". Sin embargo, aclaró que no es celosa, sino que crece que ella y su pareja valen más y que no se le deba hacer tonterías inaceptables que le despresten respeto. Estas declaraciones fueron muy aplaudidas por el público presente en el plató de Antena 3.",
+        "gold": "Se refiere a que no le gusta la falta de respeto. "
+    },
+    {
+        "prediction": "El titular engañoso sobre los turistas británicos se refiere a la popularidad creciente de La Palma, una isla menos conocida de las Canarias, debido a su buen clima y menor masificación turística. Según The Sun, alrededor de 150,000 turistas llegan anualmente a La Palma, en comparación con los millones que visitan a sus hermanas mayores. Además, se destaca la belleza natural de la isla, con un pedestal para observar el cielo y una gastronomía local deliciosa, incluyendo galletas de almendra tradicionales y un ron elaborado con caña de azúcar desde hace cientos de años.",
+        "gold": "La isla de La Palma."
+    },
+    {
+        "prediction": "Respuesta: \"Madrileños caminan rápido para llegar a todos lugares en 10 minutos, según algunos comentarios en la noticia\"",
+        "gold": "La rapidez con la que se vive en esta ciudad y lo rápido que camina la gente."
+    },
+    {
+        "prediction": "El experto en protección civil de Cádiz afirma que \"evacuar a todo el mundo a la vez para evitar el tsunami sería meter a la gente en la boca del lobo. Además, no hay tiempo para ello, desde el terremoto previo, a que haya un maremoto, tenemos entre 30 y 45 minutos, aproximadamente, y en ese tiempo no podemos mandar gente por el mar, la vamos a mandar a lugar de exposición\". (Fuente: Emilio Doménech charla con José Manuel Calvo, coordinador de protección civil del Ayuntamiento de Cádiz, sobre el tsunami que los expertos afirman que viviremos en algún momento.)",
+        "gold": "Tenemos entre 30 y 45 minutos."
+    },
+    {
+        "prediction": "El premio Nobel, instituido por Alfred Nobel en 1901 con el fin de devolver parte de su fortuna a la comunidad, otorga 10 millones de coronas suecas a cada uno de sus ganadores, equivalente a 900.000 euros o 1 millón de dólares. Sin embargo, el impacto económico real de este premio es menor debido a que el dinero se puede compartir entre hasta tres personas en un campo determinado y está sujeto a impuestos. La mayoría de los laureados no se retiran con el dinero del premio ni abandonan sus empleos en universidades o otras instituciones académicas. En cambio, el estatus de celebridad que les otorga el premio puede abrirles puertas y brindarles oportunidades para colaborar con otros científicos y académicos de renombre. Además, muchos laureados eligen donar parte o la totalidad de su premio a instituciones académicas o caritativas. Así, el premio Nobel no convierte a los laureados en millonarios instantáneos, sino que les otorga reconocimiento y oportunidades profesionales.",
+        "gold": "900.000 euros."
+    },
+    {
+        "prediction": "El Banco de España recomienda guardar tres meses de gastos en una cuenta a la vista con liquidez inmediata para abordar emergencias, en lugar de mantener dinero en efectivo en casa. Esta medida se propone para cubrir desafíos inesperados como averías domésticas, intervenciones quirúrgicas de mascotas o problemas con el vehículo. Sin embargo, el banco aclara que esta cantidad de dinero también puede ser almacenada en la cuenta bancaria, en lugar de en efectivo en casa, como medida de seguridad en caso de necesidad inmediata de liquidez. El banco también sugiere que la cantidad ideal sería de seis meses de gastos fijos, pero reconoce que esto puede ser difícil de lograr para todas las familias debido a sus circunstancias particulares.",
+        "gold": "Tres meses de gastos."
+    },
+    {
+        "prediction": "Marc Guiu, delantero de la cantera del Barça con 18 años, no formará parte de los planes de Xavi Hernández en el primer equipo, ya que el fichaje de Vitor Roque no afectará a su incorporación. Guiu, que ha disputado tres partidos oficiales con el primer equipo y tres con el filial, está en dinámica con el Juvenil A debido a que el entrenador mexicano tiene otras prioridades para el centro de la delantera, como Pau Víctor y Diego Percan. Sin embargo, es importante que Guiu juegue de forma regular, ya que tiene compromisos importantes con el Juvenil A, como el Celta-Barça en 1/16 de final de la Copa del Rey y el Mainz-Barça en el playoff de acceso a octavos de final de la UEFA Youth League a inicios de febrero.",
+        "gold": "Se encuentra con el Juvenil A por que juega importantes partidos próximamente. "
+    },
+    {
+        "prediction": "La pizza ganadora de Baldoria, restaurante italiano en Madrid, se destaca por el uso de calabaza, ingrediente poco común en el plato. Se trata de una exquisita combinación de crema de calabaza, queso ricotta, 'nduja de Calabria, calabaza asada y romero, todos productos de alta calidad, tanto españoles como italianos. Esta pizza ha sido reconocida como la mejor de Madrid y la tercera mejor de España en un certamen organizado por La Mejor Pizza. El dueño del restaurante, Ciro Cristiano, se alegró con el nuevo reconocimiento, ya que se preocupan mucho por la calidad de todos los platos, especialmente de las pizzas, que se hacen siguiendo un estilo napolitano contemporáneo con materias primas de excelente calidad. Las pizzas napolitanas de Baldoria se han convertido en grandes favoritas de la crítica y el público por su masa esponjosa, sus ingredientes frescos y de calidad, y el toque de los pizzaiolos de la casa.",
+        "gold": "La pizza con calabaza de Baldoria."
+    },
+    {
+        "prediction": "La noticia se enfoca en la aprendizaje de catalán por parte de la presentadora española popular, Paula Vázquez, durante su estancia de 7 años en Santa Eulàlia, un barrio de l'Hospitalet. Durante un episodio de Late Xou, presentado por Marc Giró en TVE, Vázquez habló en catalán junto con Giró, quien la animó a recordar un poema de Salvador Estiu, \"Assaig de càntic en el temple\", que ella aprendió gracias a su profesor de catalán, Francesc, durante su adolescencia. Giró también comentó sobre la belleza de Vázquez y la comparación entre la imagen de ella de pequeña y la actual, recordando los comentarios desfavorables que ella recibía por su apariencia en la infancia. La noticia finaliza invitando a seguir ElNacional.cat en WhatsApp para obtener la actualidad en un solo clic.",
+        "gold": "Paula Vázquez, por que vivió en l'Hospitalet de los 11 a los 18 años. "
+    },
+    {
+        "prediction": "Ramos rechaza firmar una camiseta del Real Madrid debido a que es gente que las subasta o vende en internet después de ya haber firmado seis camisetas del equipo en el pasado.",
+        "gold": "Se debe a que era de gente que las subasta en internet."
+    },
+    {
+        "prediction": "Emma García, con 50 años, revela el secreto de su matrimonio duradero con Aitor, que conoció a los 16 años. Contra la creencia de que no duraría por ser tan jóvenes, el tiempo ha demostrado que están bien juntos. La presentadora de 'Fiesta' explica que \"no hay secretos\" para un matrimonio duradero, sino que solo hay que querer estar juntos y respetarse mutuamente. Emma García se sincera sobre su relación y confiesa que el paso del tiempo les ha hecho ver lo mucho que se quieren. La pareja ha formado una familia con su única hija en común, Uxue, quien tiene 17 años. Emma García se implica en la educación de su hija y ha sabido separar lo que es trabajo de la vida real. Para ella, su gran triunfo es la familia que ha formado a lo largo de los años.",
+        "gold": "No hay secretos."
+    },
+    {
+        "prediction": "Álvarez de Toledo revela en El Mundo que Casado le dijo a García Egea: \"Le reconoció que le entregó todo el poder\"",
+        "gold": "\"Reconozco que yo le he entregado todo el poder a Teodoro\"."
+    },
+    {
+        "prediction": "La princesa Leonor confiesa su gusto por la comida rápida, especialmente por la hamburguesa de McDonald's y la hamburguesa Panzzer con panceta curada de Teruel, cebolla caramelizada de Fuentes de Ebro y patatas fritas. Se desvela esto al salir a luz que incorpora estas recetas de origen estadounidense en su alimentación, tanto en la capital aragonesa como en la Academia General Militar de Zaragoza, donde también le gusta la comida rápida. Además, durante su estancia en la capital aragonesa ha visitado un bar especializado en tapas, bocatas y hamburguesa llamado El Tuno, donde disfrutó de varios platos para compartir con sus amigos, como huevos rotos, pizzas y hamburguesas.",
+        "gold": "Hamburguesas."
+    },
+    {
+        "prediction": "La publicación \"La decisión que han tomado Sergio Ramos y Pilar Rubio aclara los rumores de crisis - El Periódico Extremadura\" presenta un título que plantea una pregunta o proporciona información incompleta. El resumen de una sola frase que revela la verdad detrás del titular es: \"Después de un año marcado por una supuesta crisis en su matrimonio, Sergio Ramos y Pilar Rubio cerraban el año zanjando todos los rumores con un posado familiar y unas imágenes muy románticas\" (EP). La pareja se dedicaba unas bonitas palabras en sus respectivas cuentas de Instagram dejando claro que su historia de amor marcha viento en popa.",
+        "gold": "Han realizado un posado familiar. "
+    },
+    {
+        "prediction": "El método efectivo para calentar pizza guardada sin perder su textura crujiente es calentarla en una sartén con fuego medio o bajo, solo necesarias horas para que se caliente y se puede cubrir para que la base y la parte superior sean uniformes en la temperatura. Otra opción menos efectiva es calentar la pizza en el microondas con un vaso de agua o un papel absorbente para que estos absorban la humedad y la masa no se vuelva tan blanda.",
+        "gold": "Recalentarla en la sartén."
+    },
+    {
+        "prediction": "Resumen: La aspiración de Jonathan Ive y Steve Jobs era la de un iPhone con solo pantalla como elemento frontal, y proveedores ya tienen instrucciones para hacerlo posible. Se espera verlo en los modelos profesionales a partir de ahora, según iTavisen, pero no se ha establecido una fecha para los iPhone estándar. La fuente apuesta por la siguiente agenda para los iPhone estándar en 2028 o 2029, pero se recomienda la cautela debido a la posible evolución de la tecnología en esos plazos.",
+        "gold": "Un iPhone con la pantalla como único elemento frontal."
+    },
+    {
+        "prediction": "Final Fantasy XVI, lanzarse el 22 de junio para PS5 y PC, con una duración de entre 35 y 40 horas en su campaña principal, según un miembro del equipo de desarrollo presentado en The Game Awards 2022. (Resumen de una sola frase)",
+        "gold": "22 de junio."
+    },
+    {
+        "prediction": "Djokovic aprendió de Federer que se debe jugar \"lo mejor que pueda cuando es necesario\" para gestionar mejor sus esfuerzos y aumentar las posibilidades de ganar, como se evidenció en la final de Wimbledon de 2019, en la que venció al suizo en cinco sets, a pesar de que Federer fue mejor jugador en todos los aspectos. (Resumen de una sola frase)",
+        "gold": "Debe jugar \"lo mejor que pueda cuando es necesario\" para así gestionar mejor sus esfuerzos."
+    },
+    {
+        "prediction": "El análisis de noticias sensacionalistas o clickbait revela que un fósil de tiranosaurio conserva su presa en el estómago. El titular sugiere que se trata de un descubrimiento importante, pero la noticia en sí mismo indica que se han encontrado las patas traseras de dos crías de dinosaurio dentro del estómago de un tiranosaurio joven. El contenido del estómago es único en el registro fósil y se cree que indica que los tiranosaurios jóvenes tenían dietas diferentes a las de los adultos completamente desarrollados. El tiranosaurio en cuestión, un Gorgosaurus libratus, habría pesado alrededor de 772 libras (350 kilogramos) y habría alcanzado 13 pies (4 metros) de largo en el momento de su muerte. La criatura tenía entre 5 y 7 años y parecía ser exigente con lo que consumía, matando y comiendo las extremidades traseras de dos Citipes, dinosaurios parecidos a pájaros, en diferentes momentos. El descubrimiento marca la primera vez que los investigadores tienen evidencia directa de la hipótesis de que los tiranosaurios jóvenes tenían dietas diferentes a las de los adultos completamente desarrollados. El contenido de la cavidad del estómago reveló que en esa etapa de la vida, los jóvenes cazaban presas pequeñas y veloces, probablemente debido a que el cuerpo del depredador aún no estaba preparado para presas más grandes. El apetito voraz de los tiranosaurios adolescentes y otros carnívoros explica una característica desconcertante de la diversidad de los dinosaurios: hay relativamente pocos dinosaurios pequeños y medianos en el registro fósil, especialmente en el período Cretácico medio y tardío.",
+        "gold": "Las patas traseras de dos crías de dinosaurio."
+    },
+    {
+        "prediction": "El resumen de una sola frase que revela la verdad detrás del titular es: \"Glòria Serra admitió enfado con la dirección por un reportaje sobre Daniel Sancho para abrir la temporada actual de 'Equipo de investigación', pero aseguró que obtuvieron buen material y testimonios importantes, y que tienen al mejor equipo del mundo\" (Marca).",
+        "gold": "Cuando le dijeron que harían un reportaje de Daniel Sancho, le parecía que ya había demasiados periodistas hablando del tema y que no tenían nada nuevo que explicar. "
+    },
+    {
+        "prediction": "El artículo compara las características de Alexa, Siri y Google Assistant, y concluye que la elección entre ellos depende de las preferencias y dispositivos existentes del usuario. Amazon se destaca por la amplia compatibilidad de Alexa con más de 60,000 dispositivos de 4,500 fabricantes, mientras que Google Assistant se distingue por su inteligencia avanzada y capacidad para comprender preguntas complejas. Siri se integra bien en el ecosistema de Apple y se enfoca en la privacidad, sin asociar datos con perfiles personales. La elección entre ellos depende de si se prefiere una experiencia integrada con Siri, una amplia compatibilidad con Alexa o la inteligencia avanzada de Google Assistant.",
+        "gold": "No dicen cual es el mejor, depende de tus preferencias. "
+    },
+    {
+        "prediction": "La imagen de Pedro Sánchez y Yolanda Díaz se ha vuelto viral en Twitter debido a su interacción afectuosa durante la Cumbre Hispano-Portuguesa. Díaz mostró su lado más afectuoso con Sánchez durante el saludo y él le devolvió el gesto al final de la rueda de prensa. La imagen ha provocado un gran revuelo en Twitter con numerosos comentarios en tono de humor sobre su significado, incluyendo referencias a promesas incumplidas y juegos de seducción. Sin embargo, algunos usuarios destacan la importancia de Díaz como una mujer capaz de cambiar más las cosas que los políticos confrontativos.",
+        "gold": "Mantuvieron una conversación de unos segundos que captaron las cámaras en directo."
+    },
+    {
+        "prediction": "El Barcelona y el Girona se alegran de que Savinho y Vitor Roque sean excluidos de la convocatoria de Brasil sub-19 para el mes de enero, evitando así ausencias en las jornadas 21, 22, 23 y 24 si la selección llegara hasta el final del torneo. El club blanco también cuenta con dos convocados, Endrick y Vinícius Tobías, pero el Real Madrid se abstiene de opacar la decisión de los clubes en estos casos. La partida de Endrick con la selección brasileña busca una plaza en los Juegos Olímpicos de París.",
+        "gold": "Savinho y a Vitor Roque no van convocados al preolímpico, Endrick y Vinicius Tobias sí."
+    },
+    {
+        "prediction": "El cambio importante para cobrar premios en la Lotería de Navidad en 2023 será más difícil, ya que se reducirán las entidades bancarias autorizadas por la Sociedad Estatal Loterías y Apuestas del Estado (SELAE) para cobrar los premios mayores a solo dos: BBVA y CaixaBank. Sin embargo, no es necesario ser cliente de ninguna de ellas para cobrar los premios, y también se permite cobrar en una delegación territorial de Loterías y Apuestas del Estado con solo presentar el DNI y el décimo premiado, sin importar la cantidad recibida. El plazo máximo para cobrar los premios es de 3 meses, y después, el pago caduca y no se puede hacer efectivo. Además, se mantiene la retención del 20% de la parte de cada premio que exceda el importe exento de 40.000 euros para impuestos. El sorteo de la Lotería de Navidad del próximo 22 de diciembre repartirá 2.408 millones, y el Gordo de la Lotería de Navidad 2023 tendrá un premio de 400.000 euros al décimo.",
+        "gold": "Si el premio es mayor de 2.000 euros sólo se podrá cobrar en 2 bancos: BBVA y CaixaBank (antes eran 8 bancos)"
+    },
+    {
+        "prediction": "\"En marzo de 2024 se estrena 'El problema de los tres cuerpos', adaptación de la novela de ciencia ficción de Liu Cixin, con David Benioff y D.B. Weiss como productores ejecutivos. La serie de ocho episodios explora misterios científicos que ponen en peligro la vida como la conocemos, desde la China de los años 60 hasta nuestros días. El reparto incluye a Benedict Wong, Jovan Adepo y Rosalind Chao.\"",
+        "gold": "21 de marzo de 2024."
+    },
+    {
+        "prediction": "El valor de la plantilla de Barcelona es aproximadamente 862 millones de euros, mientras que el de América es de 87 millones. En el encuentro amistoso entre ambos, la diferencia de valor es abismal, con Barcelona valiendo casi diez veces más que América, actual campeón de la Liga BBVA MX. (Fuente: Transfermarkt)",
+        "gold": "De acuerdo con Transfermarkt, El FC Barcelona tendría un valor aproximado de 862 millones de euros, mientras que el América apenas valdría 87 millones."
+    },
+    {
+        "prediction": "\"Influencer\" Marta Díaz, que planeaba un viaje espectacular en los Alpes, se ha vuelto a España de urgencia debido a que se ha roto el ligamento cruzado después de una caída muy fuerte. Se siente mal y psicológicamente dolorosa, ya que ha sido un año horrible y esta experiencia ha sido la gota que colma el vaso. Necesita un descanso en redes y se compromete a informar a sus seguidores sobre sus actualizaciones de estado.",
+        "gold": "Se ha roto el ligamento cruzado."
+    },
+    {
+        "prediction": "Josep Pedrerol, presentador y director de 'El Chiringuito de Jugones', ha despedido a un colaborador conocido del programa después de más de una década. Borja Mazarro, miembro confiable de la redacción, ha agradecido a Pedrerol por la oportunidad que le dio mientras estaba en la universidad y ha expresado su gratitud por la experiencia y el aprendizaje que ha obtenido en el programa. Pedrerol ha comentado que nunca olvidará a Mazarro y ha reconocido la importancia de la familia profesional que ha formado en 'El Chiringuito de Jugones'. (Código: COPE)",
+        "gold": "Se ha ido el periodista Borja Mazarro."
+    },
+    {
+        "prediction": "El número 31938, ganador del tercer premio de la Lotería de Navidad 2023, vale 500 mil euros por serie y pertenece a una administración ubicada en Barrera, 23, en Biar, Alicante. (Español) El număró 31938, premiado con el tercer premio de la Lotería de Navidad 2023, vale 500 mil euros por serie y se encuentra en la administración situada en Barrera, 23, en Biar, Alicante. (Catalán) El número 31938, guanyador del tercer premi de la Loteria de Nadal del 2023, val a 500 mil euros per sèrie i pertany a una administració situada a Barrera, 23, a Biar, Alacant. (Valencià)",
+        "gold": "50.000€ por décimo."
+    },
+    {
+        "prediction": "El Barça pierde a Ter Stegen durante dos meses debido a una intervención quirúrgica para tratar sus problemas lumbares, y el club quiere vender a Lewandowski para ahorrar dinero y hacer caja en la próxima temporada. Lewandowski tiene contrato hasta el final de la temporada y se espera que reciba una oferta mejor en Arabia Saudí para dejar de ganar dinero en Barcelona y finalizar su carrera como profesional en el fútbol árabe.",
+        "gold": "Robert Lewandowski, según El Chiringuito de Jugones."
+    },
+    {
+        "prediction": "El equipo paraguayo Cerro Porteño se destaca como el club más popular en redes sociales en octubre de este año en Paraguay, superando a su tradicional rival Olimpia que ocupaba esa posición en septiembre, según la lista publicada por Deportes y Finanzas, que se especializa en analizar las actividades de los clubes de fútbol en las redes sociales.",
+        "gold": "Cerro Porteño."
+    },
+    {
+        "prediction": "El resumen de la noticia es: \"David, un hombre de 44 años de Madrid, comentó en First Dates que Charo, su compañera de fecha, parecía tener más años de los que decía y se consideraba experto en chicas de todas las razas. Sin embargo, su comentario más controvertido fue sobre frutas: 'Las fresas sobran. Si tenemos los melones y tenemos el plátano, vamos a hacer una macedonia'. La declaración de David se volvió más rancio al afirmar que Charo se había puesto muy sexy y que 'tiene que tener dos brazos, dos piernas, dos ojos en la cara, una boca que sepa usarla, dos nalgas, dos de la huerta, me refiero al melón'\".",
+        "gold": "\"Plátanos, melones y fresas... las fresas sobran. Si tenemos los melones y tenemos el plátano, pues vamos a hacer una macedonia. ¿A qué estamos esperando? A conocernos mejor, no caernos bien y perdernos la oportunidad de disfrutar el momento. Es que es absurdo\"."
+    },
+    {
+        "prediction": "La franco-israelí Mia Schem, secuestrada por Hamas durante la ofensiva de octubre, reveló en una entrevista que creía que la única razón por la que no fue violada por su captor durante sus 54 días de cautiverio en Gaza fue que su esposa estaba fuera de la habitación con los niños. Schem describió su experiencia como rehén como estar encerrada en una habitación oscura, sin poder hablar ni ser vista, con un terrorista mirándola y violándola con sus ojos durante la mayor parte de su tiempo en cautiverio. Afirmó que estaba muerta de hambre, que la familia del terrorista se burlaba de ella y se preguntaba si iba a morir en cualquier momento. Schem también dijo que los hijos de su captor la miraban como si fuera un animal en un zoológico. Durante la entrevista, Schem estalló en lágrimas y dijo que todavía no había encontrado paz desde su regreso, ya que aún se está procesando el calvario. Schem también describió a las personas que viven en Gaza como familias controladas por Hamas y dijo que es importante que el mundo entienda que pasó por un Holocausto.",
+        "gold": "“Su esposa estaba fuera de la habitación con los niños”."
+    },
+    {
+        "prediction": "Donde se encuentra el número ganador de 'El Gordo' en la Lotería de Navidad 2023 es Albacete, Alicante, Almería, Asturias, Badajoz, Islas Baleares, Barcelona, Cáceres, Cádiz, Ciudad Real, A Coruña, Granada, Huelva, Jaén, Madrid, Málaga, Murcia, Ourense, Pontevedra, Sevilla, Tarragona, Teruel, Toledo, Valencia, Valladolid y Vizcaya. (Mundo Deportivo)",
+        "gold": "Ha caído en Albacete, Alicante, Almería, Asturias, Badajoz, Islas Baleares, Barcelona, Cáceres, Cádiz, Ciudad Real, A Coruña, Granada, Huelva, Jaén, Madrid, Málaga, Murcia, Ourense, Pontevedra, Sevilla, Tarragona, Teruel, Toledo, Valencia, Valladolid y Vizcaya."
+    },
+    {
+        "prediction": "Marhuenda, director de La Razón, se encontraba con auriculares en LaSexta Noche de LaSexta, presentado por José Yélamo, cuando este le mostró una camiseta para promocionar la campaña Ponle Freno. Yélamo preguntó si le sonaba la camiseta, pero se dio cuenta de que Marhuenda no se estaba ateniendo al programa y le preguntó: \"¿Qué estás haciendo, Paco?\" De fondo, los colaboradores se reíeron de la \"pillada\" que les habían hecho y uno de ellos bromeó diciendo que se dedicaba a \"escuchar podcast\". Marhuenda se avergonzó y se metió los auriculares en un bolsillo, admitiendo que se estaba escuchando algo. Yélamo bromeó diciendo que eso era lo que le faltaba, escuchar podcast, pasar apuntes.",
+        "gold": "Estaba escuchando algo por los auriculares del móvil."
+    },
+    {
+        "prediction": "El licor crema de fresa con tequila de Mercadona, elaborado por Royal Swan con un sabor espectacular y una graduación de 15% vol que incluye un 6% de tequila, es una delicia envasada en una botella de 700 ml y cuyo precio es de 6€. Contiene derivados lácteos y se recomienda conservarlo resguardado de la luz solar y mantenerlo en una temperatura entre 0-25ºC para su óptima conservación. Esta bebida alcohólica sorprende por la presencia de fresa, un ingrediente poco común en bebidas alcohólicas. Estas mejoras en la calidad de las bebidas alcohólicas de Mercadona se han implementado con el asesoramiento de expertos y las opiniones de los clientes, incluyendo la mejora del sabor, la incorporación de fecha de caducidad, la aparición de nuevos sabores en algunas bebidas y mejoras en el packaging.",
+        "gold": "El licor crema de fresa con tequila. Se trata de un artículo publicitario. "
+    },
+    {
+        "prediction": "El meteorólogo Mario Picazo advierte de las consecuencias que traerá el debilitamiento del vórtice polar en España, que podrían ser muy diferentes a las que hemos experimentado en un 2023 atípico. Se espera un cambio radicalmente distinto que marcará un 2024 con puestas todas las esperanzas para acabar con los problemas de sequía y altas temperaturas que han afectado al país. La situación cambiante puede acabar siendo la que marca una etapa diferente. Estas son las consecuencias que según Mario Picazo nos podrán llevar.",
+        "gold": "El aire muy frío confinado en el Ártico puede ser liberado hacia latitudes más baja."
+    },
+    {
+        "prediction": "El titular engaña al lector al sugerir que Isabel Preysler será invitada a El Hormiguero, sin proporcionar información completa. La frase que revela la verdad detrás del titular es: \"La socialité abre las puertas de su casa como nunca antes para mostrar en detalle todos los preparativos navideños\" (El Hormiguero presentará un especial original sobre Isabel Preysler, \"Isabel Preysler: mi Navidad\", en exclusiva en Disney+).",
+        "gold": "Malú, Pedro Alonso, Begoña Vargas e Isabel Preysler."
+    },
+    {
+        "prediction": "Los asturianos son los que más televisión ven en España, con una media de 222 minutos por persona y día en noviembre de 2023, según un informe de Barlovento Comunicación. Castilla-La Mancha y Galicia ocupan el segundo y tercer puesto, respectivamente, con 216 y 204 minutos por persona y día. El consumo total de televisión en España se redujo un 4% en noviembre de 2023 en comparación con el mismo mes del año anterior, con una duración media diaria de 3 horas y 8 minutos por persona. Las mujeres y los mayores de 64 años son los que más tiempo de televisión consumen en Asturias, con 202 y 355 minutos por persona y día, respectivamente. El tiempo total de uso del televisor en Asturias fue de 3 horas y 57 minutos por persona al día en noviembre de 2023, lo que supone el 16% del tiempo total de 24 horas del día. El promedio de los \"Otros Usos del Televisor\" fue de 49 minutos por persona al día, un aumento del 23% en comparación con noviembre de 2022. El número de personas que usan el televisor para otras actividades diferentes a la televisión lineal tradicional fue de 2,447,000 espectadores. Los grupos de edad que más tiempo dedican a los \"Otros Usos del Televisor\" son los individuos de 25 a 44 años (67 minutos) y los niños de 4 a 12 años (55 minutos).",
+        "gold": "222 minutos por persona y día."
+    },
+    {
+        "prediction": "Edu Aguirre, presentador de 'El Chiringuito', pasó vacaciones con Cristiano Ronaldo en España y se entrenó con él, como es habitual entre amigos, según reveló en el programa 'Zapeando' de La Sexta. Lorena Castell le preguntó sobre esas vacaciones y dijo: \"¿Cómo fueron esas vacaciones? Porque veo mucho abdominal... No me digas, por favor, que seguíais entrenando también hasta en el barco\", a lo que Aguirre respondió: \"No, hombre. Se entrena siempre. Si tú estás con el mejor jugador del mundo, ¿cómo no vas a entrenar? Hay que entrenar y mantenerse en forma. Entre amigos, muy bien. Estuvimos unos días juntos y maravilla\".",
+        "gold": "Le preguntó si había entrenado sus adominales con Cristiano Ronaldo y respondió que sí."
+    },
+    {
+        "prediction": "Respuesta: \"Se refiere a España como un país 'improductivo' en lugar de abordar temas como tiroteos escolares, muerte por fentanilo y facturas médicas arruinadoras.\" (Cita del usuario de X en respuesta a otro usuario que criticaba el estilo de vida europeo y español como \"improductivo\".)",
+        "gold": "\"Sorry, I don't speak tiroteo escolar, muerte por fentanilo and arruinado por facturas médicas\"."
+    },
+    {
+        "prediction": "El éxito de OnlyFans en España se ve obsescado por un lado oscuro que deberías conocer, según un estudio de ESET España en colaboración con Esports City League. El 75% de los encuestados se sintieron estafados al pagar por contenido en la plataforma, probablemente por haberse esperado contenido que no se generó o haberseleccionado enlaces que prometían grandes beneficios pero se perdió todo el dinero invertido. Además, el 25% de los creadores ha experimentado robos de dinero en sus cuentas en la plataforma. La seguridad de la información personal también se ha convertido en una preocupación clave, ya que el 54% de los encuestados admite tener al menos una suscripción en la plataforma, lo que implica la cesión de datos personales y bancarios. El experto recomienda el uso de un correo electrónico único y tarjetas de crédito desechables al configurar una cuenta y realizar suscripciones, y alerta sobre las posibles amenazas de ingeniería social y ciberacoso, subrayando la importancia de la vigilancia y la concienciación en estas plataformas.",
+        "gold": "El 75% de los encuestados alguna vez se sintieron estafados al pagar por contenido en la plataforma."
+    },
+    {
+        "prediction": "Mercadona confirma retirada temporal de bocados marinados veganos, usuaria se queja pero cadena toma nota de demanda y promete regresarlo. Alternativa: marinar tofu en casa.",
+        "gold": "Bocados marinados."
+    },
+    {
+        "prediction": "El libro que Sánchez regaló a Feijóo al inicio de su reunión en el Congreso es Volver a dónde de Antonio Muñoz Molina, un diario personal e íntimo de la pandemia que el autor escribió durante el confinamiento. Sánchez lo entregó como un gesto propio de las fechas navideñas y con la intención de recordar uno de los momentos \"más difíciles\" que ha vivido el país en los últimos tiempos.",
+        "gold": "Volver a dónde de Antonio Muñoz Molina."
+    },
+    {
+        "prediction": "WhatsApp tiene un método oculto para bloquear a un contacto sin que se dé cuenta. Silenciar la conversación individual o de grupo permite que la persona bloqueada pueda seguir enviando mensajes, fotos y vídeos, pero sin recibir notificaciones ni sonidos en el dispositivo móvil. Esta función permite bloquear temporalmente la comunicación sin cortarla completamente, lo que puede ser útil en situaciones de spam o contenido problemático. El bloqueo completo, que corta toda comunicación, también está disponible en WhatsApp para reportar a un contacto y revisar los casos para detectar a personas que utilizan la aplicación para atacar a otras.",
+        "gold": "Silenciar al contacto."
+    },
+    {
+        "prediction": "El berro se considera el alimento más saludable del mundo según un estudio de la Universidad William Paterson en Estados Unidos, que analizó más de 40 frutas y verduras y concluyó que solo uno logró la máxima puntuación en densidad de nutrientes. El berro ayuda a bajar peso gracias a su baja caloría, mejora el sistema inmunológico con vitaminas A, B, K, E y C, y es rico en fibra, lo que permite sentirse satisfecho y mejorar el proceso de digestión. Los nutricionistas recomiendan incluir berro en la dieta, por ejemplo como acompañante en ensaladas, cremas o guarnición. Otros alimentos saludables incluyen la col china, las acelgas y la remolacha, que también cuentan con nutrientes, vitaminas y fibra. Estos alimentos proporcionan beneficios como la prevención de enfermedades cardiovasculares gracias a la reducción de la presión arterial, una piel más sana y mayor energía diaria. Se recomienda incluir verduras en la dieta y comprender los múltiples beneficios que estas pueden aportar al cuerpo para vivir mejor.",
+        "gold": "El berro."
+    },
+    {
+        "prediction": "Los conductores de Uber utilizan las luces antiniebla para captar clientes de la calle ilegalmente, según reveló el taxista e influencer Mario en BeduckPodcast. Cuando encienden estas luces significa que están libres y algunas personas lo saben, parándole para cogerlo sin hacerlo desde la aplicación. Este método es conocido por aquellos que lo conocen, pero no es muy popular. Además, según Mario, algunos conductores de VTC evitan pagar impuestos al cancelar el servicio en el destino y ofrecer al usuario llevarlo por el mismo dinero, quedándose con todo el dinero y evitando rendir cuentas con Hacienda.",
+        "gold": "Cuando un conductor de Uber enciende las luces antiniebla significa que está libre, hay algunas personas que lo saben y, en ese momento, lo paran para cogerlo, sin hacerlo desde la aplicación."
+    },
+    {
+        "prediction": "Rufián, diputado de ERC en el Congreso de los Diputados, ha utilizado la palabra \"invasión\" al lado de las banderas de países de América Latina en un tuit para conmemorar el Día de la Fiesta Nacional el 12 de octubre, en referencia a que en España se celebra el \"descubrimiento\" de América por parte de Cristóbal Colón en 1492, lo que ha causado un gran revuelo en Twitter con más de 1.600 respuestas en dos horas.",
+        "gold": "Ha puesto la palabra “invasión” al lado de las banderas de los países que forman América Latina y, justo al lado de la bandera de España, ha puesto “descubrimiento”."
+    },
+    {
+        "prediction": "En Alemania también se celebra cena de empresa, según relata la tiktoker @lasaventurasdealba, con diferencias notables. El lugar es un kebab o un restaurante italiano, se retrasa más de una hora y se elige la comida en lista previa. La asignación de asientos es aleatoria, como en España, y la gente lleva regalos, como en España, pero se intercambian de manera aleatoria al tirar un dado.",
+        "gold": "Se cena en un kebab o en un italiano. Se hace un amigo invisible con cosas feas y que usan que tengan en casa. "
+    },
+    {
+        "prediction": "Estudios científicos y la inteligencia artificial de ChatGPT han determinado que las canciones más alegres y felices son aquellas con ritmos rápidos de 140 a 150 bpm, compuestas en clave mayor y cuyas letras se centran en momentos felices, divertidos o emociones positivas. El neurocientífico holandés Dr. Jacob Jolij identificó estas características en una investigación de 2015, y su ranking de las 10 canciones más felices incluye títulos como 'Walking on Sunshine' de Katrina & The Waves, 'I Will Survive' de Gloria Gaynor y 'Don't Stop Me Now' de Queen. La IA de ChatGPT también coincide con estos resultados, pero también destaca 'Happy' de Pharrell Williams y 'I Wanna Dance with Somebody' de Whitney Houston.",
+        "gold": "'Don't Stop Me Now', de Queen."
+    },
+    {
+        "prediction": "La Audiencia Nacional ha reconocido un nuevo derecho a los opositores: tendrán más facilidades para aprobar los exámenes. Según una reciente sentencia, la Administración debe facilitar a los opositores información pública sobre exámenes anteriores de la oposición que se están preparando, incluyendo preguntas, respuestas y calificaciones. Esta medida permite que los opositores sepan mejor y se preparen mejor para presentarse en futuras convocatorias de empleo público. La sentencia se ha producido después de que ADIF negara la información a una opositora, argumentando que se trataba de un \"abuso\" de la Ley de Transparencia y Acceso a la Información Pública y Buen Gobierno. Sin embargo, la Audiencia Nacional ha desestimado la demanda de ADIF y ha reconocido que el derecho de los opositores a conocer información sobre los procesos selectivos anteriores de la oposición es un interés público.",
+        "gold": "Acceder a exámenes anteriores de la oposición que se están preparando."
+    },
+    {
+        "prediction": "La película desconocida de ciencia ficción durando 1h y 44m presenta un mundo desolado donde la Tierra se ha vuelto inhabitable desde hace 200 años según Noticias de cine de SensaCine.com. (Resumen de una sola frase)",
+        "gold": "Tides."
+    },
+    {
+        "prediction": "\"Alien Conquest, producción de The Asylum conocida por sus bajos presupuestos copias de películas populares, adapta mal la clásica La guerra de los mundos con extraterrestres de Marte que destruyen Nueva York, solo los astrónomos Allison y Henry se dan cuenta y nadie los cree hasta que es demasiado tarde\"",
+        "gold": "Alien Conquest."
+    },
+    {
+        "prediction": "En España, el trabajo más buscado y deseado según búsquedas en Google es ser influencer en redes sociales, lo que la hace la única nación europea con este deseo profesional.",
+        "gold": "En España, el trabajo más buscado es el de influencer."
+    },
+    {
+        "prediction": "El problema de la marca china de ropa MG es la alta tasa de clientes que se arrepienten después de comprar, solo meses después de la entrega. A pesar de un aumento del 320% en ventas en el pasado año en España, el servicio de postventa ha sido insuficiente para satisfacer la demanda, lo que ha llevado a numerosos clientes a lamentar su decisión de confiar en una marca desconocida con las incertidumbres propias de las marcas de ese origen. Los comentarios desfavorables se han sucedido en redes sociales, foros y mensajes a los medios de comunicación, con una situación que parece agravarse mes a mes. Los clientes se quejan de que el servicio de reparaciones en garantía o de carrocerías por impactos es un clamor de insatisfacción generalizada entre los afectados, y ni siquiera el precio ventajoso parece compensar a los clientes que se quejan de que no se les comunica o se les da fechas excesivamente largas para la reparación. MG afirma que su provisión de piezas es correcta y que solo algunos componentes no están disponibles de inmediato, pero se trata de accesorios que no son inmovilizantes ni críticos para la reparación. La pésima gestión de la postventa parece ser la causa principal del malestar general de los clientes, en lugar de la disponibilidad de las piezas necesarias para las reparaciones.",
+        "gold": "El servicio postventa, los propietarios de MG esperan durante semanas sin coche, sin otro de sustitución y sin plazos de solución."
+    },
+    {
+        "prediction": "El titular \"Este ‘truco’ tan sencillo puede elevar la autonomía de los vehículos eléctricos hasta los 1.000 km\" en realidad se refiere a la tecnología de baterías de metal-litio (LMB), que tiene el potencial de duplicar la capacidad de las baterías de vehículos eléctricos, lo que eleva su autonomía a los 1.000 km por carga. Sin embargo, estas baterías se enfrentan a la formación de dendritas, que consumen el electrolito y reducen la vida útil, lo que las aleja de convertirse en una opción posible. Los investigadores de la Universidad de Stanford han encontrado una solución de bajo costo para mejorar la vida útil de estas baterías: dejar reposar la batería en estado descargado durante varias horas, lo que restaura la capacidad perdida y mejora el rendimiento general. Este sencillo paso, descrito en un estudio publicado en la revista Nature, se puede implementar simplemente reprogramando el software de administración, sin costes adicionales ni cambios necesarios en el equipo, los materiales o el flujo de producción.",
+        "gold": "La batería de metal-litio puede duplicar la capacidad de las baterías de iones de litio, pero se enfrenta a la formación de dendritas que reducen la vida útil."
+    },
+    {
+        "prediction": "El resumen de la noticia sobre 'GTA 6' es: \"Por primera vez en la franquicia, se incluirá la pesca como minijuego adicional, junto con la posibilidad de jugar al golf, baloncesto y tenis. Se podrán capturar varias especies de animales marinos y terrestres, incluyendo peces, delfines, tiburones, cocodrilos y caimanes. Se implementará una gran cantidad de fauna y flora, como en 'Red Dead Redemption 2', y se incluirá un sistema de reacción al tratar con la policía, así como la posibilidad de empuñar armas de manera dual. Esta información es de un informante confiable y se espera su confirmación por parte de la desarrolladora.\"",
+        "gold": "Se podrá pescar."
+    },
+    {
+        "prediction": "El artículo se centra en la previsión de los cambios de pilotos en la temporada 2024 de Fórmula 1. Se menciona que la mayoría de los equipos aún no han confirmado sus alineaciones para el año siguiente, lo que sugiere que la temporada de cambios de pilotos, conocida como Silly Season, será muy activa en 2023. El artículo enumera los pilotos cuyos contratos expiran en 2024 y los posibles cambios que se pueden producir en los equipos. Se destaca que el equipo de Mercedes, con Lewis Hamilton y George Russell, es uno de los pocos que parece que podrá respirar tranquilo durante 2024, ya que ambos pilotos tienen contratos vigentes hasta 2025. Sin embargo, otros equipos, como Ferrari, McLaren y Alpine, aún no han confirmado los futuros de sus pilotos. El artículo también menciona que la entrada de Audi en la Fórmula 1 en 2026 podría desencadenar más cambios en la parrilla. El resumen de una sola frase que revela la verdad detrás del título sería: \"La temporada de cambios de pilotos de Fórmula 1 de 2023 será muy activa debido a que más de la mitad de la parrilla acaba contrato en 2024, lo que podría desencadenar cambios en los equipos para la temporada siguiente.\"",
+        "gold": "Sergio Pérez, Carlos Sainz,  Fernando Alonso,  Esteban Ocon, Alexander Albon, Logan Sargeant, Yuki Tsunoda, Daniel Ricciardo,  Valtteri Bottas, Guanyu Zhou,  Kevin Magnussen y Nico Hulkenberg."
+    },
+    {
+        "prediction": "Aston Martin anuncia acuerdo de patrocinio con Financial Times, diario económico líder en Reino Unido, con el que ambas marcas británicas compartirán valor y se apoyarán mutuamente para expandirse mundialmente. El logotipo del Financial Times aparecerá en el nuevo monoplaza de la escudería, y se organizarán actividades exclusivas durante todo el año. El FT es una fuente confiable de información comercial y financiera en todo el mundo.",
+        "gold": "Financial Times."
+    },
+    {
+        "prediction": "La respuesta sorprendente de Lola Lolita sobre el sexo en el programa \"La Resistencia\" es: \"Me voy a ser sincera totalmente. Cero\"",
+        "gold": "No ha mantenido relaciones sexuales en los últimos 30 días y explicó que está más interesada en otros aspectos de su vida."
+    },
+    {
+        "prediction": "Netflix invertirá 5.000 millones de dólares durante 10 años en ser el único hogar de programas de WWE como Monday Night Raw, Smackdown y NXT en Estados Unidos, Canadá, Reino Unido, América Latina y otros territorios a partir de 2025, con opción de renovación por 10 años más. Desde 2025, Netflix será también el hogar de estos programas fuera de Estados Unidos, incluyendo pay per views como WrestleMania, SummerSlam y Royal Rumble, hasta ahora disponibles a través de WWE Network en Estados Unidos, que seguirán siendo vistos a través de Peacock. El acuerdo sustituye al que tenía NBCUniversal, que pagaba alrededor de 250 millones de dólares al año por los derechos de Monday Night Raw, pero no de NXT y Friday Night Smackdown. El acuerdo con Netflix conlleva la cancelación de los derechos de WWE Network en otros países, pero se desconoce cuáles serán los primeros en beneficiarse y cuáles tardarán más en llegar. Netflix se reserva el derecho a cancelar el acuerdo al de cinco años.",
+        "gold": "Ser el hogar exclusivo de 'Monday Night Raw' y otros programas de WWE por 10 años."
+    },
+    {
+        "prediction": "Se requirió la ayuda de la Policía Local de Albacete para asistir a una mujer de 70 años embriagada en la calle Miguel Servet el sábado 27 de enero a las 19:29 horas. Los agentes la acompañaron hasta su domicilio en Albacete después de comprobar su estado de embriaguez.",
+        "gold": "Debido al estado de embriaguez en el que se encontraba."
+    },
+    {
+        "prediction": "La ministra de Trabajo Yolanda Díaz revela su rutina deportiva peculiar antes de cada mitin, que consiste en sentadillas para descargar el estrés y prepararse para hablar en público. Se trata de un hábito esencial para ella, como explicó en tono humorístico en el programa 'Late Xou de Marc Giró'.",
+        "gold": "Hace sentadillas antes de cada mitin como ritual deportivo para descargar estrés."
+    },
+    {
+        "prediction": "Mbappé pidió a amigos como Achraf Hackimi que mantengan el secreto sobre su decisión de fichar por el Real Madrid para preservar su imagen y comunicarla públicamente en momento propicio, sin quererse mal con los aficionados del PSG. (16 palabras)",
+        "gold": "Pidió discreción."
+    },
+    {
+        "prediction": "La respuesta de Robe Iniesta a la invitación de C. Tangana para participar en su disco fue: \"Me dijo que estaba bien, pero que el estribillo era un poco cursi\".",
+        "gold": "\"Me dijo que estaba bien, pero que el estribillo era un poco cursi\""
+    },
+    {
+        "prediction": "El nuevo producto de Mercadona, la pechuga de pavo de Hacendado, es una opción saludable y nutritiva debido a que contiene un 92% de carne de pavo, lo que supone un aumento considerable en comparación con otras opciones del mercado. Esta alta proporción de carne de pavo significa que la pechuga de pavo de Hacendado tiene más proteína y menos grasa, lo que la convierte en un alimento más saludable y nutritivo. Además, su precio es muy asequible, solo 2,55 euros por cada 200 gramos de producto. Un nutricionista, Mario Ortiz, ha afirmado que la pechuga de pavo de Hacendado es una \"opción muy interesante\" para incluir en la dieta debido a que aporta una buena cantidad de proteína de calidad, con poca grasa y sin aditivos innecesarios. El producto ha sido analizado por el experto y se ha demostrado que es ideal para consumir en cualquier momento del día, ya sea en el desayuno, en la merienda o en la cena, y se puede combinar con otros alimentos para preparar platos completos, equilibrados y deliciosos. La pechuga de pavo de Hacendado es un producto que ha revolucionado el mercado de los embutidos debido a su alto contenido en carne de pavo, su bajo contenido en grasa y su precio económico. Se trata de un alimento saludable, nutritivo y sabroso, que ha recibido el visto bueno de un experto y es perfecto para incluir en una dieta variada y equilibrada.",
+        "gold": "La pechuga de pavo de Hacendado de Mercadona está elaborado con un 92% de carne de pavo."
+    },
+    {
+        "prediction": "Durante el funeral de Sebastián Piñera, su hijo Sebastián Piñera Morel mostró una regla y un lápiz rojos como ejemplo de la enseñanza legada por su difunto padre, quien siempre utilizaba esos objetos de oficina al trabajar.",
+        "gold": "Porque su padre siempre utilizaba estos objetos al trabajar."
+    },
+    {
+        "prediction": "En Palworld, se descubrió una función oculta después de más de 100 horas de juego consistente en poder reparar todo el equipo pulsando solo la tecla R mientras se utiliza el banco de reparación. Esta función se puede utilizar si se tienen materiales suficientes para reparar todo lo que se tenga en el inventario, de lo contrario, se tendrá que reparar uno por uno. El usuario de Reddit Weebsaika fue el que reveló este pequeño atajo a la comunidad de Palworld.",
+        "gold": "Puede reparar su equipo pulsando R mientras usa el banco de reparación."
+    },
+    {
+        "prediction": "Marvel anuncia a Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach y Joseph Quinn como los elegidos para interpretar a Reed Richards, Susan Storm, Ben Grimm y Johnny Storm en Los 4 Fantásticos, que se estrenará el 25 de julio de 2025. Esta será la tercera adaptación de la franquicia en el siglo XXI, y el director Matt Shakman, que ya trabajó en WandaVision, asumirá el proyecto después de la duramente criticada versión de Josh Trank en 2015. Disney adelantó el estreno de Thunderbolts para dejar espacio a Los 4 Fantásticos en el Edificio Baxter, que han tenido menos éxito que sus homólogos en la vida real.",
+        "gold": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach y Joseph Quinn."
+    },
+    {
+        "prediction": "El secreto para papas fritas crujientes: secar bien las tiras después de cortarlas. Lavar, pelar (opcional), cortar en tiras delgadas y uniformes, remojar (opcional) y secar bien con papel de cocina. Calentar aceite vegetal a 170-180°C y freír en lotes sin sobrecargar la olla. Escurrir el exceso de aceite con una espumadera y espolvorar con sal al gusto. Listas para servir calientes y acompañadas de salsas favoritas. Precaución: manejar aceite caliente con cuidado y seguir las medidas de seguridad adecuadas.",
+        "gold": "Asegurarse de secar bien las papas después de cortarlas."
+    },
+    {
+        "prediction": "Francis Ford Coppola, cineasta ganador de varios Oscares, finalmente realizará su largamente esperada película \"Megalopolis\" en 2024, después de más de 40 años de desarrollo. Inicialmente, Coppola comenzó a trabajar en la película en la década de 1980, pero se vio obligado a abandonarla debido a la fracasada película \"Cotillón\", que le llevó a la quiebra de su productora y obligó a vender sus viñedos para pagar sus deudas. Sin embargo, Coppola nunca abandonó el proyecto y en 2001, después de los ataques del 11 de septiembre, decidió posponerlo debido a que no creía que fuera el momento adecuado para hacer una película sobre la reconstrucción de Nueva York. Finalmente, en 2019, Coppola decidió retomar el proyecto y comenzó a buscar actores para el reparto. Para hacerlo realidad, Coppola invirtió 120 millones de dólares de su propio bolsillo, lo que se informa que fue un poco más de lo que realmente gastó. La película se estrena en 2024 y cuenta con un reparto que incluye a Adam Driver, Aubrey Plaza, Giancarlo Esposito, Grace VanderWaal, Shia LaBeouf y Laurence Fishburne.",
+        "gold": "Megalopolis."
+    },
+    {
+        "prediction": "Esta película griega de una hora y media, Alps, dirigida por Yorgos Lanthimos antes de su éxito internacional con La favorita y Pobres criaturas, es una obra de culto que no deja indiferente. La trama explora lo que ocurriría si se te muriera y se sustituiría para evitar que los seres queridos sepanlo, creando una empresa llamada Alps para que los miembros sean los responsables de introducirse en la piel de los difuntos, representando su papel habitual en su vida cotidiana, con su familia, amigos, en el trabajo. La extrañeza se va apoderando de la vida de personajes surrealistas que se sumen más y más en su papel de representación. Lanthimos se fascinó con la idea de las mentiras cotidianas, desde las llamadas de broma hasta los que aseguran que se están muriendo, y decidió explorarlo para ofrecer algo diferente a Canino, su película que le hizo destacar en el panorama internacional. La película es antinatural hablar de emoción, pero consigue serlo, dando con una historia compleja pero punzante que vale la pena descubrir en su imprescindible carrera.",
+        "gold": "Alps."
+    },
+    {
+        "prediction": "El drama entre VTubers se desvela debido a la rescisión unilateral de NIJISANJI de la contratación de \"Selen Tatsuki\" por supuestas violaciones de contrato y acusaciones de declaraciones engañosas en redes sociales, en lugar de un \"graduación\" común en la industria para referirse a la finalización mutua de un contrato entre una agencia de VTuber y una VTuber. Esta decisión ejecutiva de Nijisanji se produce después de que Selen se retirara de las redes sociales el 28 de diciembre de 2023, alegando haberse hospitalizado. La terminación de Selen ha generado un fuerte rechazo público entre los fanáticos y otras VTubers en el ámbito de habla inglesa, que critican a NIJISANJI por sus acciones a una escala sin precedentes. Selen no es la primera VTuber que es eliminada abruptamente de la lista de NIJISANJI debido a acusaciones confusas. En marzo de 2023, la agencia de talentos eliminó a \"Zaion LanZa\" por infracción de derechos de autor, \"comentarios ofensivos\" y \"dar 'me gusta' a comentarios que constituyen difamación de miembros de NIJISANJI\". Las acusaciones que llevaron a la rescisión de Zaion y Selen no son idénticas, pero ambos incidentes hablan de cómo trata NIJISANJI a sus talentos y cómo las decisiones de la compañía afectan el panorama de las VTubers. Desde el 8 de febrero, las acciones de ANYCOLOR siguen cayendo, con comentarios en la página de Yahoo Finance hablando principalmente sobre la incapacidad de la compañía para retener a su talento y el manejo deficiente de la rescisión de Selen Tatsuki.",
+        "gold": "Selen Tatsuki."
+    },
+    {
+        "prediction": "La moción presentada por Vox en el Parlamento de Navarra pide al Gobierno de Navarra lo que ya se está realizando desde 2012, según se informa en el artículo 13 de la Ley Foral de Transparencia aprobada en 2012. La ley establece la publicación de hasta 27 tipos diferentes de información, incluyendo cuentas anuales, informes de auditoría y de fiscalización, retribuciones de altos cargos y del personal, contratos, convenios, subvenciones, personal contratado y sus retribuciones, entre otros. El Gobierno de Navarra y otras entidades públicas, como la Cámara de Comptos, el Defensor del Pueblo o el Parlamento de Navarra, están obligados a publicar esta información en el Portal de Transparencia. La moción de Vox se centra en exigir la publicación de información que ya se está realizando desde hace más de una década.",
+        "gold": "Publicación en el Portal de Transparencia de todos los elementos que deben ser dominio público."
+    },
+    {
+        "prediction": "La influencer 'edurnyx' gastó 248 euros entre dos personas en un día en el Ibiza Beach Club, con un plato de totopos con guacamole por 18 euros, una quesadilla de pollo por 22 euros y una botella de cava por 65 euros, además de pagar 30 euros por silla y 20 euros por cóctel, lo que suma 124 euros por persona. (Resumen: Influencer 'edurnyx' pago 248 euros entre dos personas en un día en el Ibiza Beach Club por platos como totopos con guacamole, quesadilla de pollo y cava, además de pagar por sillas y cócteles.)",
+        "gold": " 248 euros entre dos personas."
+    },
+    {
+        "prediction": "El motivo por el que Fran Rivera deja de ser colaborador en 'Espejo Público' es que \"ya no aportaba mucho contenido al programa\", según fuentes de Atresmedia. A pesar de que se ha ido retrasando su despido debido a que contaba con un apoyo \"de peso\" y no todos estaban de acuerdo, se ha decidido prescindir de él porque \"su colaboración con Mediaset no gustó nada en las altas esferas y ha sido la gota que ha colmado el vaso\". Además, se ha especulado que su aparición en 'Déjate querer' de Telecinco con Toñi Moreno también ha tenido que ver. El torero se retirará de la sección de entrevistas que creó en el programa después de cinco años y de ser colaborador televisivo desde 'Mi casa es la tuya'.",
+        "gold": "Se refieren a Fran Rivera, el motivo fue aparecer en Telecinco. "
+    },
+    {
+        "prediction": "Guardia Civil de Albacete intervino 23.032 unidades de artículos pirotécnicos, incluyendo bengalas romanas, bombetas y petardos, de las categorías F1 y F2, vendidos en establecimientos no autorizados. Se recuerdan que los F1 se venden libremente en cualquier establecimiento con comunicación previa, para uso en interiores y exclusivamente por mayores de 12 años, excepto las bombetas o truenos de impacto. Los F2 se utilizan al aire libre en zonas delimitadas y solo por mayores de 16 años. La Guardia Civil presentó 15 denuncias por supuesta infracción administrativa por vender artículos de pirotecnia sin autorización. Se recomienda disfrutar con seguridad de estos artículos siguiendo las recomendaciones de la Guardia Civil.",
+        "gold": "Vendían Atículos pirotécnicos sin la correspondiente autorización."
+    },
+    {
+        "prediction": "Resumen: AMD revela frecuencias de núcleos Zen 4c en APU Ryzen 3 8300G y Ryzen 5 8500G. El Base Clock de los núcleos Zen 4c en el Ryzen 3 8300G es de 3,2 GHz, y el Clock Max es de 3,6 GHz. AMD ha creado un nuevo parámetro llamado Base Clock, que representa la frecuencia base efectiva promedio de todos los núcleos, lo que resulta en una frecuencia media menor de los núcleos Zen 4c y Zen 4. El Base Clock general de ambas APU es de 3,5 GHz para cumplir con los objetivos de TDP, ya que el factor limitante no es el valor máximo de 65W, sino el de 45W, y se sigue calculando el TDP según el Clock Base.",
+        "gold": " Para el Ryzen 3 8300G: Base Clock de 3,2 GHz y Boost de 3,6Ghz. Para el 8500G: Base Clock de 3,2Ghz y Boost de 3,7Ghz. "
+    },
+    {
+        "prediction": "Paola Bianco, presentadora de Mi casa es tu casa y ex de El show de la tarde, reemplazará a Claudia Fernández como copresentadora del Carnaval 2024 después de que esta última rechazara la oferta. Bianco, cuyo programa de entrevistas domésticas se transmite actualmente en Canal 10, tiene un amplio reconocimiento en la televisión nacional y proviene de una familia con una fuerte tradición en el carnaval, ya que es hija del letrista carnavalero Jorge Bianco, conocido por su trabajo en La Escuelita del Crimen. El cambio en el formato del concurso, que hasta ahora contaba con un único presentador (Álvaro Recoba), se anunció hoy por Daecpu. Bianco ya confirmó la noticia en sus redes sociales con un mensaje entusiasta. Fernández, por su parte, descartó hacer temporada carnavalera en su última entrevista con El País, alegando que los veranos se destinan a disfrutarlos con la familia. Sin embargo, seguirá desfilando con Cuareim 1080 en las Llamadas. El concurso de agrupaciones carnavalescas comienza el lunes próximo en el Teatro de Verano, y la gran fiesta popular se abre el jueves con el Desfile, que recorrerá las primeras cuadras de 18 de Julio desde Plaza Independencia hasta Plaza Cagancha. Quedan entradas en venta en la red Abitab.",
+        "gold": "Paola Bianco."
+    },
+    {
+        "prediction": "El aumento gradual de las 24 horas del día se debe a que la velocidad de la Tierra no es constante y varía debido a factores como la composición del núcleo del planeta y la alejamiento progresivo de la Tierra del Sol, lo que afecta tanto a los movimientos de rotación como de traslación. En el futuro, es probable que los días tengan 25 horas, pero tendremos que esperar alrededor de 200 millones de años para presenciarlo, como lo hicieron las bacterias y los dinosaurios hace miles de millones de años. (Fuente: \"La Tierra se encamina a días de 25 horas: ¿cuándo tendremos que cambiar los relojes?\")",
+        "gold": "En 200 millones de años."
+    },
+    {
+        "prediction": "\"Hombre de 38 años detenido en Albacete por chocar bebido contra coche aparcado, ocasionando daños materiales y violando seguridad vial.\"",
+        "gold": "El conductor que triplicaba la tasa máxima de alcohol permitida chocó contra un coche que estaba estacionado."
+    },
+    {
+        "prediction": "La noticia se enfoca en la posible fecha de lanzamiento de Windows 12, pero se descubre que en realidad, en 2024 se espera el lanzamiento de Windows 11 24H2, una gran actualización con cambios importantes en la forma de usar el sistema operativo y una importante cantidad de novedades centradas en la inteligencia artificial. Microsoft está preparando el camino con esta actualización para que tanto fabricantes como usuarios se acostumen a ella antes de la posible llegada de Windows 12 en 2025. La actualización de Windows 11 24H2 reemplazará toda la instalación del sistema operativo y se espera que se lance en septiembre de 2024. La entrada en escena definitiva de la inteligencia artificial en Copilot y otros elementos de Microsoft se hará con todo el protagonismo, dinamizando el día a día usando el sistema operativo y facilitando tareas. Se espera que la nueva versión de Windows 11 se llame Windows 12, pero es poco probable que ocurra de esa manera debido a la situación actual de Microsoft después de que uno de los grandes responsables de Windows cambiara su trabajo por una posición en Amazon en 2023.",
+        "gold": "Se podría retrasar hasta 2025."
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "prediction": "Resumen: Abuelita de 97 años critica abrigo como \"de vieja\" pero admite seguir buscando juntas en una tienda juvenil, encantando a los usuarios de Twitter.",
+        "gold": "No le ha gustado por que \"es de vieja\". "
+    },
+    {
+        "prediction": "Resumen: El titular sensacionalista se refiere al regreso a las clases el 15 de enero de 2024 después de las vacaciones, causando tristeza entre muchos estudiantes. (cuerpo de noticia)",
+        "gold": "El regreso a clases para muchos estudiantes."
+    },
+    {
+        "prediction": "Resumen: TikToker @aprildgr8 sorprendida al descubrir que algunos nombres cortos en España, como Marisa y Mamen, son en realidad contracciones de nombres más largos.",
+        "gold": "Las contracciones de los nombres."
+    },
+    {
+        "prediction": "Resumen: Netflix ofrece comedia navideña familiar con \"Mejor Navidad ¡Imposible!\" en su catálogo, lanzada el 16 de noviembre de 2023.",
+        "gold": "Mejor Navidad ¡imposible!"
+    },
+    {
+        "prediction": "Resumen: Trenes de Renfe, Ouigo y Iryo prohiben acceso con patinetes eléctricos, pero bicicletas siguen permitidas bajo ciertas condiciones, como ser plegadas o desmontadas y dentro de una funda. Las medidas varían según el tipo de tren y compañía.",
+        "gold": "Los usuarios de estos vehículos pueden continuar llevando sus bicicletas en los trenes."
+    },
+    {
+        "prediction": "El titular sensacionalista refleja el entusiasmo del público en \"El Hormiguero\" al recibir a Isabel Díaz Ayuso con vítores y gritos.",
+        "gold": "Ha habido gritos de ¡presidenta, presidenta!"
+    },
+    {
+        "prediction": "Resumen: Klopp planea dar descanso a Luis Díaz en el partido contra Union St. Gilloise, priorizando jugadores jóvenes y manteniendo la carga de juego bajo control para evitar lesiones.",
+        "gold": "Jürgen Klopp quiere hacer rotaciones en el equipo para evitar lesiones."
+    },
+    {
+        "prediction": "Resumen: Mediaset busca enfrentar a presentadora Ángeles Blanco, esposa de Vicente Vallés, con su programa en Telecinco para aumentar audiencia en informativos, en un intento de recuperar prestigio en el campo informativo.",
+        "gold": "Mediaset podría poner a Ángeles Blanco (esposa de Vallés) en el informativo de la misma hora que el de su marido."
+    },
+    {
+        "prediction": "Tres primeros premios de la lotería de Navidad pagan un impuesto del 20% sobre el excedente de 40,000 euros según la Agencia Tributaria. (Cuerpo de la noticia)",
+        "gold": "Todos los premios superiores a 40.000 euros tributan un 20%. "
+    },
+    {
+        "prediction": "Resumen: José Luis Gil trabaja duro en seguir consejos médicos, cuenta con el apoyo familiar, hija Irene compartiendo información y desmentiendo rumores, mientras compañeros de 'La que se vecina' lo apoyan y esperan su regreso.",
+        "gold": "Macarena Gómez: \"José Luis tiene dificultad para hablar, pero él entiende todo lo que está pasando. Me da mucha pena, es un ser extremadamente inteligente y culto\"."
+    },
+    {
+        "prediction": "Resumen: Un español en Japón, docente Alejandro Mesa, expresa su descontento con el excesivo uso de plástico en supermercados japoneses para envasar frutas, verduras y otros productos.",
+        "gold": "La mayor parte de los artículos están envueltos en plástico."
+    },
+    {
+        "prediction": "Resumen: Anabel Pantoja apoya abiertamente a Albert Infante como ganador de 'Gran Hermano VIP 8'. Ella admira su personalidad y le pide a sus seguidores que voten por él.",
+        "gold": "Albert Infante."
+    },
+    {
+        "prediction": "Resumen: El equipo de Gallardo, Al Ittihad, ganó el premio Fair Play en el Mundial de Clubes por recibir solo una tarjeta amarilla en sus dos partidos.",
+        "gold": "Premio al juego limpio al recibir solo una amarilla. "
+    },
+    {
+        "prediction": "Resumen: James Gunn negó el rumor de que Superman: Legacy se centrará en una amenaza terrorista en Oriente Medio. Aunque el guionista no proporcionó más detalles, el conflicto principal no se alejará de Metrópolis.",
+        "gold": "Descartó una de las especulaciones más importantes sobre el guion del filme: que parte de las acciones se desarrollarán en Oriente Medio."
+    },
+    {
+        "prediction": "Resumen: Para aliviar la ansiedad en segundos, presiona el punto Extra-1 (Yin Tang) entre tus cejas con suave presión en círculos durante 2-3 minutos, según Memorial Sloan Kettering Cancer Center. Esta técnica de acupresión puede repetirse varias veces al día hasta que los síntomas mejoren.",
+        "gold": "Según la medicina tradicional china, hay que presionar entre las cejas. "
+    },
+    {
+        "prediction": "Jorge Javier Vázquez reveló en 'Sálvame' que una de sus peores depresiones en el instituto fue debido a su dificultad con el ejercicio del \"potro\".",
+        "gold": "Tener que saltar el potro. "
+    },
+    {
+        "prediction": "Respuesta: Jordi Cruz comparó el vestido de Cristina Pedroche con un rollo de papel de plástico, pintura turquesa y un pincel.",
+        "gold": " \"Para hacer el vestido de la Pedroche necesitas... un rollo de papel de plástico, pincel y pintura turquesa\"."
+    },
+    {
+        "prediction": "Pablo Motos aclara que Isabel Díaz Ayuso no sabía las canciones y no fue un montaje en su entrevista en El Hormiguero, aunque tuvo dificultades al hablar de muertos en residencias y el bloqueo de Teodoro García Egea.",
+        "gold": "El juego de las canciones no fue un montaje. "
+    },
+    {
+        "prediction": "Tamara Falcó en \"El Hormiguero\": \"No me gustan falta de respeto en mi pareja, pero no soy muy celosa, si veo una tontería inaceptable, defenderé mi valor.\" (Resumen de la noticia en una frase)",
+        "gold": "Se refiere a que no le gusta la falta de respeto. "
+    },
+    {
+        "prediction": "Resumen: Noticia británica alaba La Palma como un menos congestionado destino turístico canario, con buen clima, atractivos naturales, y gastronomía destacada, incluyendo un tradicional ron. (Citado del texto original)",
+        "gold": "La isla de La Palma."
+    },
+    {
+        "prediction": "Resumen: Nueva residente en Madrid sorprendida por el rápido ritmo de vida y velocidad en caminar, preguntando lo que madrileños comen para tener esa energía.",
+        "gold": "La rapidez con la que se vive en esta ciudad y lo rápido que camina la gente."
+    },
+    {
+        "prediction": "Resumen: En caso de tsunami en España, no es práctico evacuar a toda la población debido a tiempo limitado y posibles consecuencias.",
+        "gold": "Tenemos entre 30 y 45 minutos."
+    },
+    {
+        "prediction": "Resumen: Los ganadores del Premio Nobel reciben una suma significativa, pero es compartida, sujeta a impuestos y no los convierte en millonarios. Su mayor valor radica en el estatus y oportunidades que brinda en su campo, mientras que muchos optan por donar parte o todo el premio a instituciones académicas o caritativas.",
+        "gold": "900.000 euros."
+    },
+    {
+        "prediction": "Resumen: El Banco de España recomienda tener almacenado suficiente dinero para cubrir hasta tres meses de gastos fijos como un fondo de emergencias, aunque idealmente se debería de seis meses, para enfrentar situaciones imprevistas sin necesidad de tener efectivo en casa.",
+        "gold": "Tres meses de gastos."
+    },
+    {
+        "prediction": "Respuesta: Marc Guiu no estuvo en la convocatoria del Barça Atlètic y no entrenó con el primer equipo, posiblemente debido a prioridades diferentes en la delantera y su participación con el Juvenil A.",
+        "gold": "Se encuentra con el Juvenil A por que juega importantes partidos próximamente. "
+    },
+    {
+        "prediction": "La investigación revela que Baldoria, en Madrid, tiene la mejor pizza local y la tercera mejor de España, destacando la creación \"Calabaza ti amo\" con ingredientes españoles y italianos, y una masa especial.",
+        "gold": "La pizza con calabaza de Baldoria."
+    },
+    {
+        "prediction": "Resumen: Presentadora española Paula Vázquez revela cómo aprendió catalán en su tiempo en Cataluña y recita un poema de Joan Estelrich Espriu durante una entrevista.",
+        "gold": "Paula Vázquez, por que vivió en l'Hospitalet de los 11 a los 18 años. "
+    },
+    {
+        "prediction": "Resumen: Sergio Ramos explica que rechazó firmar una camiseta del Real Madrid porque esa persona la vende o subasta en internet, después de ya haber firmado 6 camisetas anteriores.",
+        "gold": "Se debe a que era de gente que las subasta en internet."
+    },
+    {
+        "prediction": "Resumen: Periodista Emma García, conocida por su programa 'Fiesta', comparte en exclusiva la clave de su matrimonio duradero con Aitor, desde la adolescencia. Respetarse, querer seguir intentando y mantener la amistad en la relación son elementos fundamentales para el éxito matrimonial, según ella. Además, Emma aborda la maternidad y educación de su hija Uxue, quien ahora tiene 17 años. Ella se ha enfocado en conciliar su carrera con su vida familiar y considera su gran logro la familia que ha construido.",
+        "gold": "No hay secretos."
+    },
+    {
+        "prediction": "Resumen: Pablo Casado confesó a Cayetana Álvarez de Toledo que le entregó todo el poder a Teodoro García Egea, quien acusó de practicar \"mobbing\" y \"bullying\".",
+        "gold": "\"Reconozco que yo le he entregado todo el poder a Teodoro\"."
+    },
+    {
+        "prediction": "Resumen: La princesa Leonor, durante salidas con amigas, confirma su gusto por comida rápida como hamburguesas en locales como McDonald's, El Tuno y Panzzer Grill, y puede disfrutar de vacaciones de Navidad desde el 21 de diciembre.",
+        "gold": "Hamburguesas."
+    },
+    {
+        "prediction": "Resumen: Sergio Ramos y Pilar Rubio desmienten crisis matrimonial con una noche especial y declaraciones románticas, retomando vida personal y profesional con firmeza.",
+        "gold": "Han realizado un posado familiar. "
+    },
+    {
+        "prediction": "Resumen: Para mantener la crujiente textura de la pizza al calentarla el día después, utiliza una sartén a fuego medio/bajo, o si usas microondas, agrega un vaso de agua o papel absorbente para evitar que la masa quede blanda. (Cuerpo de la noticia)",
+        "gold": "Recalentarla en la sartén."
+    },
+    {
+        "prediction": "Resumen: Informes sugieren que modelos profesionales de iPhone podrían obtener pantallas sin bordes en 2025, mientras que los modelos estándar seguirían esperando hasta 2027 o más tarde.",
+        "gold": "Un iPhone con la pantalla como único elemento frontal."
+    },
+    {
+        "prediction": "El anuncio confirma la fecha de lanzamiento de Final Fantasy XVI en The Game Awards 2022 y revela que será disponible el 22 de junio.",
+        "gold": "22 de junio."
+    },
+    {
+        "prediction": "Resumen: Djokovic aprendió a jugar al máximo en momentos cruciales del partido después de vencer a Federer en Wimbledon 2019. (Cita: \"Eso realmente te dice que aún puedes ganar si eliges en qué momentos del partido estás alcanzando tu punto máximo y jugando lo mejor que puedes cuando es necesario\")",
+        "gold": "Debe jugar \"lo mejor que pueda cuando es necesario\" para así gestionar mejor sus esfuerzos."
+    },
+    {
+        "prediction": "Resumen: Científicos descubrieron el contenido del estómago de un joven tiranosaurio conservado en su fósil, revelando que su última comida consistió en las patas traseras de dos crías de dinosaurios pequeños. Este hallazgo es significativo ya que proporciona la primera evidencia directa de que los tiranosaurios jóvenes tenían dietas diferentes a los adultos. Los investigadores sugieren que esto explica la escasa diversidad de dinosaurios medianos en el registro fósil durante el período Cretácico.",
+        "gold": "Las patas traseras de dos crías de dinosaurio."
+    },
+    {
+        "prediction": "Resumen: Periodista Glòria Serra expresó inicialmente enfado por reportaje sobre Daniel Sancho, pero luego el equipo obtuvo valiosos testimonios, y ella cuestionó la cobertura de su programa en algunos casos.",
+        "gold": "Cuando le dijeron que harían un reportaje de Daniel Sancho, le parecía que ya había demasiados periodistas hablando del tema y que no tenían nada nuevo que explicar. "
+    },
+    {
+        "prediction": "Resumen: La elección del mejor asistente de voz entre Alexa, Siri y Google Assistant depende de preferencias, necesidades y dispositivos existentes, ya que cada uno tiene sus fortalezas y debilidades.",
+        "gold": "No dicen cual es el mejor, depende de tus preferencias. "
+    },
+    {
+        "prediction": "Titular sensacionalista sugiere controversia en Twitter sobre Pedro Sánchez y Yolanda Díaz, pero en realidad generó comentarios humorísticos y opiniones sobre sus interacciones.",
+        "gold": "Mantuvieron una conversación de unos segundos que captaron las cámaras en directo."
+    },
+    {
+        "prediction": "Resumen: Savinho y Vitor Roque no convocados en selección brasileña sub-19, evitando ausencias para Barcelona y Girona; Endrick y Vinícius Tobias viajan con Real Madrid convocados.",
+        "gold": "Savinho y a Vitor Roque no van convocados al preolímpico, Endrick y Vinicius Tobias sí."
+    },
+    {
+        "prediction": "Resumen: Para cobrar premios en la Lotería de Navidad 2023, solo BBVA y CaixaBank autorizadas por Selae aceptan, sin necesidad de ser cliente. Premios menores se cobran en cualquier administración de lotería, mientras que mayores deben ser cobrados en estas dos entidades o en delegaciones de Loterías y Apuestas del Estado. El plazo máximo de cobro es de 3 meses.",
+        "gold": "Si el premio es mayor de 2.000 euros sólo se podrá cobrar en 2 bancos: BBVA y CaixaBank (antes eran 8 bancos)"
+    },
+    {
+        "prediction": "La serie de ciencia ficción 'El problema de los tres cuerpos', creada por los productores de 'Juego de Tronos', tendrá su estreno el 21 de marzo de 2024 en Netflix. (Respuesta extraída del texto original)",
+        "gold": "21 de marzo de 2024."
+    },
+    {
+        "prediction": "Resumen: Comparando el valor de las plantillas de América y Barcelona, el FC Barcelona es aproximadamente 10 veces más valioso con 862 millones de euros contra los 87 millones de América, según Transfermarkt.",
+        "gold": "De acuerdo con Transfermarkt, El FC Barcelona tendría un valor aproximado de 862 millones de euros, mientras que el América apenas valdría 87 millones."
+    },
+    {
+        "prediction": "Influencer Marta Díaz fue trasladada de urgencia a España tras sufrir un accidente en Los Alpes y lesiona el ligamento cruzado.",
+        "gold": "Se ha roto el ligamento cruzado."
+    },
+    {
+        "prediction": "Josep Pedrerol se despede del periodista Borja Mazarro, un miembro conocido durante más de una década en \"El Chiringuito de Jugones\", y agradece la oportunidad dada en su crecimiento profesional.",
+        "gold": "Se ha ido el periodista Borja Mazarro."
+    },
+    {
+        "prediction": "El titular trata sobre el tercer premio del Sorteo Extraordinario de la Lotería de Navidad 2022, que es el número 31938, y su ganador recibirá 48,000 euros por décimo después de retenciones fiscales.",
+        "gold": "50.000€ por décimo."
+    },
+    {
+        "prediction": "Resumen: Ter Stegen necesita cirugía debido a problemas de espalda y estará ausente dos meses, mientras Barcelona considera vender a Lewandowski para ahorrar dinero en la próxima temporada. (Cita del cuerpo de la noticia: \"El jugador del primer equipo Marc-André Ter Stegen se someterá esta semana a una intervención quirúrgica\" y \"En ese plan entraría Robert Lewandowski...\")",
+        "gold": "Robert Lewandowski, según El Chiringuito de Jugones."
+    },
+    {
+        "prediction": "Resumen: Cerro Porteño es el club paraguayo más popular en redes sociales en octubre, superando a su rival tradicional Olimpia. (Cuerpo de noticia)",
+        "gold": "Cerro Porteño."
+    },
+    {
+        "prediction": "Resumen: En First Dates, David, un hombre de 44 años, hizo un comentario insustancial sobre frutas y una casposa analogía, mientras incomodaba a Charo con sus comentarios rancios, y no tuvieron química para una segunda cita.",
+        "gold": "\"Plátanos, melones y fresas... las fresas sobran. Si tenemos los melones y tenemos el plátano, pues vamos a hacer una macedonia. ¿A qué estamos esperando? A conocernos mejor, no caernos bien y perdernos la oportunidad de disfrutar el momento. Es que es absurdo\"."
+    },
+    {
+        "prediction": "Resumen: Franco-israelí Mia Schem, secuestrada por Hamas, cree que su captor no la violó durante 54 días de cautiverio en Gaza porque su esposa y hijos estaban presentes en la habitación. Ella describió su experiencia como oscura, constante vigilancia y psicológico-emocionalmente agobiante.",
+        "gold": "“Su esposa estaba fuera de la habitación con los niños”."
+    },
+    {
+        "prediction": "Resumen: En la Lotería de Navidad 2023, número 88.008 obtuvo 'El Gordo' de 4 millones de euros, distribuido en 23 provincias; sin embargo, el ganador deberá pagar un 20% en impuestos, recibiendo finalmente 328.000 euros. (Cita del texto original)",
+        "gold": "Ha caído en Albacete, Alicante, Almería, Asturias, Badajoz, Islas Baleares, Barcelona, Cáceres, Cádiz, Ciudad Real, A Coruña, Granada, Huelva, Jaén, Madrid, Málaga, Murcia, Ourense, Pontevedra, Sevilla, Tarragona, Teruel, Toledo, Valencia, Valladolid y Vizcaya."
+    },
+    {
+        "prediction": "Resumen: Durante un programa, presentador sorprendió a Marhuenda con auriculares, preguntando qué hacía mientras otros rieron y sugerían que escuchaba podcasts.",
+        "gold": "Estaba escuchando algo por los auriculares del móvil."
+    },
+    {
+        "prediction": "Titular: Mercadona presenta un nuevo licor crema de fresa con tequila, popular en fines de semana gracias a su sabor espectacular y mejoras en la calidad de sus bebidas alcohólicas.",
+        "gold": "El licor crema de fresa con tequila. Se trata de un artículo publicitario. "
+    },
+    {
+        "prediction": "Resumen: El debilitamiento del vórtice polar en España puede provocar un cambio significativo en el clima, con un calentamiento súbito estratosférico y posible ruptura del vórtice polar, resultando en un mal tiempo después de un fenómeno poco común y temperaturas por debajo del normal.",
+        "gold": "El aire muy frío confinado en el Ártico puede ser liberado hacia latitudes más baja."
+    },
+    {
+        "prediction": "Resumen: Isabel Preysler, junto con Malú, Pedro Alonso, Begoña Vargas y otros invitados, aparecerán en El Hormiguero del 11 al 14 de diciembre.",
+        "gold": "Malú, Pedro Alonso, Begoña Vargas e Isabel Preysler."
+    },
+    {
+        "prediction": "Resumen: Asturias tiene el mayor consumo diario de televisión en España con 222 minutos por persona, seguido de Castilla-La Mancha y Galicia. El promedio nacional de consumo televisivo es de 3 horas y 8 minutos diarios por persona. Mujeres y personas mayores de 64 años tienen el mayor consumo de televisión. Además, el uso de televisores para actividades diferentes a la televisión convencional ha aumentado en 23%.",
+        "gold": "222 minutos por persona y día."
+    },
+    {
+        "prediction": "Resumen: Edu Aguirre habló sobre sus vacaciones con Cristiano Ronaldo en Mallorca y su entrenamiento en compañía del jugador, enfrentándose a una pregunta incómoda de Lorena Castell en el programa Zapeando.",
+        "gold": "Le preguntó si había entrenado sus adominales con Cristiano Ronaldo y respondió que sí."
+    },
+    {
+        "prediction": "Resumen: Un usuario de X contrarrestó a un norteamericano que calificó España de \"improductivo\" con una cita que enfatiza problemas estadounidenses como tiroteos escolares, fentanilo y altas facturas médicas.",
+        "gold": "\"Sorry, I don't speak tiroteo escolar, muerte por fentanilo and arruinado por facturas médicas\"."
+    },
+    {
+        "prediction": "The single-sentence summary revealing the truth behind the sensationalist headline is: \"While OnlyFans thrives in Spain, it hides a dark side related to cybersecurity risks and financial scams as it attracts users for its unique approach to adult content and exclusivity.\" (En España, el éxito de OnlyFans oculta problemas de seguridad cibernética y estafas relacionadas con su atractivo por su enfoque único en el contenido adulto y exclusividad.)",
+        "gold": "El 75% de los encuestados alguna vez se sintieron estafados al pagar por contenido en la plataforma."
+    },
+    {
+        "prediction": "Titular sensacionalista: Mercadona confirma retiro de producto vegano a pocos días de Navidad. Respuesta: Mercadona confirmó el retiro de los bocados marinados veganos, pero existe la posibilidad de que regresen si demanda persiste; alternativamente, se puede preparar tofu con marinado en casa.",
+        "gold": "Bocados marinados."
+    },
+    {
+        "prediction": "Resumen: En su reunión en el Congreso, Pedro Sánchez regaló el libro \"Volver a dónde\" de Antonio Muñoz Molina a Alberto Núñez Feijóo, mientras discuten posibles acuerdos sobre renovación del Consejo General del Poder Judicial, financiación autonómica y reforma del artículo 49 de la Constitución. Feijóo también propuso otros temas para discusión, incluyendo la Ley de Amnistía y la independencia judicial. Ambos han expresado interés en renovar el Consejo General del Poder Judicial.",
+        "gold": "Volver a dónde de Antonio Muñoz Molina."
+    },
+    {
+        "prediction": "Resumen: Un truco en WhatsApp permite silenciar notificaciones de un contacto sin que se dé cuenta, evitando recibir notificaciones de sus mensajes sin bloquearlo oficialmente.",
+        "gold": "Silenciar al contacto."
+    },
+    {
+        "prediction": "Resumen: Un estudio realizado por la William Paterson University en EE.UU. determinó que el berro es el alimento más saludable del mundo debido a su alta densidad de nutrientes, ayuda para perder peso, fortalece el sistema inmunológico y es rico en fibra. Otras verduras como la col china, acelgas y remolacha también son muy beneficiosas. Incluir verduras en la dieta puede prevenir enfermedades cardiovasculares, mejorar la piel y proporcionar energía.",
+        "gold": "El berro."
+    },
+    {
+        "prediction": "Resumen: Algunos conductores de Uber utilizan las luces antiniebla para indicar disponibilidad y captar clientes de manera ilegal en la calle.",
+        "gold": "Cuando un conductor de Uber enciende las luces antiniebla significa que está libre, hay algunas personas que lo saben y, en ese momento, lo paran para cogerlo, sin hacerlo desde la aplicación."
+    },
+    {
+        "prediction": "Resumen: Gabriel Rufián, diputado de ERC, generó controversia en Twitter al comparar banderas de países de América Latina con \"invasión\" y la bandera de España con \"descubrimiento\" en referencia al Día de la Fiesta Nacional.",
+        "gold": "Ha puesto la palabra “invasión” al lado de las banderas de los países que forman América Latina y, justo al lado de la bandera de España, ha puesto “descubrimiento”."
+    },
+    {
+        "prediction": "Resumen: Una española en Alemania comparte su experiencia en una cena de empresa donde se eligió comida, regalos feos se intercambiaron, y un juego con dados determinó quien recibía el regalo.",
+        "gold": "Se cena en un kebab o en un italiano. Se hace un amigo invisible con cosas feas y que usan que tengan en casa. "
+    },
+    {
+        "prediction": "Neuroscience and artificial intelligence agree that the song \"Don't Stop Me Now\" by Queen is the happiest and most uplifting song of all time. A study by neuroscientist Dr. Jacob Jolij identified common traits in happy and optimistic songs, such as fast rhythms (140-150 BPM), major keys, and positive lyrics. His top 10 list includes songs like \"Walking on Sunshine,\" \"I Will Survive,\" and \"Girls Just Wanna Have Fun.\" ChatGPT also mentioned five songs, with three coinciding with Dr. Jolij's list. The shared first place between both sources was \"Don't Stop Me Now\" by Queen.",
+        "gold": "'Don't Stop Me Now', de Queen."
+    },
+    {
+        "prediction": "Resumen: Audiencia Nacional reconoce que opositores pueden solicitar exámenes anteriores de oposiciones, permitiendo un mejor preparación sin vulnerar principios de mérito y capacidad.",
+        "gold": "Acceder a exámenes anteriores de la oposición que se están preparando."
+    },
+    {
+        "prediction": "Resumen: Ciencia ficción alemana-suiza \"Tides\" explora un futuro postapocalíptico donde humanidad huye al espacio debido a la radiación cósmica y la Tierra está desolada durante 200 años, mientras que un grupo de astronautas investiga la posibilidad de vida allí. Director Tim Fehlbaum prioriza realismo en el rodaje, y la película obtiene críticas mixtas pero destaca por sacar lo mejor de sus limitados recursos.",
+        "gold": "Tides."
+    },
+    {
+        "prediction": "Esta noticia critica la adaptación cinematográfica de \"Alien Conquest\" de la obra maestra de ciencia ficción \"La guerra de los mundos\", afirmando que es peor que la versión de Steven Spielberg en 2005. La productora The Asylum, conocida por sus bajos presupuestos y copias de grandes franquicias, realizó esta versión.",
+        "gold": "Alien Conquest."
+    },
+    {
+        "prediction": "Este titular sensacionalista revela que un estudio basado en datos de Google muestra que España es el único país europeo en buscar más frecuentemente el trabajo de influencer en líneas con algunos países de América Latina.",
+        "gold": "En España, el trabajo más buscado es el de influencer."
+    },
+    {
+        "prediction": "Resumen: Muchos compradores de la marca china de automóviles MG se arrepienten debido a problemas en la postventa y servicio de reparaciones, con largos plazos de espera y falta de atención, a pesar de sus atractivos precios.",
+        "gold": "El servicio postventa, los propietarios de MG esperan durante semanas sin coche, sin otro de sustitución y sin plazos de solución."
+    },
+    {
+        "prediction": "Resumen: Descubierto que dejar reposar completamente descargadas las baterías de metal-litio puede revitalizar el litio inactivo, mejorar su rendimiento y prolongar su vida útil, sin necesidad de cambios costosos ni en el equipo, materiales o procesos de producción. Esto podría mejorar la autonomía de los vehículos eléctricos hasta los 1.000 km, siempre que se superen otros obstáculos como la formación de dendritas.",
+        "gold": "La batería de metal-litio puede duplicar la capacidad de las baterías de iones de litio, pero se enfrenta a la formación de dendritas que reducen la vida útil."
+    },
+    {
+        "prediction": "Resumen: Por primera vez en GTA, \"GTA 6\" incorporará el minijuego de pesca junto con otras actividades adicionales como golf, baloncesto, tenis y el sistema Eagle Eye de \"Red Dead Redemption 2\". (Cuerpo de la noticia)",
+        "gold": "Se podrá pescar."
+    },
+    {
+        "prediction": "Resumen: En 2024, más de la mitad de los pilotos de Fórmula 1 acaban contrato, lo que podría provocar un movimiento significativo en la alineación de equipos durante la temporada. Max Verstappen es uno de los pocos pilotos con un acuerdo hasta 2028, mientras que otros, como Sergio Pérez, Carlos Sainz, y Esteban Ocon, tienen contratos que expiran en 2024. La mayoría de los equipos tendrán que reestructurar sus alineaciones en los próximos meses, especialmente teniendo en cuenta los nuevos reglamentos que entrarán en vigor en 2026.",
+        "gold": "Sergio Pérez, Carlos Sainz,  Fernando Alonso,  Esteban Ocon, Alexander Albon, Logan Sargeant, Yuki Tsunoda, Daniel Ricciardo,  Valtteri Bottas, Guanyu Zhou,  Kevin Magnussen y Nico Hulkenberg."
+    },
+    {
+        "prediction": "Resumen: Aston Martin anuncia al periódico británico Financial Times como nuevo patrocinador, uniéndose dos marcas británicas para expandirse y promover eventos en Fórmula 1.",
+        "gold": "Financial Times."
+    },
+    {
+        "prediction": "Titular sensacionalista: Influencer Lola Lolita revela cero relaciones sexuales en los últimos 30 días sobre sorprendido Broncano | Marca. (Resumen basado en el contenido de la noticia)",
+        "gold": "No ha mantenido relaciones sexuales en los últimos 30 días y explicó que está más interesada en otros aspectos de su vida."
+    },
+    {
+        "prediction": "Netflix invierte 500 millones de dólares anuales en transmitir WWE shows exclusivamente en ciertos territorios a partir de 2025, con posibilidad de extender el acuerdo a 10 años más. (Resumen extraído de noticia)",
+        "gold": "Ser el hogar exclusivo de 'Monday Night Raw' y otros programas de WWE por 10 años."
+    },
+    {
+        "prediction": "Resumen: Policía Local de Albacete ayudó a una mujer de 70 años embriagada en la calle Miguel Servet y la escoltó a su casa. (Cuerpo de la noticia)",
+        "gold": "Debido al estado de embriaguez en el que se encontraba."
+    },
+    {
+        "prediction": "Titular sensacionalista: Vicepresidenta Yolanda Díaz revela su obsesión con realizar sentadillas antes de cada discurso. (Resumen de una frase: Yolanda Díaz, ministra de trabajo, practica sentadillas como ritual antes de los mítines para descargar estrés.)",
+        "gold": "Hace sentadillas antes de cada mitin como ritual deportivo para descargar estrés."
+    },
+    {
+        "prediction": "Mbappé quiere mantener discreción sobre su fichaje por el Real Madrid y pidió a amigos como Achraf Hackimi no revelar información. (Respondiendo a la sugerencia del título, Mbappé busca mantener su decisión en secreto y pide a amigos cercanos que lo respeten.)",
+        "gold": "Pidió discreción."
+    },
+    {
+        "prediction": "Esta noticia cuenta cómo Robe Iniesta declinó colaborar con C. Tangana en su disco, explicando que el estribillo era un poco cursi, sorprendiendo a los seguidores en redes sociales.",
+        "gold": "\"Me dijo que estaba bien, pero que el estribillo era un poco cursi\""
+    },
+    {
+        "prediction": "The new Hacendado turkey breast from Mercadona has caused a sensation among embutido lovers and has been analyzed by a nutrition expert. The product contains 92% turkey meat, providing more protein and less fat, making it a healthier and more nutritious option. Priced at only 2.55 euros per 200 grams, it has attracted attention from experts. Mario Ortiz, a nutrition expert with over 300,000 Instagram followers, considers it a \"very interesting\" option for a balanced diet due to its high-quality protein and low fat content. The turkey breast can be consumed at any time of the day and combined with various foods to create nutritious and delicious meals. Overall, this new product has revolutionized the market with its high turkey meat content, low fat, and affordable price.",
+        "gold": "La pechuga de pavo de Hacendado de Mercadona está elaborado con un 92% de carne de pavo."
+    },
+    {
+        "prediction": "Resumen: Durante el funeral, Sebastián Piñera Morel, hijo del expresidente, mostró una regla y un lápiz rojo para recordar el legado de su padre, quien los utilizaba mientras trabajaba.",
+        "gold": "Porque su padre siempre utilizaba estos objetos al trabajar."
+    },
+    {
+        "prediction": "En Palworld, un jugador descubrió una interesante función tras 100 horas de juego: reparar todo el equipamiento pulsando la tecla R en el ordenador. Esta técnica aún no está clara para el mando de consola, por lo que es momento de probar. La comunidad ha compartido esta información y otras ideas que pueden mejorar la experiencia de juego.",
+        "gold": "Puede reparar su equipo pulsando R mientras usa el banco de reparación."
+    },
+    {
+        "prediction": "Título: El reparto de Los 4 Fantásticos es revelado para estrenar en 2025 con Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach y Joseph Quinn en los papeles.",
+        "gold": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach y Joseph Quinn."
+    },
+    {
+        "prediction": "Resumen: Secar bien las papas después de cortarlas para lograr crujientes papas fritas. (Antoine de Saint-Exupéry, proceso de preparación detallado)",
+        "gold": "Asegurarse de secar bien las papas después de cortarlas."
+    },
+    {
+        "prediction": "Resumen: Después de 40 años de desarrollo y vender sus viñedos para financiarlo, Francis Ford Coppola finalmente estrena su película distópica Megalopolis en 2024, que trata sobre la reconstrucción de una Nueva York devastada.",
+        "gold": "Megalopolis."
+    },
+    {
+        "prediction": "Resumen: La película de Yorgos Lanthimos, \"Alps\", explora la idea de sustituir a los fallecidos para evitar dolor a los queridos, reflejando la interpretación y el proceso de pérdida a través de un enfoque absurdo y negro, convirtiéndose en una obra de culto para Emma Stone y otros admiradores del director.",
+        "gold": "Alps."
+    },
+    {
+        "prediction": "Resumen: Controversia surge entre VTubers y sus agencias debido a un controvertido despido de Selen Tatsuki, quien acusó a NIJISANJI de maltrato laboral y ambiente tóxico, mientras la agencia justificó su decisión por supuestas violaciones de contrato y declaraciones engañosas. Este incidente ha provocado reacciones de otros VTubers y críticas a la compañía.",
+        "gold": "Selen Tatsuki."
+    },
+    {
+        "prediction": "Resumen: Vox presenta una moción en el Parlamento de Navarra para instar al Gobierno de Navarra a publicar información que ya ha estado haciendo desde 2012, en cumplimiento de la Ley Foral de Transparencia.",
+        "gold": "Publicación en el Portal de Transparencia de todos los elementos que deben ser dominio público."
+    },
+    {
+        "prediction": "Influencer comparte costo de 248 euros entre dos personas en un famoso Ibiza Beach Club por comida y bebidas. (Cita de contexto: \"En este plano, la influencer tuvo que pagar por las sillas unos 30 euros por cabeza y 20 euros por cada cóctel, lo que suma un monto de 124 euros por persona.\")",
+        "gold": " 248 euros entre dos personas."
+    },
+    {
+        "prediction": "La decisión de retirar a Fran Rivera de 'Espejo Público' en Antena 3 se debió a que \"ya no aportaba mucho contenido al programa\", aunque algunos no estaban de acuerdo, y su aparición en Telecinco también contribuyó, siendo llamada \"la gota que colmó el vaso\".",
+        "gold": "Se refieren a Fran Rivera, el motivo fue aparecer en Telecinco. "
+    },
+    {
+        "prediction": "La Guardia Civil de Albacete intervino 23,032 unidades de pirotécnicos en establecimientos no autorizados durante una campaña de control navideño, presentando 15 denuncias por infracciones administrativas en la ley de seguridad ciudadana.",
+        "gold": "Vendían Atículos pirotécnicos sin la correspondiente autorización."
+    },
+    {
+        "prediction": "AMD revela frecuencias de núcleos Zen 4c en Ryzen 3 8300G y Ryzen 5 8500G, explicando una media de frecuencia efectiva promedio para ambos tipos de núcleos.",
+        "gold": " Para el Ryzen 3 8300G: Base Clock de 3,2 GHz y Boost de 3,6Ghz. Para el 8500G: Base Clock de 3,2Ghz y Boost de 3,7Ghz. "
+    },
+    {
+        "prediction": "Después de que Claudia Fernández declinara, Paola Bianco, conocida conductora de televisión y hija de un letrista carnavalero, reemplazará como copresentadora en el Carnaval 2024.",
+        "gold": "Paola Bianco."
+    },
+    {
+        "prediction": "Resumen: Aumento gradual de duración del día hacia 25 horas en aproximadamente 200 millones de años debido a variaciones en la velocidad de la Tierra y su alejamiento del Sol.",
+        "gold": "En 200 millones de años."
+    },
+    {
+        "prediction": "Resumen: Un hombre bebido chocó contra un coche aparcado en Albacete, violando la seguridad vial y enfrentándose a consecuencias legales y materiales.",
+        "gold": "El conductor que triplicaba la tasa máxima de alcohol permitida chocó contra un coche que estaba estacionado."
+    },
+    {
+        "prediction": "Resumen: Aunque se rumoreaba el lanzamiento de Windows 12 en 2024, expertos sugieren que en realidad se espera la versión 24H2 de Windows 11 con un enfoque en inteligencia artificial. Esta actualización de Windows 11 se lanzará en septiembre de 2024, posiblemente reemplazando la instalación existente. Microsoft puede optar por renombrar esta actualización como Windows 12, pero es poco probable. La principal novedad será la integración de la IA en todas las funciones del sistema operativo.",
+        "gold": "Se podría retrasar hasta 2025."
+    }
+]
