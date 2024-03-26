@@ -1,0 +1,90 @@
+#Training args
+model_name_or_path: openchat/openchat-3.5-0106
+torch_dtype: bfloat16
+use_lora: false
+quantization: null
+quantization_inference: null
+gradient_checkpointing: true
+force_auto_device_map: false
+use_flash_attention: true
+deepspeed: configs/deepspeed_configs/deepspeed_zero3.json
+generation_config: generation_config.json
+stop_words:
+  - "<|end_of_turn|>"
+  - "GPT4 Correct User:"
+  - "GPT4 Correct Assistant:"
+  - "</s>"
+  - "<s>"
+  - "\\n"
+  
+# dataset arguments
+train_datasets: 
+  - train
+validation_datasets: 
+  - validation
+test_datasets: 
+  - test
+
+max_seq_length: 8192
+generation_max_length: 8192
+prompt_loss_weight: 0.0
+
+# checkpoint settings
+output_dir: results/finetune/openchat-3.5-0106
+overwrite_output_dir: true
+load_best_model_at_end: false
+metric_for_best_model: eval_validation_predictions_validation/rouge
+greater_is_better: true
+save_strategy: "epoch"
+save_only_model: true
+save_total_limit: 1
+
+# evaluation
+do_train: true
+do_eval: true
+do_predict: false
+evaluation_strategy: "epoch"
+predict_with_generate: true
+evaluate_all_checkpoints: true
+
+# batch size: 2 batch size * 16 gradaccum * 2 GPUs = 64
+per_device_train_batch_size: 2
+per_device_eval_batch_size: 2
+gradient_accumulation_steps: 8
+generation_num_beams: 1
+
+# optimizer settings
+optim: adamw_torch_fused
+learning_rate: 0.000005
+weight_decay: 0.0
+num_train_epochs: 3
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+adam_beta1: 0.9
+adam_beta2: 0.95
+adam_epsilon: 1e-12
+
+# lora settings
+lora_r: 128
+lora_alpha: 256
+lora_dropout: 0.05
+lora_target_modules:
+  - all
+
+# reporting
+logging_strategy: steps
+logging_first_step: true
+logging_steps: 5
+report_to: wandb
+run_name: "openchat-3.5-0106"
+disable_tqdm: false
+
+# hub settings
+push_to_hub: false
+resume_from_checkpoint: false
+
+# performance
+bf16: true
+fp16: false
+torch_compile: false
+ddp_find_unused_parameters: false
