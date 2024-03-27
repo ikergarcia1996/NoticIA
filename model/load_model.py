@@ -408,10 +408,8 @@ def load_model(
         model_type = "causal"
 
     #  Load the model weights
-    # Flash attention 2 was added to HuggingFace transformers very recently. Let's add it as kwargs to the load function
-    # so if it is set to False, we can load the model in older versions of transformers.
     if use_flash_attention:
-        kwargs = {"use_flash_attention_2": True}
+        kwargs = {"attn_implementation": "flash_attention_2"}
         logging.info("Loading the model with flash attention 2")
     else:
         kwargs = {}
