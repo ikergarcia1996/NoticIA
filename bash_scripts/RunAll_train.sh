@@ -28,7 +28,7 @@ torchrun --standalone --master_port 37231 --nproc_per_node=4 run.py configs/conf
 torchrun --standalone --master_port 37231 --nproc_per_node=4 run.py configs/configs_finetune/gemma-2b-it_Test.yaml
 torchrun --standalone --master_port 37231 --nproc_per_node=4 run.py configs/configs_finetune/Nous-Hermes-2-SOLAR-10.7B.yaml
 torchrun --standalone --master_port 37231 --nproc_per_node=4 run.py configs/configs_finetune/Nous-Hermes-2-SOLAR-10.7B_Test.yaml
-torchrun --standalone --master_port 37231 --nproc_per_node=4 run.py configs/configs_finetune/openchat-3.5-0106_Test.yaml
+torchrun --standalone --master_port 37231 --nproc_per_node=4 run.py configs/configs_finetune/openchat-3.5-0106.yaml
 torchrun --standalone --master_port 37231 --nproc_per_node=4 run.py configs/configs_finetune/openchat-3.5-0106_Test.yaml
 
 
