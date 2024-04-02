@@ -62,6 +62,7 @@ def train_clickbait(
         fsdp_training=len(training_args.fsdp) > 1
         or training_args.fsdp_config is not None,
         max_memory_MB=model_args.max_memory_MB,
+        rope_scaling_factor=model_args.rope_scaling_factor,
     )
 
     logging.info("Loading datasets...")
@@ -242,6 +243,9 @@ def inference_clickbait(
         trust_remote_code=model_args.trust_remote_code,
         use_flash_attention=model_args.use_flash_attention,
         max_memory_MB=model_args.max_memory_MB,
+        rope_scaling_factor=None
+        if training_args.do_train
+        else model_args.rope_scaling_factor,  # If we already scaled the model, we don't need to scale it again
     )
 
     trainer = ClickbaitTrainer(

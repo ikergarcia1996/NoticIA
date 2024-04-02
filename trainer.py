@@ -542,6 +542,8 @@ class ClickbaitTrainer(Seq2SeqTrainer):
 
             print(json.dump(outputs, f, ensure_ascii=False, indent=4))
 
+        self.accelerator.wait_for_everyone()
+
         task_scores = evaluate_predictions(
             predictions_file=output_filename,
         )
@@ -996,9 +998,9 @@ class ClickbaitTrainer(Seq2SeqTrainer):
         if all_losses is not None:
             metrics[f"{metric_key_prefix}_loss"] = all_losses.mean().item()
         if hasattr(self, "jit_compilation_time"):
-            metrics[f"{metric_key_prefix}_jit_compilation_time"] = (
-                self.jit_compilation_time
-            )
+            metrics[
+                f"{metric_key_prefix}_jit_compilation_time"
+            ] = self.jit_compilation_time
 
         # Prefix all keys with metric_key_prefix + '_'
         for key in list(metrics.keys()):

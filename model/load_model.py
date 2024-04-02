@@ -171,6 +171,7 @@ def load_model(
     use_better_transformer: bool = False,
     fsdp_training: bool = False,
     max_memory_MB: Optional[int] = None,
+    rope_scaling_factor: Optional[float] = None,
 ) -> Tuple[PreTrainedModel, PreTrainedTokenizerBase]:
     """
     Load any Decoder model for training.
@@ -234,6 +235,8 @@ def load_model(
             an error: ValueError: Must flatten tensors with uniform dtype but got torch.float16 and torch.float32
         max_memory_MB (`int`):
             Free memory per gpu in MB. Used to compute the device map when force_auto_device_map is set to True.
+        rope_scaling_factor (`Optional[float]`, optional):
+            The scaling factor for ROPE scaling, if not provide, we won't use ROPE scaling. Defaults to None.
     Raises:
         `ValueError`:
             is raised when `int8_quantization=True` but `use_lora=False`.
@@ -247,8 +250,8 @@ def load_model(
 
     if isinstance(quantization, str):
         quantization = int(quantization)
-    assert (
-        (quantization is None) or (quantization in [4, 8])
+    assert (quantization is None) or (
+        quantization in [4, 8]
     ), f"Quantization must be 4 or 8, or None for FP32/FP16 training. You passed: {quantization}"
 
     if not inference and quantization is not None and not use_lora:
@@ -304,6 +307,11 @@ def load_model(
     )
 
     # Load the model config
+    config_kwargs = {}
+    if rope_scaling_factor is not None:
+        rope_scaling = {"type": "dynamic", "factor": rope_scaling_factor}
+        logging.info(f"ROPE scaling config: {rope_scaling_factor}")
+        config_kwargs["rope_scaling"] = rope_scaling
 
     if use_lora:
         config = AutoConfig.from_pretrained(
@@ -311,11 +319,13 @@ def load_model(
             trust_remote_code=trust_remote_code,
             pretraining_tp=1,  # Fix mat1 and mat2 shapes cannot be multiplied  error with LLaMA-2
             # See https://github.com/huggingface/transformers/pull/24906
+            **config_kwargs,
         )
     else:
         config = AutoConfig.from_pretrained(
             model_weights_name_or_path,
             trust_remote_code=trust_remote_code,
+            **config_kwargs,
         )
 
     # Load the model tokenizer

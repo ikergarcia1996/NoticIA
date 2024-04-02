@@ -183,6 +183,14 @@ class ModelArguments:
         metadata={"help": "Stop words to end generation. Defaults to None."},
     )
 
+    rope_scaling_factor: Optional[float] = field(
+        default=None,
+        metadata={
+            "help": "The scaling factor for the ROPE scaling. We will use dymanic scaling. "
+            "If None we wont use ROPE scaling."
+        },
+    )
+
 
 @dataclass
 class DataTrainingArguments:
