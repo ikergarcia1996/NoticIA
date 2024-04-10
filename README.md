@@ -24,7 +24,7 @@ We present NoticIA, a dataset consisting of 850 Spanish news articles featuring 
 - 📖 Paper: [Coming soon]()
 - 💻 Dataset: [https://hf.co/datasets/Iker/NoticIA](https://huggingface.co/datasets/Iker/NoticIA)
 - 🤖 Pre Trained Models [https://huggingface.co/collections/Iker/noticia-and-clickbaitfighter-65fdb2f80c34d7c063d3e48e](https://huggingface.co/collections/Iker/noticia-and-clickbaitfighter-65fdb2f80c34d7c063d3e48e)
-- 🔌 Online Demo: [https://iker-clickbaitfighter.hf.space/](https://iker-clickbaitfighter.hf.space/)
+- 🔌 Online Demo: [https://huggingface.co/spaces/somosnlp/NoticIA-demo](https://huggingface.co/spaces/somosnlp/NoticIA-demo)
 
 
 For example, given the following headline and web text:
