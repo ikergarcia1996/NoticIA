@@ -23,9 +23,9 @@ We present NoticIA, a dataset consisting of 850 Spanish news articles featuring 
 
 - 📖 Paper: [Coming soon]()
 - 💻 Dataset: [https://hf.co/datasets/Iker/NoticIA](https://huggingface.co/datasets/Iker/NoticIA)
-- 💻 Dataset (Instruction format): [https://huggingface.co/datasets/somosnlp/NoticIA-it](https://huggingface.co/datasets/somosnlp/NoticIA-it)
-- 🤖 Pre Trained Models [https://huggingface.co/collections/Iker/noticia-and-clickbaitfighter-65fdb2f80c34d7c063d3e48e](https://huggingface.co/collections/Iker/noticia-and-clickbaitfighter-65fdb2f80c34d7c063d3e48e)
-- 🔌 Online Demo: [https://huggingface.co/spaces/somosnlp/NoticIA-demo](https://huggingface.co/spaces/somosnlp/NoticIA-demo)
+- 💻 Dataset (Instruction format): [https://hf.co/datasets/somosnlp/NoticIA-it](https://huggingface.co/datasets/somosnlp/NoticIA-it)
+- 🤖 Pre Trained Models [https://hf.co/collections/Iker/noticia-and-clickbaitfighter-65fdb2f80c34d7c063d3e48e](https://huggingface.co/collections/Iker/noticia-and-clickbaitfighter-65fdb2f80c34d7c063d3e48e)
+- 🔌 Online Demo: [https://hf.co/spaces/somosnlp/NoticIA-demo](https://huggingface.co/spaces/somosnlp/NoticIA-demo)
 
 
 For example, given the following headline and web text:
