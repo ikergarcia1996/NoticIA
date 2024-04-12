@@ -392,12 +392,13 @@ python3 run.py path_to_your_config/Nous-Hermes-2-SOLAR-10.7B.yaml
 ```
 # Citation
 
-Paper coming soon, for now, you can use this citation:
 ```bittext
-@misc{garcia-ferrero-etal-2024-noticia,
-    title = "NoticIA: A Clickbait Article Summarization Dataset in Spanish.",
-    author = "Garc{\'\i}a-Ferrero, Iker  and Altuna, Bego{\~n}a",
-    year = "2024",
-    url = "https://github.com/ikergarcia1996/NoticIA"
+@misc{noticia2024,
+      title={NoticIA: A Clickbait Article Summarization Dataset in Spanish}, 
+      author={Iker García-Ferrero and Begoña Altuna},
+      year={2024},
+      eprint={2404.07611},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
-
+```
