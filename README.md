@@ -21,7 +21,7 @@
 We present NoticIA, a dataset consisting of 850 Spanish news articles featuring prominent clickbait headlines, each paired with high-quality, single-sentence generative summarizations written by humans.
 
 
-- 📖 Paper: [Coming soon]()
+- 📖 Paper: [NoticIA: A Clickbait Article Summarization Dataset in Spanish](https://arxiv.org/abs/2404.07611)
 - 💻 Dataset: [https://hf.co/datasets/Iker/NoticIA](https://huggingface.co/datasets/Iker/NoticIA)
 - 💻 Dataset (Instruction format): [https://hf.co/datasets/somosnlp/NoticIA-it](https://huggingface.co/datasets/somosnlp/NoticIA-it)
 - 🤖 Pre Trained Models [https://hf.co/collections/Iker/noticia-and-clickbaitfighter-65fdb2f80c34d7c063d3e48e](https://huggingface.co/collections/Iker/noticia-and-clickbaitfighter-65fdb2f80c34d7c063d3e48e)
