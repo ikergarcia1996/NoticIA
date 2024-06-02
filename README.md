@@ -9,7 +9,7 @@
     <a href="https://github.com/ikergarcia1996/NoticIA/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/ikergarcia1996/NoticIA"></a>
 <a href="https://huggingface.co/datasets/Iker/NoticIA"><img alt="Public Dataset" src="https://img.shields.io/badge/🤗HuggingFace-Dataset-green"></a>
     <a href="https://visitor-badge.laobi.icu/badge?page_id=ikergarcia1996.noticia"><img src="https://visitor-badge.laobi.icu/badge?page_id=ikergarcia1996.noticia" alt="visitor badge"/></a>
-    <a href=""><img alt="Paper" src="https://img.shields.io/badge/📖-Paper-orange"></a>
+    <a href="https://arxiv.org/abs/2404.07611"><img alt="Paper" src="https://img.shields.io/badge/📖-Paper-orange"></a>
 <br>
      <a href="http://www.hitz.eus/"><img src="https://img.shields.io/badge/HiTZ-Basque%20Center%20for%20Language%20Technology-blueviolet"></a>
     <a href="http://www.ixa.eus/?language=en"><img src="https://img.shields.io/badge/IXA-%20NLP%20Group-ff3333"></a>
